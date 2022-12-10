@@ -1,0 +1,391 @@
+
+Card_Large_sk1208027_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 30, 2173
+  size: 1130, 1806
+  orig: 1130, 1806
+  offset: 0, 0
+  index: -1
+armL
+  rotate: true
+  xy: 2131, 757
+  size: 630, 316
+  orig: 630, 316
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: true
+  xy: 1963, 3395
+  size: 568, 453
+  orig: 570, 456
+  offset: 1, 2
+  index: -1
+body
+  rotate: false
+  xy: 2144, 1993
+  size: 372, 522
+  orig: 372, 522
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 994, 47
+  size: 326, 429
+  orig: 326, 429
+  offset: 0, 0
+  index: -1
+eff
+  rotate: true
+  xy: 1190, 757
+  size: 1157, 911
+  orig: 1307, 925
+  offset: 149, 1
+  index: -1
+eff_l
+  rotate: false
+  xy: 30, 757
+  size: 1130, 1386
+  orig: 1130, 1806
+  offset: 0, 420
+  index: -1
+eff_l2
+  rotate: true
+  xy: 1190, 2849
+  size: 1130, 743
+  orig: 1130, 1806
+  offset: 0, 1063
+  index: -1
+eff_l3
+  rotate: true
+  xy: 1963, 2643
+  size: 722, 442
+  orig: 751, 482
+  offset: 8, 20
+  index: -1
+eff_stoneB1
+  rotate: false
+  xy: 148, 58
+  size: 29, 24
+  orig: 31, 27
+  offset: 1, 2
+  index: -1
+eff_stoneB10
+  rotate: false
+  xy: 263, 112
+  size: 20, 25
+  orig: 22, 28
+  offset: 1, 1
+  index: -1
+eff_stoneB11
+  rotate: false
+  xy: 964, 44
+  size: 68, 59
+  orig: 70, 61
+  offset: 1, 1
+  index: -1
+eff_stoneB12
+  rotate: false
+  xy: 2160, 88
+  size: 78, 76
+  orig: 83, 79
+  offset: 3, 1
+  index: -1
+eff_stoneB13
+  rotate: false
+  xy: 1401, 2649
+  size: 30, 29
+  orig: 34, 34
+  offset: 2, 3
+  index: -1
+eff_stoneB14
+  rotate: false
+  xy: 1524, 2644
+  size: 23, 25
+  orig: 26, 28
+  offset: 1, 1
+  index: -1
+eff_stoneB15
+  rotate: false
+  xy: 30, 182
+  size: 43, 38
+  orig: 45, 40
+  offset: 1, 1
+  index: -1
+eff_stoneB16
+  rotate: false
+  xy: 1461, 2645
+  size: 33, 24
+  orig: 35, 26
+  offset: 1, 1
+  index: -1
+eff_stoneB17
+  rotate: false
+  xy: 1805, 2651
+  size: 81, 58
+  orig: 83, 60
+  offset: 1, 1
+  index: -1
+eff_stoneB18
+  rotate: false
+  xy: 1337, 2650
+  size: 34, 28
+  orig: 38, 32
+  offset: 2, 2
+  index: -1
+eff_stoneB19
+  rotate: false
+  xy: 148, 112
+  size: 30, 26
+  orig: 34, 30
+  offset: 2, 2
+  index: -1
+eff_stoneB2
+  rotate: false
+  xy: 30, 250
+  size: 57, 54
+  orig: 59, 58
+  offset: 1, 2
+  index: -1
+eff_stoneB20
+  rotate: false
+  xy: 1908, 2741
+  size: 24, 23
+  orig: 28, 27
+  offset: 2, 2
+  index: -1
+eff_stoneB3
+  rotate: false
+  xy: 2424, 105
+  size: 47, 59
+  orig: 49, 61
+  offset: 1, 1
+  index: -1
+eff_stoneB4
+  rotate: false
+  xy: 1190, 2646
+  size: 46, 35
+  orig: 48, 37
+  offset: 1, 1
+  index: -1
+eff_stoneB5
+  rotate: false
+  xy: 1578, 2647
+  size: 42, 44
+  orig: 45, 47
+  offset: 1, 2
+  index: -1
+eff_stoneB6
+  rotate: false
+  xy: 1266, 2650
+  size: 41, 31
+  orig: 44, 33
+  offset: 1, 1
+  index: -1
+eff_stoneB7
+  rotate: false
+  xy: 89, 52
+  size: 29, 30
+  orig: 31, 33
+  offset: 1, 1
+  index: -1
+eff_stoneB8
+  rotate: false
+  xy: 2268, 78
+  size: 44, 86
+  orig: 46, 88
+  offset: 1, 1
+  index: -1
+eff_stoneB9
+  rotate: false
+  xy: 2342, 97
+  size: 52, 67
+  orig: 54, 69
+  offset: 1, 1
+  index: -1
+eff_stoneF1
+  rotate: false
+  xy: 1578, 2721
+  size: 80, 98
+  orig: 82, 101
+  offset: 1, 2
+  index: -1
+eff_stoneF10
+  rotate: false
+  xy: 1688, 2730
+  size: 79, 89
+  orig: 83, 93
+  offset: 2, 3
+  index: -1
+eff_stoneF11
+  rotate: false
+  xy: 1190, 2711
+  size: 140, 108
+  orig: 143, 110
+  offset: 2, 1
+  index: -1
+eff_stoneF12
+  rotate: false
+  xy: 1688, 2645
+  size: 87, 55
+  orig: 89, 58
+  offset: 1, 2
+  index: -1
+eff_stoneF13
+  rotate: false
+  xy: 30, 334
+  size: 65, 52
+  orig: 67, 56
+  offset: 1, 2
+  index: -1
+eff_stoneF14
+  rotate: false
+  xy: 1908, 2794
+  size: 24, 25
+  orig: 27, 28
+  offset: 1, 1
+  index: -1
+eff_stoneF15
+  rotate: false
+  xy: 30, 112
+  size: 33, 40
+  orig: 37, 44
+  offset: 2, 2
+  index: -1
+eff_stoneF16
+  rotate: false
+  xy: 2362, 292
+  size: 43, 58
+  orig: 46, 62
+  offset: 2, 2
+  index: -1
+eff_stoneF17
+  rotate: false
+  xy: 207, 58
+  size: 26, 24
+  orig: 31, 28
+  offset: 2, 2
+  index: -1
+eff_stoneF2
+  rotate: false
+  xy: 30, 46
+  size: 29, 36
+  orig: 31, 39
+  offset: 1, 2
+  index: -1
+eff_stoneF3
+  rotate: false
+  xy: 2268, 194
+  size: 64, 85
+  orig: 67, 87
+  offset: 2, 1
+  index: -1
+eff_stoneF4
+  rotate: false
+  xy: 1271, 50
+  size: 49, 59
+  orig: 52, 62
+  offset: 1, 2
+  index: -1
+eff_stoneF5
+  rotate: false
+  xy: 1797, 2739
+  size: 81, 80
+  orig: 83, 82
+  offset: 1, 1
+  index: -1
+eff_stoneF6
+  rotate: false
+  xy: 2424, 194
+  size: 42, 68
+  orig: 44, 70
+  offset: 1, 1
+  index: -1
+eff_stoneF7
+  rotate: false
+  xy: 1360, 2708
+  size: 87, 111
+  orig: 89, 113
+  offset: 1, 1
+  index: -1
+eff_stoneF8
+  rotate: false
+  xy: 1477, 2699
+  size: 71, 120
+  orig: 73, 122
+  offset: 1, 1
+  index: -1
+eff_stoneF9
+  rotate: false
+  xy: 1672, 56
+  size: 196, 251
+  orig: 199, 253
+  offset: 1, 1
+  index: -1
+face
+  rotate: false
+  xy: 1350, 39
+  size: 292, 307
+  orig: 293, 309
+  offset: 0, 1
+  index: -1
+hair_back
+  rotate: false
+  xy: 1898, 78
+  size: 231, 229
+  orig: 231, 229
+  offset: 0, 0
+  index: -1
+hair_back2
+  rotate: true
+  xy: 2131, 1417
+  size: 546, 402
+  orig: 546, 402
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 30, 30
+  size: 697, 904
+  orig: 697, 904
+  offset: 0, 0
+  index: -1
+hair_side
+  rotate: false
+  xy: 1669, 337
+  size: 506, 390
+  orig: 506, 390
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1207, 418
+  size: 432, 309
+  orig: 432, 309
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 1190, 1944
+  size: 669, 924
+  orig: 744, 1002
+  offset: 75, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 532, 379
+  size: 539, 348
+  orig: 539, 348
+  offset: 0, 0
+  index: -1
+skirt_back
+  rotate: false
+  xy: 1766, 337
+  size: 337, 190
+  orig: 337, 190
+  offset: 0, 0
+  index: -1

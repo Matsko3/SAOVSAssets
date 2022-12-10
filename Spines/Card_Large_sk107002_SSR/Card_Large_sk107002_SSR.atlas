@@ -1,0 +1,376 @@
+
+Card_Large_sk107002_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 30, 2080
+  size: 1286, 1971
+  orig: 1286, 1971
+  offset: 0, 0
+  index: -1
+EFF1
+  rotate: true
+  xy: 1346, 2536
+  size: 1515, 1485
+  orig: 1520, 1488
+  offset: 5, 0
+  index: -1
+EFF2
+  rotate: false
+  xy: 2861, 1634
+  size: 808, 1182
+  orig: 910, 1190
+  offset: 98, 4
+  index: -1
+EFF3
+  rotate: false
+  xy: 2861, 2846
+  size: 887, 1205
+  orig: 903, 1218
+  offset: 8, 7
+  index: -1
+EFbackA
+  rotate: true
+  xy: 3332, 808
+  size: 796, 455
+  orig: 819, 474
+  offset: 14, 15
+  index: -1
+EFbackA_light
+  rotate: true
+  xy: 2056, 741
+  size: 791, 456
+  orig: 813, 469
+  offset: 15, 9
+  index: -1
+EFbackA_light2
+  rotate: false
+  xy: 580, 467
+  size: 765, 425
+  orig: 813, 462
+  offset: 36, 32
+  index: -1
+EFbackB
+  rotate: false
+  xy: 3817, 794
+  size: 205, 172
+  orig: 245, 218
+  offset: 10, 11
+  index: -1
+EFbackB_light
+  rotate: false
+  xy: 30, 1271
+  size: 205, 136
+  orig: 239, 207
+  offset: 6, 15
+  index: -1
+EFbackB_light2
+  rotate: false
+  xy: 3680, 589
+  size: 195, 175
+  orig: 235, 216
+  offset: 11, 7
+  index: -1
+EFbackC
+  rotate: false
+  xy: 3385, 152
+  size: 180, 127
+  orig: 202, 159
+  offset: 9, 10
+  index: -1
+EFbackC_light
+  rotate: false
+  xy: 3595, 161
+  size: 180, 118
+  orig: 196, 141
+  offset: 8, 14
+  index: -1
+EFbackC_light2
+  rotate: false
+  xy: 3778, 2854
+  size: 181, 103
+  orig: 196, 123
+  offset: 7, 4
+  index: -1
+EFbackD
+  rotate: false
+  xy: 30, 202
+  size: 480, 311
+  orig: 491, 328
+  offset: 7, 12
+  index: -1
+EFbackD_light
+  rotate: false
+  xy: 1375, 183
+  size: 472, 303
+  orig: 486, 326
+  offset: 8, 20
+  index: -1
+EFbackD_light2
+  rotate: true
+  xy: 3699, 2372
+  size: 444, 310
+  orig: 460, 326
+  offset: 11, 14
+  index: -1
+EFbackE
+  rotate: false
+  xy: 2349, 54
+  size: 568, 240
+  orig: 593, 264
+  offset: 21, 18
+  index: -1
+EFbackE_light
+  rotate: false
+  xy: 540, 179
+  size: 568, 258
+  orig: 590, 263
+  offset: 18, 2
+  index: -1
+EFbackE_light2
+  rotate: true
+  xy: 3778, 3558
+  size: 493, 254
+  orig: 589, 263
+  offset: 88, 6
+  index: -1
+EFbackF
+  rotate: false
+  xy: 1178, 1573
+  size: 114, 165
+  orig: 132, 184
+  offset: 13, 16
+  index: -1
+EFbackF_light
+  rotate: false
+  xy: 2718, 2335
+  size: 108, 171
+  orig: 125, 181
+  offset: 10, 7
+  index: -1
+EFbackF_light2
+  rotate: false
+  xy: 2718, 2197
+  size: 92, 108
+  orig: 116, 130
+  offset: 10, 13
+  index: -1
+EFbackG
+  rotate: false
+  xy: 2542, 663
+  size: 688, 392
+  orig: 750, 576
+  offset: 58, 180
+  index: -1
+EFbackG_light
+  rotate: false
+  xy: 2589, 1085
+  size: 713, 519
+  orig: 737, 525
+  offset: 21, 2
+  index: -1
+EFbackG_light2
+  rotate: true
+  xy: 30, 543
+  size: 688, 520
+  orig: 737, 526
+  offset: 44, 2
+  index: -1
+Hi
+  rotate: 270
+  xy: 1346, 1217
+  size: 1289, 1342
+  orig: 1289, 1342
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 2947, 268
+  size: 192, 148
+  orig: 193, 149
+  offset: 1, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 1877, 224
+  size: 192, 147
+  orig: 193, 149
+  offset: 1, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 3169, 147
+  size: 186, 132
+  orig: 193, 149
+  offset: 1, 15
+  index: -1
+hair
+  rotate: 180
+  xy: 1527, 242
+  size: 793, 879
+  orig: 849, 879
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 3699, 1691
+  size: 288, 327
+  orig: 289, 328
+  offset: 1, 1
+  index: -1
+mant
+  rotate: true
+  xy: 30, 1261
+  size: 789, 842
+  orig: 789, 842
+  offset: 0, 0
+  index: -1
+mant2
+  rotate: 270
+  xy: 656, 922
+  size: 789, 842
+  orig: 789, 842
+  offset: 0, 0
+  index: -1
+shoulder
+  rotate: false
+  xy: 2349, 324
+  size: 529, 309
+  orig: 530, 311
+  offset: 1, 2
+  index: -1
+tama_1
+  rotate: false
+  xy: 3778, 2987
+  size: 249, 221
+  orig: 273, 240
+  offset: 6, 5
+  index: -1
+tama_10
+  rotate: false
+  xy: 3260, 309
+  size: 390, 469
+  orig: 409, 489
+  offset: 4, 3
+  index: -1
+tama_11
+  rotate: false
+  xy: 3778, 3238
+  size: 209, 290
+  orig: 235, 311
+  offset: 6, 1
+  index: -1
+tama_12
+  rotate: false
+  xy: 30, 1437
+  size: 206, 232
+  orig: 234, 284
+  offset: 6, 31
+  index: -1
+tama_13
+  rotate: false
+  xy: 3680, 373
+  size: 169, 186
+  orig: 190, 204
+  offset: 8, 4
+  index: -1
+tama_14
+  rotate: false
+  xy: 905, 1768
+  size: 395, 282
+  orig: 416, 296
+  offset: 10, 5
+  index: -1
+tama_15
+  rotate: false
+  xy: 3879, 382
+  size: 171, 177
+  orig: 198, 196
+  offset: 14, 5
+  index: -1
+tama_16
+  rotate: false
+  xy: 3817, 996
+  size: 185, 193
+  orig: 206, 218
+  offset: 7, 8
+  index: -1
+tama_17
+  rotate: false
+  xy: 3879, 168
+  size: 151, 184
+  orig: 173, 224
+  offset: 8, 9
+  index: -1
+tama_2
+  rotate: false
+  xy: 2908, 446
+  size: 171, 187
+  orig: 196, 200
+  offset: 9, 5
+  index: -1
+tama_3
+  rotate: false
+  xy: 3699, 2048
+  size: 322, 294
+  orig: 347, 356
+  offset: 10, 24
+  index: -1
+tama_4
+  rotate: false
+  xy: 1138, 260
+  size: 166, 177
+  orig: 189, 196
+  offset: 8, 4
+  index: -1
+tama_6
+  rotate: false
+  xy: 3905, 602
+  size: 143, 162
+  orig: 172, 187
+  offset: 7, 3
+  index: -1
+tama_7
+  rotate: false
+  xy: 3817, 1219
+  size: 183, 201
+  orig: 212, 226
+  offset: 7, 3
+  index: -1
+tama_8
+  rotate: false
+  xy: 1543, 580
+  size: 176, 194
+  orig: 197, 212
+  offset: 9, 4
+  index: -1
+tama_9
+  rotate: false
+  xy: 3817, 1450
+  size: 196, 211
+  orig: 216, 231
+  offset: 7, 6
+  index: -1
+
+Card_Large_sk107002_SSR2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hair_sideL
+  rotate: true
+  xy: 30, 31
+  size: 849, 420
+  orig: 849, 420
+  offset: 0, 0
+  index: -1
+hair_sideR
+  rotate: 180
+  xy: 30, 497
+  size: 550, 1004
+  orig: 550, 1004
+  offset: 0, 0
+  index: -1
