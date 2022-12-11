@@ -5,4 +5,4 @@
 
 / This repo contains datamined data for the game SAO: Variant Showdown, if Bandai wants this repo to be taken down they can always email me.
 
-*if you have any questions or suggestions for what's to add you can talk in https://discord.gg/wc5PCqxPvt , you can also DM me Matsuko#3600
+* if you have any questions or suggestions for what's to add you can talk in https://discord.gg/wc5PCqxPvt , you can also DM me Matsuko#3600
