@@ -1,0 +1,292 @@
+
+T_CharaEvolveImagepl06_001_01.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 30, 2973
+  size: 1930, 1090
+  orig: 1930, 1090
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: true
+  xy: 3093, 1864
+  size: 1224, 470
+  orig: 1226, 472
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 2864, 3118
+  size: 1130, 945
+  orig: 1130, 945
+  offset: 0, 0
+  index: -1
+earL
+  rotate: false
+  xy: 1990, 3814
+  size: 69, 52
+  orig: 71, 54
+  offset: 1, 1
+  index: -1
+effect_front
+  rotate: false
+  xy: 30, 1853
+  size: 1930, 1090
+  orig: 1932, 1092
+  offset: 1, 1
+  index: -1
+eye1
+  rotate: false
+  xy: 3093, 3601
+  size: 146, 79
+  orig: 148, 81
+  offset: 1, 1
+  index: -1
+eye2
+  rotate: false
+  xy: 2696, 3984
+  size: 148, 79
+  orig: 150, 81
+  offset: 1, 1
+  index: -1
+eye3
+  rotate: false
+  xy: 3587, 3988
+  size: 143, 75
+  orig: 145, 77
+  offset: 1, 1
+  index: -1
+leg
+  rotate: false
+  xy: 3001, 164
+  size: 637, 563
+  orig: 639, 565
+  offset: 1, 1
+  index: -1
+mizu2
+  rotate: true
+  xy: 3668, 164
+  size: 503, 395
+  orig: 617, 401
+  offset: 4, 5
+  index: -1
+mizu4
+  rotate: true
+  xy: 30, 159
+  size: 549, 870
+  orig: 560, 875
+  offset: 5, 3
+  index: -1
+mizu5
+  rotate: true
+  xy: 3593, 1853
+  size: 744, 382
+  orig: 756, 393
+  offset: 7, 6
+  index: -1
+mizu6
+  rotate: false
+  xy: 1987, 196
+  size: 984, 531
+  orig: 1061, 581
+  offset: 7, 42
+  index: -1
+mizu8
+  rotate: false
+  xy: 1990, 3896
+  size: 676, 167
+  orig: 687, 180
+  offset: 7, 6
+  index: -1
+shibuki4
+  rotate: false
+  xy: 2696, 3814
+  size: 58, 140
+  orig: 61, 145
+  offset: 1, 2
+  index: -1
+shibuki6
+  rotate: true
+  xy: 3850, 3626
+  size: 437, 209
+  orig: 442, 214
+  offset: 4, 1
+  index: -1
+shibuki7
+  rotate: false
+  xy: 3593, 2661
+  size: 376, 427
+  orig: 379, 430
+  offset: 2, 1
+  index: -1
+tubu1
+  rotate: true
+  xy: 1990, 1853
+  size: 1912, 1073
+  orig: 1916, 1077
+  offset: 1, 2
+  index: -1
+tubu3
+  rotate: false
+  xy: 1987, 757
+  size: 1920, 1066
+  orig: 1922, 1070
+  offset: 1, 2
+  index: -1
+tubu4
+  rotate: false
+  xy: 30, 738
+  size: 1927, 1085
+  orig: 1929, 1088
+  offset: 1, 2
+  index: -1
+tue_eff
+  rotate: false
+  xy: 930, 174
+  size: 892, 534
+  orig: 948, 571
+  offset: 26, 13
+  index: -1
+
+T_CharaEvolveImagepl06_001_012.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effback
+  rotate: false
+  xy: 30, 1851
+  size: 1499, 1146
+  orig: 1691, 1159
+  offset: 180, 9
+  index: -1
+effback_hair
+  rotate: false
+  xy: 2921, 2015
+  size: 870, 916
+  orig: 1749, 1046
+  offset: 0, 30
+  index: -1
+effback_hair_sideL
+  rotate: 180
+  xy: 2904, 1771
+  size: 724, 456
+  orig: 724, 456
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 3718, 2970
+  size: 316, 273
+  orig: 318, 275
+  offset: 1, 1
+  index: -1
+hair_back
+  rotate: false
+  xy: 1559, 1921
+  size: 1354, 1015
+  orig: 1354, 1015
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 1781, 1744
+  size: 532, 969
+  orig: 532, 969
+  offset: 0, 0
+  index: -1
+hair_sideL
+  rotate: 180
+  xy: 1019, 1646
+  size: 677, 425
+  orig: 677, 425
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 1982, 2963
+  size: 1706, 1103
+  orig: 1713, 1110
+  offset: 5, 6
+  index: -1
+mizu1
+  rotate: true
+  xy: 3658, 1832
+  size: 656, 408
+  orig: 665, 418
+  offset: 3, 5
+  index: -1
+mizu3
+  rotate: false
+  xy: 30, 1565
+  size: 293, 256
+  orig: 303, 267
+  offset: 5, 6
+  index: -1
+mizu7
+  rotate: false
+  xy: 2490, 2733
+  size: 273, 200
+  orig: 281, 208
+  offset: 4, 3
+  index: -1
+shibuki1
+  rotate: false
+  xy: 687, 1641
+  size: 205, 180
+  orig: 207, 182
+  offset: 1, 1
+  index: -1
+shibuki2
+  rotate: false
+  xy: 353, 1601
+  size: 304, 220
+  orig: 309, 225
+  offset: 4, 3
+  index: -1
+shibuki3
+  rotate: false
+  xy: 2784, 2131
+  size: 225, 234
+  orig: 228, 236
+  offset: 1, 1
+  index: -1
+shibuki5
+  rotate: false
+  xy: 3824, 2658
+  size: 202, 282
+  orig: 205, 287
+  offset: 2, 2
+  index: -1
+shibuki8
+  rotate: false
+  xy: 3718, 3674
+  size: 343, 392
+  orig: 348, 396
+  offset: 2, 2
+  index: -1
+shibuki9
+  rotate: false
+  xy: 3718, 3273
+  size: 283, 371
+  orig: 289, 374
+  offset: 1, 2
+  index: -1
+skirt_ura
+  rotate: true
+  xy: 2337, 1554
+  size: 456, 537
+  orig: 456, 537
+  offset: 0, 0
+  index: -1
+tubu2
+  rotate: false
+  xy: 30, 3027
+  size: 1922, 1039
+  orig: 1926, 1045
+  offset: 2, 4
+  index: -1
