@@ -1,0 +1,362 @@
+
+Card_Large_sk1202055_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2930, 2295
+  size: 1090, 1766
+  orig: 1092, 1768
+  offset: 1, 1
+  index: -1
+Leaf_01
+  rotate: false
+  xy: 3484, 378
+  size: 484, 500
+  orig: 514, 538
+  offset: 6, 26
+  index: -1
+Leaf_02
+  rotate: true
+  xy: 1122, 557
+  size: 129, 315
+  orig: 148, 334
+  offset: 9, 9
+  index: -1
+Leaf_06
+  rotate: true
+  xy: 1467, 542
+  size: 105, 90
+  orig: 132, 117
+  offset: 13, 14
+  index: -1
+Leaf_07
+  rotate: false
+  xy: 1122, 716
+  size: 315, 432
+  orig: 334, 448
+  offset: 8, 11
+  index: -1
+Leaf_08
+  rotate: false
+  xy: 1467, 677
+  size: 88, 142
+  orig: 112, 169
+  offset: 11, 13
+  index: -1
+Leaf_09
+  rotate: false
+  xy: 3107, 396
+  size: 287, 94
+  orig: 302, 115
+  offset: 8, 11
+  index: -1
+Leaf_12
+  rotate: false
+  xy: 3845, 104
+  size: 212, 244
+  orig: 228, 262
+  offset: 5, 8
+  index: -1
+band_01
+  rotate: false
+  xy: 2562, 384
+  size: 291, 106
+  orig: 291, 106
+  offset: 0, 0
+  index: -1
+band_03
+  rotate: true
+  xy: 2675, 65
+  size: 67, 124
+  orig: 67, 124
+  offset: 0, 0
+  index: -1
+band_04
+  rotate: false
+  xy: 2930, 2181
+  size: 190, 84
+  orig: 190, 84
+  offset: 0, 0
+  index: -1
+band_05
+  rotate: true
+  xy: 1467, 849
+  size: 299, 88
+  orig: 299, 98
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 3215, 1514
+  size: 794, 751
+  orig: 800, 773
+  offset: 5, 1
+  index: -1
+cloak_03
+  rotate: false
+  xy: 2832, 32
+  size: 190, 174
+  orig: 190, 174
+  offset: 0, 0
+  index: -1
+cloak_04
+  rotate: false
+  xy: 2473, 76
+  size: 604, 414
+  orig: 604, 414
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 3998, 806
+  size: 49, 72
+  orig: 51, 74
+  offset: 1, 1
+  index: -1
+ef_2_1
+  rotate: false
+  xy: 30, 1178
+  size: 1529, 925
+  orig: 1808, 2050
+  offset: 14, 202
+  index: -1
+ef_2_2
+  rotate: false
+  xy: 1647, 1211
+  size: 1538, 921
+  orig: 1835, 2050
+  offset: 32, 202
+  index: -1
+eye1
+  rotate: false
+  xy: 2268, 44
+  size: 144, 144
+  orig: 146, 146
+  offset: 1, 1
+  index: -1
+leg
+  rotate: true
+  xy: 30, 122
+  size: 1026, 1062
+  orig: 1028, 1064
+  offset: 1, 1
+  index: -1
+light2
+  rotate: false
+  xy: 1647, 2162
+  size: 1253, 1899
+  orig: 1261, 1903
+  offset: 4, 3
+  index: -1
+light3
+  rotate: true
+  xy: 1589, 520
+  size: 661, 1865
+  orig: 667, 1871
+  offset: 1, 5
+  index: -1
+light4
+  rotate: false
+  xy: 30, 2133
+  size: 1587, 1928
+  orig: 1589, 1930
+  offset: 1, 1
+  index: -1
+particle_04
+  rotate: true
+  xy: 3485, 107
+  size: 241, 330
+  orig: 243, 333
+  offset: 1, 1
+  index: -1
+particle_05
+  rotate: true
+  xy: 2001, 55
+  size: 133, 237
+  orig: 135, 239
+  offset: 1, 1
+  index: -1
+particle_06
+  rotate: false
+  xy: 3215, 1249
+  size: 226, 235
+  orig: 228, 237
+  offset: 1, 1
+  index: -1
+particle_07
+  rotate: false
+  xy: 1670, 60
+  size: 301, 430
+  orig: 303, 433
+  offset: 1, 1
+  index: -1
+particle_08
+  rotate: false
+  xy: 2001, 218
+  size: 442, 272
+  orig: 444, 275
+  offset: 1, 1
+  index: -1
+particle_09
+  rotate: false
+  xy: 3052, 51
+  size: 403, 297
+  orig: 406, 300
+  offset: 1, 1
+  index: -1
+sword_eff_02
+  rotate: false
+  xy: 1122, 34
+  size: 518, 456
+  orig: 1092, 1768
+  offset: 496, 795
+  index: -1
+sword_eff_04
+  rotate: true
+  xy: 3484, 908
+  size: 576, 547
+  orig: 625, 638
+  offset: 40, 47
+  index: -1
+
+Card_Large_sk1202055_SSR2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leaf_03
+  rotate: false
+  xy: 763, 3921
+  size: 122, 103
+  orig: 148, 130
+  offset: 14, 14
+  index: -1
+Leaf_04
+  rotate: true
+  xy: 689, 970
+  size: 214, 202
+  orig: 236, 230
+  offset: 13, 14
+  index: -1
+Leaf_05
+  rotate: false
+  xy: 714, 1991
+  size: 172, 214
+  orig: 199, 230
+  offset: 13, 3
+  index: -1
+Leaf_10
+  rotate: false
+  xy: 714, 2442
+  size: 109, 171
+  orig: 127, 190
+  offset: 7, 11
+  index: -1
+Leaf_11
+  rotate: false
+  xy: 331, 300
+  size: 292, 227
+  orig: 311, 249
+  offset: 11, 11
+  index: -1
+armor_01
+  rotate: 270
+  xy: 342, 557
+  size: 410, 379
+  orig: 410, 379
+  offset: 0, 0
+  index: -1
+armor_02
+  rotate: 270
+  xy: 667, 1267
+  size: 281, 258
+  orig: 281, 258
+  offset: 0, 0
+  index: -1
+band_02
+  rotate: false
+  xy: 715, 677
+  size: 150, 178
+  orig: 150, 178
+  offset: 0, 0
+  index: -1
+cloak_01
+  rotate: 270
+  xy: 30, 693
+  size: 544, 546
+  orig: 544, 546
+  offset: 0, 0
+  index: -1
+cloak_02
+  rotate: true
+  xy: 30, 1073
+  size: 836, 676
+  orig: 836, 676
+  offset: 0, 0
+  index: -1
+ef_1_1
+  rotate: false
+  xy: 321, 104
+  size: 366, 166
+  orig: 1092, 1768
+  offset: 369, 203
+  index: -1
+hair_back
+  rotate: 270
+  xy: 653, 32
+  size: 326, 233
+  orig: 381, 247
+  offset: 0, 14
+  index: -1
+hair_front
+  rotate: 270
+  xy: 571, 1641
+  size: 319, 290
+  orig: 319, 297
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 30, 2721
+  size: 703, 1303
+  orig: 708, 1312
+  offset: 4, 8
+  index: -1
+particle_01
+  rotate: true
+  xy: 30, 120
+  size: 246, 261
+  orig: 1092, 1768
+  offset: 545, 881
+  index: -1
+particle_02
+  rotate: false
+  xy: 714, 2235
+  size: 164, 177
+  orig: 1092, 1768
+  offset: 335, 1019
+  index: -1
+particle_03
+  rotate: true
+  xy: 653, 415
+  size: 232, 226
+  orig: 235, 228
+  offset: 1, 1
+  index: -1
+sword_eff_01
+  rotate: true
+  xy: 30, 1939
+  size: 752, 654
+  orig: 797, 697
+  offset: 20, 23
+  index: -1
+sword_eff_03
+  rotate: true
+  xy: 30, 396
+  size: 267, 271
+  orig: 1092, 1768
+  offset: 568, 910
+  index: -1

@@ -1,0 +1,319 @@
+
+T_CharaEvolveImagepl02_040_01.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm
+  rotate: false
+  xy: 2487, 1229
+  size: 410, 409
+  orig: 410, 409
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 244, 255
+  size: 335, 776
+  orig: 335, 776
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 3169, 1122
+  size: 157, 91
+  orig: 157, 91
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 3356, 1133
+  size: 161, 80
+  orig: 161, 80
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 3679, 1157
+  size: 143, 56
+  orig: 143, 56
+  offset: 0, 0
+  index: -1
+hair_back2
+  rotate: false
+  xy: 99, 355
+  size: 113, 233
+  orig: 113, 233
+  offset: 0, 0
+  index: -1
+hair_back3
+  rotate: true
+  xy: 2927, 1101
+  size: 112, 212
+  orig: 112, 212
+  offset: 0, 0
+  index: -1
+hair_sideL1
+  rotate: false
+  xy: 64, 592
+  size: 149, 439
+  orig: 149, 439
+  offset: 0, 0
+  index: -1
+hair_sideL2
+  rotate: true
+  xy: 30, 126
+  size: 288, 313
+  orig: 288, 313
+  offset: 0, 0
+  index: -1
+hair_sideR_1
+  rotate: false
+  xy: 3848, 1077
+  size: 92, 136
+  orig: 92, 136
+  offset: 0, 0
+  index: -1
+kira1
+  rotate: false
+  xy: 3547, 1089
+  size: 102, 124
+  orig: 102, 124
+  offset: 0, 0
+  index: -1
+kira3
+  rotate: false
+  xy: 3974, 3955
+  size: 91, 111
+  orig: 91, 111
+  offset: 0, 0
+  index: -1
+kira4
+  rotate: false
+  xy: 3974, 3837
+  size: 72, 88
+  orig: 72, 88
+  offset: 0, 0
+  index: -1
+particle1
+  rotate: false
+  xy: 2286, 145
+  size: 1780, 888
+  orig: 1790, 890
+  offset: 9, 1
+  index: -1
+particle5
+  rotate: false
+  xy: 2927, 1243
+  size: 1139, 404
+  orig: 1143, 408
+  offset: 2, 2
+  index: -1
+particle6
+  rotate: false
+  xy: 609, 103
+  size: 1647, 928
+  orig: 1652, 931
+  offset: 2, 1
+  index: -1
+rain1
+  rotate: false
+  xy: 30, 2576
+  size: 2402, 1492
+  orig: 3365, 2716
+  offset: 670, 372
+  index: -1
+rain2
+  rotate: false
+  xy: 30, 1061
+  size: 2399, 1487
+  orig: 3365, 2716
+  offset: 666, 381
+  index: -1
+rain3
+  rotate: true
+  xy: 2458, 1668
+  size: 2399, 1487
+  orig: 3365, 2716
+  offset: 666, 381
+  index: -1
+
+T_CharaEvolveImagepl02_040_012.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2336, 427
+  size: 1930, 1089
+  orig: 1930, 1089
+  offset: 0, 0
+  index: -1
+Light_02
+  rotate: true
+  xy: 604, 1031
+  size: 1464, 1702
+  orig: 2276, 1702
+  offset: 796, 0
+  index: -1
+face
+  rotate: false
+  xy: 203, 1208
+  size: 230, 263
+  orig: 230, 263
+  offset: 0, 0
+  index: -1
+flare1
+  rotate: true
+  xy: 2336, 2387
+  size: 1634, 1638
+  orig: 2754, 1927
+  offset: 1098, 289
+  index: -1
+hair_front
+  rotate: false
+  xy: 276, 1867
+  size: 251, 241
+  orig: 251, 241
+  offset: 0, 0
+  index: -1
+hair_sideR
+  rotate: false
+  xy: 30, 1174
+  size: 279, 1023
+  orig: 279, 1023
+  offset: 0, 0
+  index: -1
+leaf
+  rotate: true
+  xy: 3455, 427
+  size: 791, 563
+  orig: 794, 570
+  offset: 2, 5
+  index: -1
+leg
+  rotate: false
+  xy: 1858, 724
+  size: 387, 276
+  orig: 387, 276
+  offset: 0, 0
+  index: -1
+particle2
+  rotate: false
+  xy: 30, 158
+  size: 1798, 846
+  orig: 1800, 848
+  offset: 1, 1
+  index: -1
+skirt
+  rotate: false
+  xy: 30, 2215
+  size: 464, 278
+  orig: 464, 278
+  offset: 0, 0
+  index: -1
+sunlight
+  rotate: false
+  xy: 30, 2524
+  size: 2276, 1495
+  orig: 2276, 1495
+  offset: 0, 0
+  index: -1
+
+T_CharaEvolveImagepl02_040_013.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: 270
+  xy: 3070, 1102
+  size: 994, 746
+  orig: 994, 746
+  offset: 0, 0
+  index: -1
+chara
+  rotate: true
+  xy: 1278, 575
+  size: 1642, 1082
+  orig: 1642, 1082
+  offset: 0, 0
+  index: -1
+flare2
+  rotate: true
+  xy: 2002, 1488
+  size: 941, 875
+  orig: 2387, 1495
+  offset: 17, 66
+  index: -1
+hair_back1
+  rotate: false
+  xy: 3070, 2961
+  size: 754, 1041
+  orig: 754, 1041
+  offset: 0, 0
+  index: -1
+hair_back4
+  rotate: false
+  xy: 3070, 31
+  size: 754, 1041
+  orig: 754, 1041
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 30, 1126
+  size: 1123, 1090
+  orig: 1174, 1092
+  offset: 37, 1
+  index: -1
+particle3
+  rotate: false
+  xy: 30, 2246
+  size: 1713, 813
+  orig: 1715, 815
+  offset: 1, 1
+  index: -1
+particle4
+  rotate: false
+  xy: 30, 3089
+  size: 1564, 913
+  orig: 1566, 915
+  offset: 1, 1
+  index: -1
+rain4
+  rotate: false
+  xy: 30, 316
+  size: 1678, 955
+  orig: 1678, 955
+  offset: 0, 0
+  index: -1
+sunlight1
+  rotate: false
+  xy: 2390, 224
+  size: 647, 1234
+  orig: 2276, 1495
+  offset: 1629, 261
+  index: -1
+sunlight2
+  rotate: 180
+  xy: 1624, 2673
+  size: 1140, 1330
+  orig: 2276, 1495
+  offset: 1136, 165
+  index: -1
+sunlight3
+  rotate: 180
+  xy: 2675, 2127
+  size: 1007, 877
+  orig: 2276, 1495
+  offset: 972, 618
+  index: -1
+sunlight4
+  rotate: false
+  xy: 2357, 3033
+  size: 895, 970
+  orig: 2276, 1495
+  offset: 737, 525
+  index: -1

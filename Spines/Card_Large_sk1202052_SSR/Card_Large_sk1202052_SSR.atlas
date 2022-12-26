@@ -1,0 +1,390 @@
+
+Card_Large_sk1202052_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef2
+  rotate: true
+  xy: 2404, 232
+  size: 2344, 1310
+  orig: 2346, 1375
+  offset: 1, 1
+  index: -1
+flare1
+  rotate: false
+  xy: 30, 2131
+  size: 2344, 1916
+  orig: 2346, 1918
+  offset: 1, 1
+  index: -1
+flare2
+  rotate: false
+  xy: 3744, 2284
+  size: 267, 267
+  orig: 299, 301
+  offset: 19, 23
+  index: -1
+flare5
+  rotate: false
+  xy: 2774, 2634
+  size: 282, 255
+  orig: 286, 259
+  offset: 3, 2
+  index: -1
+gr
+  rotate: false
+  xy: 30, 232
+  size: 2344, 1869
+  orig: 2346, 1911
+  offset: 1, 1
+  index: -1
+kira1
+  rotate: false
+  xy: 3744, 644
+  size: 127, 144
+  orig: 131, 148
+  offset: 2, 2
+  index: -1
+kira2
+  rotate: false
+  xy: 3066, 3999
+  size: 49, 48
+  orig: 52, 52
+  offset: 2, 2
+  index: -1
+kira3
+  rotate: false
+  xy: 3880, 224
+  size: 97, 96
+  orig: 101, 100
+  offset: 2, 2
+  index: -1
+kirito_hair_bang1
+  rotate: false
+  xy: 3744, 818
+  size: 162, 279
+  orig: 162, 279
+  offset: 0, 0
+  index: -1
+kirito_hair_bang2
+  rotate: true
+  xy: 3744, 1675
+  size: 302, 286
+  orig: 302, 286
+  offset: 0, 0
+  index: -1
+kirito_hair_parts
+  rotate: false
+  xy: 3939, 1450
+  size: 108, 197
+  orig: 108, 197
+  offset: 0, 0
+  index: -1
+kirito_hair_right
+  rotate: true
+  xy: 3744, 1127
+  size: 289, 279
+  orig: 289, 279
+  offset: 0, 0
+  index: -1
+kirito_haori
+  rotate: true
+  xy: 2416, 2581
+  size: 1466, 1612
+  orig: 1466, 1612
+  offset: 0, 0
+  index: -1
+kirito_himo
+  rotate: false
+  xy: 2404, 2633
+  size: 340, 314
+  orig: 342, 316
+  offset: 1, 1
+  index: -1
+kjirito_hair_left
+  rotate: false
+  xy: 3870, 798
+  size: 143, 290
+  orig: 143, 290
+  offset: 0, 0
+  index: -1
+particle1
+  rotate: false
+  xy: 2404, 3001
+  size: 29, 114
+  orig: 34, 119
+  offset: 2, 2
+  index: -1
+particle10
+  rotate: false
+  xy: 2404, 3652
+  size: 47, 123
+  orig: 205, 295
+  offset: 156, 104
+  index: -1
+particle11
+  rotate: false
+  xy: 3329, 3905
+  size: 53, 68
+  orig: 136, 194
+  offset: 80, 124
+  index: -1
+particle12
+  rotate: false
+  xy: 3011, 4024
+  size: 23, 23
+  orig: 27, 27
+  offset: 2, 2
+  index: -1
+particle13
+  rotate: false
+  xy: 3329, 4003
+  size: 198, 44
+  orig: 201, 48
+  offset: 1, 2
+  index: -1
+particle14
+  rotate: false
+  xy: 3557, 3973
+  size: 97, 74
+  orig: 101, 76
+  offset: 2, 1
+  index: -1
+particle15
+  rotate: false
+  xy: 3744, 477
+  size: 119, 137
+  orig: 122, 140
+  offset: 1, 1
+  index: -1
+particle16
+  rotate: false
+  xy: 3744, 188
+  size: 87, 82
+  orig: 168, 252
+  offset: 79, 15
+  index: -1
+particle17
+  rotate: false
+  xy: 3744, 1446
+  size: 165, 199
+  orig: 168, 201
+  offset: 1, 1
+  index: -1
+particle18
+  rotate: false
+  xy: 2481, 3740
+  size: 34, 35
+  orig: 40, 39
+  offset: 3, 2
+  index: -1
+particle19
+  rotate: false
+  xy: 3183, 3953
+  size: 116, 94
+  orig: 120, 98
+  offset: 3, 3
+  index: -1
+particle2
+  rotate: false
+  xy: 2761, 4001
+  size: 92, 46
+  orig: 97, 49
+  offset: 2, 1
+  index: -1
+particle3
+  rotate: false
+  xy: 2883, 4017
+  size: 98, 30
+  orig: 101, 34
+  offset: 2, 2
+  index: -1
+particle4
+  rotate: false
+  xy: 2404, 3598
+  size: 24, 24
+  orig: 28, 28
+  offset: 2, 2
+  index: -1
+particle5
+  rotate: false
+  xy: 2774, 2922
+  size: 41, 41
+  orig: 48, 47
+  offset: 4, 2
+  index: -1
+particle6
+  rotate: false
+  xy: 3744, 300
+  size: 106, 147
+  orig: 108, 150
+  offset: 1, 2
+  index: -1
+particle7
+  rotate: false
+  xy: 2590, 3870
+  size: 49, 49
+  orig: 294, 75
+  offset: 241, 22
+  index: -1
+particle8
+  rotate: false
+  xy: 2404, 3805
+  size: 156, 242
+  orig: 160, 245
+  offset: 3, 2
+  index: -1
+particle9
+  rotate: false
+  xy: 3412, 3933
+  size: 39, 40
+  orig: 101, 319
+  offset: 59, 2
+  index: -1
+rainbow1
+  rotate: false
+  xy: 3335, 2623
+  size: 102, 97
+  orig: 118, 111
+  offset: 8, 7
+  index: -1
+rainbow2
+  rotate: false
+  xy: 3880, 350
+  size: 102, 97
+  orig: 118, 112
+  offset: 8, 8
+  index: -1
+rainbow4
+  rotate: false
+  xy: 2590, 3949
+  size: 141, 98
+  orig: 155, 110
+  offset: 7, 6
+  index: -1
+rainbow5
+  rotate: false
+  xy: 3744, 2007
+  size: 247, 247
+  orig: 263, 265
+  offset: 8, 9
+  index: -1
+rainbow6
+  rotate: false
+  xy: 3086, 2644
+  size: 219, 162
+  orig: 236, 177
+  offset: 8, 7
+  index: -1
+
+Card_Large_sk1202052_SSR2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 30, 1594
+  size: 1264, 1915
+  orig: 1264, 1916
+  offset: 0, 1
+  index: -1
+ef1
+  rotate: false
+  xy: 30, 2888
+  size: 2344, 1172
+  orig: 2346, 1240
+  offset: 1, 1
+  index: -1
+ef4
+  rotate: true
+  xy: 2404, 2514
+  size: 1546, 1033
+  orig: 1577, 1074
+  offset: 15, 10
+  index: -1
+ef5
+  rotate: false
+  xy: 3467, 2534
+  size: 586, 752
+  orig: 666, 823
+  offset: 1, 1
+  index: -1
+eugeo_hand2
+  rotate: true
+  xy: 30, 974
+  size: 590, 1267
+  orig: 590, 1267
+  offset: 0, 0
+  index: -1
+eugeo_leg
+  rotate: false
+  xy: 1975, 1973
+  size: 1148, 511
+  orig: 1150, 513
+  offset: 1, 1
+  index: -1
+flare3
+  rotate: true
+  xy: 3153, 1785
+  size: 699, 697
+  orig: 706, 705
+  offset: 3, 4
+  index: -1
+flare4
+  rotate: false
+  xy: 3012, 938
+  size: 394, 393
+  orig: 400, 399
+  offset: 3, 3
+  index: -1
+kirito_face
+  rotate: false
+  xy: 30, 883
+  size: 361, 368
+  orig: 363, 370
+  offset: 1, 1
+  index: -1
+kirito_hair_back
+  rotate: 180
+  xy: 3619, 1316
+  size: 436, 439
+  orig: 436, 439
+  offset: 0, 0
+  index: -1
+kirito_hakamaura
+  rotate: true
+  xy: 2064, 1000
+  size: 417, 356
+  orig: 419, 358
+  offset: 1, 1
+  index: -1
+kirito_hand1
+  rotate: true
+  xy: 2452, 1165
+  size: 602, 1329
+  orig: 602, 1329
+  offset: 0, 0
+  index: -1
+kirito_hand2
+  rotate: true
+  xy: 1255, 846
+  size: 589, 779
+  orig: 589, 779
+  offset: 0, 0
+  index: -1
+kirito_kimono
+  rotate: true
+  xy: 1975, 1447
+  size: 496, 875
+  orig: 498, 877
+  offset: 1, 1
+  index: -1
+kirito_leg
+  rotate: true
+  xy: 3467, 3316
+  size: 744, 593
+  orig: 746, 595
+  offset: 1, 1
+  index: -1
