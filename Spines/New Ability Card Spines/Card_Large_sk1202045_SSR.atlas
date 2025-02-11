@@ -1,0 +1,132 @@
+
+Card_Large_sk1202045_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_L
+  rotate: false
+  xy: 1666, 1974
+  size: 1290, 1972
+  orig: 1290, 1972
+  offset: 0, 0
+  index: -1
+BG_cloud4
+  rotate: false
+  xy: 1515, 1799
+  size: 428, 145
+  orig: 429, 145
+  offset: 1, 0
+  index: -1
+BG_cloud5
+  rotate: false
+  xy: 892, 1858
+  size: 593, 224
+  orig: 595, 227
+  offset: 1, 3
+  index: -1
+BG_cloud6
+  rotate: false
+  xy: 1973, 1801
+  size: 413, 143
+  orig: 423, 161
+  offset: 8, 18
+  index: -1
+BG_ef_10
+  rotate: false
+  xy: 478, 1712
+  size: 384, 370
+  orig: 392, 377
+  offset: 2, 1
+  index: -1
+BG_ef_11
+  rotate: false
+  xy: 2694, 1747
+  size: 106, 197
+  orig: 108, 199
+  offset: 1, 1
+  index: -1
+BG_ef_12
+  rotate: false
+  xy: 2416, 1738
+  size: 248, 206
+  orig: 252, 209
+  offset: 2, 1
+  index: -1
+BG_ef_4
+  rotate: false
+  xy: 3536, 2109
+  size: 410, 466
+  orig: 414, 470
+  offset: 2, 2
+  index: -1
+BG_ef_8
+  rotate: false
+  xy: 30, 1725
+  size: 418, 357
+  orig: 421, 360
+  offset: 2, 2
+  index: -1
+BG_ef_9
+  rotate: false
+  xy: 2986, 2086
+  size: 520, 489
+  orig: 525, 577
+  offset: 2, 1
+  index: -1
+c_kiri_2
+  rotate: false
+  xy: 2986, 2605
+  size: 811, 1341
+  orig: 826, 1357
+  offset: 15, 16
+  index: -1
+c_ri
+  rotate: false
+  xy: 30, 2112
+  size: 1606, 1834
+  orig: 1628, 1849
+  offset: 0, 12
+  index: -1
+ef_maru1
+  rotate: false
+  xy: 892, 1754
+  size: 75, 74
+  orig: 79, 79
+  offset: 2, 2
+  index: -1
+ef_maru2
+  rotate: false
+  xy: 1097, 1758
+  size: 68, 70
+  orig: 72, 72
+  offset: 1, 1
+  index: -1
+ef_maru3
+  rotate: false
+  xy: 997, 1758
+  size: 70, 70
+  orig: 72, 72
+  offset: 1, 1
+  index: -1
+ef_maru4
+  rotate: false
+  xy: 1286, 1720
+  size: 28, 27
+  orig: 30, 31
+  offset: 1, 2
+  index: -1
+ef_maru5
+  rotate: false
+  xy: 1286, 1777
+  size: 51, 51
+  orig: 54, 54
+  offset: 2, 2
+  index: -1
+ri_kira
+  rotate: false
+  xy: 1195, 1768
+  size: 61, 60
+  orig: 65, 64
+  offset: 2, 2
+  index: -1

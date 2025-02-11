@@ -1,0 +1,222 @@
+
+T_CharaEvolveImagepl17_001_01.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 20, 2777
+  size: 2120, 1280
+  orig: 2122, 1282
+  offset: 1, 1
+  index: -1
+BGEF1
+  rotate: false
+  xy: 20, 1477
+  size: 2120, 1280
+  orig: 2122, 1282
+  offset: 1, 1
+  index: -1
+BGEF2
+  rotate: false
+  xy: 20, 177
+  size: 2059, 1280
+  orig: 2110, 1282
+  offset: 21, 1
+  index: -1
+BG_F
+  rotate: false
+  xy: 2653, 3686
+  size: 556, 371
+  orig: 561, 376
+  offset: 5, 4
+  index: -1
+c_brow
+  rotate: false
+  xy: 3024, 3622
+  size: 86, 44
+  orig: 88, 46
+  offset: 1, 1
+  index: -1
+c_earring
+  rotate: false
+  xy: 3229, 4013
+  size: 84, 44
+  orig: 84, 44
+  offset: 0, 0
+  index: -1
+c_eye1
+  rotate: false
+  xy: 2905, 3626
+  size: 99, 40
+  orig: 102, 43
+  offset: 1, 2
+  index: -1
+c_eye2
+  rotate: false
+  xy: 2779, 3617
+  size: 106, 49
+  orig: 108, 52
+  offset: 1, 1
+  index: -1
+c_eye3
+  rotate: false
+  xy: 2653, 3611
+  size: 106, 55
+  orig: 108, 57
+  offset: 1, 1
+  index: -1
+c_hairB1
+  rotate: false
+  xy: 3770, 32
+  size: 275, 204
+  orig: 275, 204
+  offset: 0, 0
+  index: -1
+c_hairB2
+  rotate: false
+  xy: 3413, 3053
+  size: 604, 292
+  orig: 604, 292
+  offset: 0, 0
+  index: -1
+c_hairF
+  rotate: false
+  xy: 2047, 45
+  size: 190, 147
+  orig: 190, 147
+  offset: 0, 0
+  index: -1
+c_hairS
+  rotate: false
+  xy: 3209, 3582
+  size: 160, 147
+  orig: 160, 147
+  offset: 0, 0
+  index: -1
+dust1
+  rotate: true
+  xy: 2160, 1477
+  size: 2084, 1233
+  orig: 2086, 1235
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 2099, 224
+  size: 1841, 1233
+  orig: 2009, 1235
+  offset: 167, 1
+  index: -1
+stone
+  rotate: false
+  xy: 2160, 3604
+  size: 473, 453
+  orig: 476, 467
+  offset: 1, 14
+  index: -1
+stone2
+  rotate: false
+  xy: 3413, 1477
+  size: 644, 829
+  orig: 657, 840
+  offset: 13, 0
+  index: -1
+stone2_2
+  rotate: false
+  xy: 3413, 2326
+  size: 518, 706
+  orig: 657, 840
+  offset: 3, 134
+  index: -1
+weapon1_2
+  rotate: false
+  xy: 3413, 3466
+  size: 505, 591
+  orig: 2122, 1282
+  offset: 17, 643
+  index: -1
+
+T_CharaEvolveImagepl17_001_012.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_body1
+  rotate: false
+  xy: 1339, 613
+  size: 1926, 1096
+  orig: 1926, 1096
+  offset: 0, 0
+  index: -1
+c_body2
+  rotate: false
+  xy: 998, 849
+  size: 700, 380
+  orig: 700, 380
+  offset: 0, 0
+  index: -1
+dust2
+  rotate: false
+  xy: 20, 2793
+  size: 2084, 1156
+  orig: 2086, 1158
+  offset: 1, 1
+  index: -1
+light1
+  rotate: true
+  xy: 2124, 2799
+  size: 1150, 1280
+  orig: 1180, 1282
+  offset: 1, 1
+  index: -1
+light2
+  rotate: true
+  xy: 2639, 1674
+  size: 1105, 1130
+  orig: 1185, 1199
+  offset: 1, 68
+  index: -1
+stone1_2
+  rotate: true
+  xy: 2834, 506
+  size: 421, 431
+  orig: 476, 467
+  offset: 25, 0
+  index: -1
+stone3
+  rotate: true
+  xy: 3285, 594
+  size: 1060, 664
+  orig: 1246, 819
+  offset: 1, 155
+  index: -1
+stone3_2
+  rotate: false
+  xy: 20, 881
+  size: 958, 819
+  orig: 1246, 819
+  offset: 288, 0
+  index: -1
+weapon1
+  rotate: true
+  xy: 20, 623
+  size: 238, 464
+  orig: 2122, 1282
+  offset: 456, 770
+  index: -1
+weapon2
+  rotate: false
+  xy: 20, 1720
+  size: 1299, 1053
+  orig: 1498, 1087
+  offset: 16, 0
+  index: -1
+weapon2_2
+  rotate: true
+  xy: 1339, 1729
+  size: 1044, 1280
+  orig: 1220, 1280
+  offset: 168, 0
+  index: -1

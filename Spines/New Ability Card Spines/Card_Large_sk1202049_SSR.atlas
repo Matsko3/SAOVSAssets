@@ -1,0 +1,349 @@
+
+Card_Large_sk1202049_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2760, 2300
+  size: 1100, 1766
+  orig: 1100, 1766
+  offset: 0, 0
+  index: -1
+cinon_02
+  rotate: true
+  xy: 30, 654
+  size: 204, 824
+  orig: 204, 1766
+  offset: 0, 192
+  index: -1
+fragment_01
+  rotate: false
+  xy: 3890, 2842
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+fragment_02
+  rotate: false
+  xy: 3954, 2889
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+fragment_03
+  rotate: false
+  xy: 4041, 3679
+  size: 24, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+fragment_04
+  rotate: false
+  xy: 4052, 2843
+  size: 14, 10
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+fragment_05
+  rotate: false
+  xy: 4047, 2926
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+fragment_06
+  rotate: false
+  xy: 3999, 2842
+  size: 10, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+fragment_07
+  rotate: false
+  xy: 3954, 2848
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+fragment_08
+  rotate: false
+  xy: 4011, 2880
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+kirito
+  rotate: true
+  xy: 30, 888
+  size: 1100, 1679
+  orig: 1100, 1679
+  offset: 0, 0
+  index: -1
+kirito_weapon
+  rotate: false
+  xy: 884, 654
+  size: 780, 204
+  orig: 784, 229
+  offset: 0, 21
+  index: -1
+light grain_01
+  rotate: true
+  xy: 30, 346
+  size: 278, 322
+  orig: 280, 324
+  offset: 1, 1
+  index: -1
+light grain_02
+  rotate: false
+  xy: 4001, 3166
+  size: 42, 94
+  orig: 43, 95
+  offset: 0, 0
+  index: -1
+light grain_03
+  rotate: false
+  xy: 2247, 1890
+  size: 204, 98
+  orig: 206, 100
+  offset: 1, 1
+  index: -1
+light grain_04
+  rotate: false
+  xy: 2060, 419
+  size: 197, 203
+  orig: 199, 206
+  offset: 1, 2
+  index: -1
+light grain_05
+  rotate: false
+  xy: 4041, 3630
+  size: 19, 19
+  orig: 22, 22
+  offset: 1, 1
+  index: -1
+light grain_06
+  rotate: false
+  xy: 3890, 3513
+  size: 121, 183
+  orig: 122, 185
+  offset: 0, 0
+  index: -1
+light grain_07
+  rotate: false
+  xy: 3991, 3385
+  size: 59, 98
+  orig: 60, 99
+  offset: 0, 0
+  index: -1
+light_01
+  rotate: false
+  xy: 3890, 3271
+  size: 81, 80
+  orig: 93, 93
+  offset: 6, 6
+  index: -1
+light_02
+  rotate: false
+  xy: 3890, 3381
+  size: 71, 102
+  orig: 78, 111
+  offset: 3, 5
+  index: -1
+light_03
+  rotate: false
+  xy: 3890, 3081
+  size: 61, 60
+  orig: 70, 70
+  offset: 5, 5
+  index: -1
+light_04
+  rotate: false
+  xy: 3890, 3171
+  size: 72, 70
+  orig: 78, 77
+  offset: 3, 3
+  index: -1
+light_05
+  rotate: false
+  xy: 4001, 3290
+  size: 65, 65
+  orig: 78, 78
+  offset: 6, 6
+  index: -1
+light_06
+  rotate: false
+  xy: 3890, 2881
+  size: 34, 30
+  orig: 37, 33
+  offset: 1, 2
+  index: -1
+light_07
+  rotate: false
+  xy: 3890, 3003
+  size: 50, 48
+  orig: 58, 57
+  offset: 4, 5
+  index: -1
+light_08
+  rotate: false
+  xy: 3890, 2941
+  size: 33, 32
+  orig: 38, 37
+  offset: 3, 2
+  index: -1
+light_09
+  rotate: false
+  xy: 3981, 3014
+  size: 50, 49
+  orig: 56, 58
+  offset: 2, 5
+  index: -1
+ring of light_1_01
+  rotate: true
+  xy: 382, 330
+  size: 294, 304
+  orig: 298, 308
+  offset: 2, 3
+  index: -1
+ring of light_1_02
+  rotate: false
+  xy: 3665, 1393
+  size: 339, 335
+  orig: 365, 375
+  offset: 17, 32
+  index: -1
+ring of light_2_01
+  rotate: false
+  xy: 3890, 3896
+  size: 170, 170
+  orig: 172, 171
+  offset: 1, 1
+  index: -1
+ring of light_2_02
+  rotate: false
+  xy: 3015, 1566
+  size: 203, 189
+  orig: 224, 212
+  offset: 12, 14
+  index: -1
+ring of light_3_01
+  rotate: false
+  xy: 1368, 372
+  size: 252, 252
+  orig: 256, 254
+  offset: 2, 2
+  index: -1
+ring of light_3_02
+  rotate: true
+  xy: 1042, 337
+  size: 287, 296
+  orig: 307, 331
+  offset: 10, 27
+  index: -1
+ring of light_4_01
+  rotate: false
+  xy: 716, 329
+  size: 296, 295
+  orig: 300, 298
+  offset: 2, 3
+  index: -1
+ring of light_4_02
+  rotate: false
+  xy: 1694, 335
+  size: 336, 332
+  orig: 355, 352
+  offset: 8, 11
+  index: -1
+rock_01
+  rotate: false
+  xy: 2273, 837
+  size: 522, 215
+  orig: 701, 216
+  offset: 179, 0
+  index: -1
+sinon_light grain_09
+  rotate: false
+  xy: 4041, 3538
+  size: 15, 15
+  orig: 18, 17
+  offset: 2, 1
+  index: -1
+sinon_light grain_10
+  rotate: false
+  xy: 3981, 3093
+  size: 75, 43
+  orig: 77, 45
+  offset: 0, 1
+  index: -1
+sinon_light grain_12
+  rotate: false
+  xy: 3890, 3726
+  size: 169, 140
+  orig: 170, 141
+  offset: 1, 1
+  index: -1
+sinon_light grain_15
+  rotate: false
+  xy: 4047, 2969
+  size: 15, 15
+  orig: 18, 18
+  offset: 1, 2
+  index: -1
+sinon_light grain_16
+  rotate: false
+  xy: 4041, 3583
+  size: 18, 17
+  orig: 21, 20
+  offset: 1, 2
+  index: -1
+sinon_light grain_17
+  rotate: false
+  xy: 4052, 2883
+  size: 13, 13
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+sinon_light_13
+  rotate: false
+  xy: 3970, 2938
+  size: 47, 46
+  orig: 54, 54
+  offset: 4, 4
+  index: -1
+sinon_smoke_01
+  rotate: 180
+  xy: 1739, 1080
+  size: 1896, 908
+  orig: 1896, 908
+  offset: 0, 0
+  index: -1
+sinon_smoke_EF
+  rotate: false
+  xy: 1739, 331
+  size: 1432, 762
+  orig: 1432, 762
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: 180
+  xy: 2526, 1758
+  size: 1501, 469
+  orig: 1501, 469
+  offset: 0, 0
+  index: -1
+sunlight_t01
+  rotate: false
+  xy: 30, 2018
+  size: 2700, 2048
+  orig: 2700, 2048
+  offset: 0, 0
+  index: -1
+sunlight_t02
+  rotate: false
+  xy: 2825, 572
+  size: 1241, 613
+  orig: 1255, 927
+  offset: 14, 313
+  index: -1

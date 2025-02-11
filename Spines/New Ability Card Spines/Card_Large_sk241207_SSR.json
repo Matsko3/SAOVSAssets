@@ -1,0 +1,52 @@
+{
+"skeleton": {
+	"hash": "aGC+aWdVSG4",
+	"spine": "3.8-from-4.0-from-4.1-from-4.2.23",
+	"x": -545,
+	"y": -881,
+	"width": 1090,
+	"height": 1766,
+	"images": "./images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "scaleX": 0.4284, "scaleY": 0.4284 },
+	{ "name": "BG", "parent": "bone", "transform": "noScale" }
+],
+"slots": [
+	{ "name": "BG", "bone": "BG", "attachment": "BG" },
+	{ "name": "root", "bone": "root", "attachment": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"BG": {
+				"BG": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 545, -881, -545, -881, -545, 885, 545, 885 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 1080,
+					"height": 1756
+				}
+			},
+			"root": {
+				"root": {
+					"type": "clipping",
+					"end": "root",
+					"vertexCount": 4,
+					"vertices": [ -600.04, 950.06, -599.79, -950.09, 600.21, -949.87, 599.78, 949.72 ],
+					"color": "ce3a3aff"
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {}
+}
+}

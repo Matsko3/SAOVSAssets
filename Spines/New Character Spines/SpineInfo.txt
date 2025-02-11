@@ -1,0 +1,3 @@
+Spine version: 3.8.95
+
+Each spine for any ability card or character have to be copied one by one in different folders or it wont work separately.

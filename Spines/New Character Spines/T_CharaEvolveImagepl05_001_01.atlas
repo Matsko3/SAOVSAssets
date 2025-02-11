@@ -1,0 +1,347 @@
+
+T_CharaEvolveImagepl05_001_01.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG2
+  rotate: false
+  xy: 20, 1704
+  size: 1980, 1140
+  orig: 1980, 1140
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1968, 3561
+  size: 1240, 496
+  orig: 1241, 496
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 2188, 3450
+  size: 83, 91
+  orig: 83, 91
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 1232, 484
+  size: 205, 105
+  orig: 205, 105
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 1457, 488
+  size: 204, 101
+  orig: 205, 105
+  offset: 0, 4
+  index: -1
+eye3
+  rotate: false
+  xy: 1968, 3450
+  size: 200, 91
+  orig: 205, 105
+  offset: 0, 14
+  index: -1
+haie_sideL
+  rotate: false
+  xy: 20, 449
+  size: 308, 141
+  orig: 308, 141
+  offset: 0, 0
+  index: -1
+haie_sideR
+  rotate: false
+  xy: 3867, 3752
+  size: 165, 306
+  orig: 165, 306
+  offset: 0, 0
+  index: -1
+kira1
+  rotate: true
+  xy: 2020, 1704
+  size: 1719, 1069
+  orig: 1725, 1073
+  offset: 3, 3
+  index: -1
+kira2
+  rotate: false
+  xy: 20, 609
+  size: 1797, 1075
+  orig: 1803, 1079
+  offset: 3, 3
+  index: -1
+kira6
+  rotate: false
+  xy: 20, 2864
+  size: 1928, 1193
+  orig: 1934, 1194
+  offset: 3, 0
+  index: -1
+right1
+  rotate: true
+  xy: 3670, 899
+  size: 785, 323
+  orig: 839, 355
+  offset: 32, 32
+  index: -1
+skirt
+  rotate: false
+  xy: 20, 27
+  size: 1694, 562
+  orig: 1694, 562
+  offset: 0, 0
+  index: -1
+tubu1
+  rotate: false
+  xy: 1837, 686
+  size: 1813, 998
+  orig: 1815, 1001
+  offset: 0, 3
+  index: -1
+tubu2
+  rotate: true
+  xy: 3109, 1704
+  size: 1795, 925
+  orig: 1796, 929
+  offset: 0, 2
+  index: -1
+wind3
+  rotate: true
+  xy: 3228, 3579
+  size: 478, 619
+  orig: 489, 628
+  offset: 2, 7
+  index: -1
+wind5_2
+  rotate: false
+  xy: 1837, 20
+  size: 1051, 646
+  orig: 1064, 718
+  offset: 0, 33
+  index: -1
+wind7
+  rotate: true
+  xy: 2908, 130
+  size: 536, 1043
+  orig: 539, 1191
+  offset: 1, 148
+  index: -1
+
+T_CharaEvolveImagepl05_001_012.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hair_acce
+  rotate: true
+  xy: 3656, 906
+  size: 414, 411
+  orig: 414, 411
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 3617, 2501
+  size: 871, 331
+  orig: 871, 331
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 3656, 1340
+  size: 361, 378
+  orig: 361, 379
+  offset: 0, 0
+  index: -1
+kira3
+  rotate: false
+  xy: 20, 3050
+  size: 1753, 1017
+  orig: 1758, 1021
+  offset: 2, 3
+  index: -1
+kira4
+  rotate: true
+  xy: 1842, 906
+  size: 1400, 940
+  orig: 1407, 948
+  offset: 3, 4
+  index: -1
+kira5
+  rotate: true
+  xy: 2695, 2326
+  size: 1257, 902
+  orig: 1264, 908
+  offset: 3, 4
+  index: -1
+leg
+  rotate: false
+  xy: 2802, 1968
+  size: 516, 338
+  orig: 516, 338
+  offset: 0, 0
+  index: -1
+tubu3
+  rotate: false
+  xy: 20, 1046
+  size: 1802, 979
+  orig: 1805, 984
+  offset: 2, 3
+  index: -1
+tubu4
+  rotate: true
+  xy: 1840, 2326
+  size: 1741, 835
+  orig: 1745, 837
+  offset: 2, 2
+  index: -1
+tubu5
+  rotate: false
+  xy: 20, 124
+  size: 1687, 902
+  orig: 1691, 914
+  offset: 2, 9
+  index: -1
+tubu6
+  rotate: false
+  xy: 20, 2045
+  size: 1800, 985
+  orig: 1838, 987
+  offset: 3, 2
+  index: -1
+wind1
+  rotate: false
+  xy: 2695, 3630
+  size: 604, 437
+  orig: 616, 442
+  offset: 2, 2
+  index: -1
+wind1_2
+  rotate: false
+  xy: 3319, 3635
+  size: 593, 432
+  orig: 616, 442
+  offset: 1, 5
+  index: -1
+wind3_2
+  rotate: false
+  xy: 3617, 1899
+  size: 438, 582
+  orig: 489, 628
+  offset: 2, 33
+  index: -1
+wind6
+  rotate: true
+  xy: 2802, 906
+  size: 973, 834
+  orig: 976, 838
+  offset: 3, 3
+  index: -1
+wind7_22
+  rotate: false
+  xy: 3338, 1980
+  size: 223, 326
+  orig: 539, 1191
+  offset: 191, 686
+  index: -1
+wind8
+  rotate: true
+  xy: 1727, 149
+  size: 737, 1040
+  orig: 1061, 1143
+  offset: 2, 101
+  index: -1
+wind8_2
+  rotate: true
+  xy: 2787, 149
+  size: 737, 1038
+  orig: 1061, 1143
+  offset: 2, 102
+  index: -1
+
+T_CharaEvolveImagepl05_001_013.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bust
+  rotate: false
+  xy: 3600, 3662
+  size: 332, 414
+  orig: 332, 414
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 3752, 3232
+  size: 420, 324
+  orig: 420, 324
+  offset: 0, 0
+  index: -1
+right2
+  rotate: false
+  xy: 1695, 2621
+  size: 663, 750
+  orig: 817, 846
+  offset: 119, 96
+  index: -1
+wind2
+  rotate: true
+  xy: 3380, 2407
+  size: 587, 696
+  orig: 592, 706
+  offset: 2, 4
+  index: -1
+wind2_2
+  rotate: true
+  xy: 2378, 2411
+  size: 579, 669
+  orig: 592, 706
+  offset: 3, 19
+  index: -1
+wind4
+  rotate: false
+  xy: 924, 2682
+  size: 751, 689
+  orig: 764, 695
+  offset: 11, 4
+  index: -1
+wind4_2
+  rotate: false
+  xy: 20, 2557
+  size: 737, 664
+  orig: 764, 695
+  offset: 24, 19
+  index: -1
+wind5
+  rotate: false
+  xy: 924, 3391
+  size: 1062, 685
+  orig: 1064, 718
+  offset: 0, 30
+  index: -1
+wind6_2
+  rotate: false
+  xy: 20, 3241
+  size: 884, 835
+  orig: 976, 838
+  offset: 10, 0
+  index: -1
+wing
+  rotate: false
+  xy: 2006, 3419
+  size: 1417, 657
+  orig: 1417, 657
+  offset: 0, 0
+  index: -1
+wing2
+  rotate: 180
+  xy: 2358, 3011
+  size: 1417, 657
+  orig: 1417, 657
+  offset: 0, 0
+  index: -1

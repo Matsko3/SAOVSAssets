@@ -1,0 +1,13 @@
+
+T_CharaEvolveImage_pl01_101_01.png
+size: 4096, 4096
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+BG
+  rotate: false
+  xy: 20, 860
+  size: 2020, 1180
+  orig: 2020, 1180
+  offset: 0, 0
+  index: -1

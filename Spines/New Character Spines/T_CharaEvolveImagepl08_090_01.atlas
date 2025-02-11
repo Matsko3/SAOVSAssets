@@ -1,0 +1,271 @@
+
+T_CharaEvolveImagepl08_090_01.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 30, 1818
+  size: 1930, 1090
+  orig: 1930, 1090
+  offset: 0, 0
+  index: -1
+arm
+  rotate: false
+  xy: 1418, 152
+  size: 432, 578
+  orig: 432, 578
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 3339, 2902
+  size: 182, 140
+  orig: 182, 140
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 3339, 3072
+  size: 187, 140
+  orig: 187, 140
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 3339, 2733
+  size: 183, 139
+  orig: 183, 139
+  offset: 0, 0
+  index: -1
+haie_sideR
+  rotate: 270
+  xy: 1880, 46
+  size: 236, 983
+  orig: 236, 983
+  offset: 0, 0
+  index: -1
+hair_acc
+  rotate: false
+  xy: 1880, 586
+  size: 218, 144
+  orig: 220, 146
+  offset: 1, 1
+  index: -1
+leg
+  rotate: false
+  xy: 3563, 1828
+  size: 467, 328
+  orig: 467, 328
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 30, 2938
+  size: 1932, 1092
+  orig: 1932, 1092
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 2860, 2591
+  size: 449, 1439
+  orig: 499, 1511
+  offset: 18, 50
+  index: -1
+light2
+  rotate: true
+  xy: 30, 117
+  size: 613, 1358
+  orig: 691, 1452
+  offset: 41, 34
+  index: -1
+light3
+  rotate: false
+  xy: 1992, 2748
+  size: 806, 1282
+  orig: 869, 1433
+  offset: 40, 31
+  index: -1
+light4
+  rotate: false
+  xy: 2135, 244
+  size: 853, 1057
+  orig: 975, 1130
+  offset: 101, 13
+  index: -1
+light5
+  rotate: false
+  xy: 2135, 1331
+  size: 695, 1387
+  orig: 795, 1459
+  offset: 80, 38
+  index: -1
+particle_L1
+  rotate: true
+  xy: 30, 779
+  size: 1009, 1033
+  orig: 1017, 1044
+  offset: 7, 4
+  index: -1
+particle_L1_2
+  rotate: false
+  xy: 1093, 760
+  size: 1012, 1028
+  orig: 1016, 1032
+  offset: 3, 2
+  index: -1
+particle_L2
+  rotate: false
+  xy: 2860, 1734
+  size: 673, 827
+  orig: 681, 834
+  offset: 4, 3
+  index: -1
+particle_L2_2
+  rotate: true
+  xy: 3018, 1044
+  size: 660, 813
+  orig: 664, 817
+  offset: 2, 2
+  index: -1
+particle_L3
+  rotate: false
+  xy: 3339, 3242
+  size: 637, 788
+  orig: 654, 799
+  offset: 13, 8
+  index: -1
+particle_R2
+  rotate: true
+  xy: 3018, 62
+  size: 331, 873
+  orig: 339, 881
+  offset: 5, 5
+  index: -1
+particle_R3
+  rotate: false
+  xy: 3563, 2186
+  size: 451, 1026
+  orig: 457, 1034
+  offset: 3, 3
+  index: -1
+particle_R4
+  rotate: true
+  xy: 3018, 423
+  size: 591, 860
+  orig: 598, 867
+  offset: 4, 4
+  index: -1
+
+T_CharaEvolveImagepl08_090_012.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt
+  rotate: false
+  xy: 2345, 1936
+  size: 351, 362
+  orig: 351, 362
+  offset: 0, 0
+  index: -1
+body
+  rotate: 270
+  xy: 30, 2312
+  size: 688, 850
+  orig: 688, 850
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: false
+  xy: 1226, 1928
+  size: 379, 331
+  orig: 379, 331
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 30, 1995
+  size: 313, 323
+  orig: 313, 323
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: 180
+  xy: 717, 1909
+  size: 1256, 1083
+  orig: 1256, 1083
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 373, 2052
+  size: 255, 250
+  orig: 255, 250
+  offset: 0, 0
+  index: -1
+hair_sideL
+  rotate: false
+  xy: 909, 2624
+  size: 394, 303
+  orig: 394, 303
+  offset: 0, 0
+  index: -1
+particle_L3_2
+  rotate: false
+  xy: 1306, 3022
+  size: 625, 782
+  orig: 643, 786
+  offset: 16, 2
+  index: -1
+particle_L4
+  rotate: false
+  xy: 30, 3030
+  size: 639, 774
+  orig: 646, 782
+  offset: 4, 4
+  index: -1
+particle_L4_2
+  rotate: false
+  xy: 2576, 3042
+  size: 624, 762
+  orig: 628, 767
+  offset: 2, 3
+  index: -1
+particle_R1
+  rotate: false
+  xy: 1961, 2989
+  size: 585, 815
+  orig: 592, 822
+  offset: 3, 4
+  index: -1
+particle_R1_2
+  rotate: false
+  xy: 3230, 3003
+  size: 574, 801
+  orig: 578, 805
+  offset: 2, 2
+  index: -1
+particle_R2_2
+  rotate: false
+  xy: 2003, 2029
+  size: 319, 859
+  orig: 323, 866
+  offset: 2, 5
+  index: -1
+particle_R3_2
+  rotate: true
+  xy: 2576, 2536
+  size: 437, 1017
+  orig: 441, 1022
+  offset: 2, 2
+  index: -1
+particle_R4_2
+  rotate: false
+  xy: 699, 2956
+  size: 577, 848
+  orig: 581, 852
+  offset: 2, 2
+  index: -1

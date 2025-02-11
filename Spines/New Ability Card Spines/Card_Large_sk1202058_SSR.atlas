@@ -1,0 +1,404 @@
+
+Card_Large_sk1202058_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef2
+  rotate: true
+  xy: 2404, 225
+  size: 2344, 1310
+  orig: 2346, 1375
+  offset: 1, 1
+  index: -1
+eugeo_eye1
+  rotate: true
+  xy: 3930, 426
+  size: 195, 107
+  orig: 203, 109
+  offset: 1, 1
+  index: -1
+eugeo_eye2
+  rotate: false
+  xy: 3270, 2601
+  size: 196, 94
+  orig: 198, 97
+  offset: 1, 1
+  index: -1
+eugeo_eye3
+  rotate: false
+  xy: 704, 142
+  size: 186, 53
+  orig: 188, 55
+  offset: 1, 1
+  index: -1
+eugeo_face
+  rotate: true
+  xy: 2404, 2618
+  size: 322, 344
+  orig: 324, 346
+  offset: 1, 1
+  index: -1
+eugeo_hair_bang1
+  rotate: true
+  xy: 3237, 3915
+  size: 125, 291
+  orig: 125, 291
+  offset: 0, 0
+  index: -1
+eugeo_hair_bang2
+  rotate: false
+  xy: 3744, 930
+  size: 295, 307
+  orig: 295, 307
+  offset: 0, 0
+  index: -1
+eugeo_hair_left
+  rotate: false
+  xy: 3744, 568
+  size: 184, 351
+  orig: 184, 351
+  offset: 0, 0
+  index: -1
+eugeo_hair_parts
+  rotate: false
+  xy: 3959, 2299
+  size: 72, 245
+  orig: 72, 245
+  offset: 0, 0
+  index: -1
+eugeo_haori_ura
+  rotate: false
+  xy: 3744, 2127
+  size: 185, 417
+  orig: 187, 419
+  offset: 1, 1
+  index: -1
+flare1
+  rotate: false
+  xy: 30, 2124
+  size: 2344, 1916
+  orig: 2346, 1918
+  offset: 1, 1
+  index: -1
+flare2
+  rotate: false
+  xy: 2778, 2617
+  size: 267, 267
+  orig: 299, 301
+  offset: 19, 23
+  index: -1
+gr
+  rotate: false
+  xy: 30, 225
+  size: 2344, 1869
+  orig: 2346, 1911
+  offset: 1, 1
+  index: -1
+kira4
+  rotate: false
+  xy: 30, 50
+  size: 145, 145
+  orig: 149, 149
+  offset: 2, 2
+  index: -1
+kira5
+  rotate: false
+  xy: 2605, 3865
+  size: 51, 51
+  orig: 54, 55
+  offset: 2, 2
+  index: -1
+kira6
+  rotate: true
+  xy: 704, 30
+  size: 82, 86
+  orig: 86, 89
+  offset: 2, 1
+  index: -1
+kira7
+  rotate: false
+  xy: 205, 52
+  size: 143, 143
+  orig: 147, 148
+  offset: 2, 2
+  index: -1
+kira8
+  rotate: false
+  xy: 3744, 109
+  size: 157, 157
+  orig: 161, 161
+  offset: 2, 2
+  index: -1
+kirito_haori
+  rotate: true
+  xy: 2416, 2574
+  size: 1466, 1612
+  orig: 1466, 1612
+  offset: 0, 0
+  index: -1
+particle1
+  rotate: false
+  xy: 2404, 2994
+  size: 29, 114
+  orig: 34, 119
+  offset: 2, 2
+  index: -1
+particle10
+  rotate: false
+  xy: 2404, 3638
+  size: 47, 123
+  orig: 205, 295
+  offset: 156, 104
+  index: -1
+particle11
+  rotate: false
+  xy: 3117, 3972
+  size: 53, 68
+  orig: 136, 194
+  offset: 80, 124
+  index: -1
+particle12
+  rotate: false
+  xy: 3001, 4017
+  size: 23, 23
+  orig: 27, 27
+  offset: 2, 2
+  index: -1
+particle13
+  rotate: false
+  xy: 3558, 3996
+  size: 198, 44
+  orig: 201, 48
+  offset: 1, 2
+  index: -1
+particle14
+  rotate: false
+  xy: 920, 121
+  size: 97, 74
+  orig: 101, 76
+  offset: 2, 1
+  index: -1
+particle15
+  rotate: false
+  xy: 378, 58
+  size: 119, 137
+  orig: 122, 140
+  offset: 1, 1
+  index: -1
+particle16
+  rotate: false
+  xy: 1047, 113
+  size: 87, 82
+  orig: 168, 252
+  offset: 79, 15
+  index: -1
+particle17
+  rotate: false
+  xy: 3075, 2637
+  size: 165, 199
+  orig: 168, 201
+  offset: 1, 1
+  index: -1
+particle18
+  rotate: false
+  xy: 2481, 3726
+  size: 34, 35
+  orig: 40, 39
+  offset: 3, 2
+  index: -1
+particle19
+  rotate: false
+  xy: 2605, 3946
+  size: 116, 94
+  orig: 120, 98
+  offset: 3, 3
+  index: -1
+particle2
+  rotate: false
+  xy: 2751, 3994
+  size: 92, 46
+  orig: 97, 49
+  offset: 2, 1
+  index: -1
+particle3
+  rotate: false
+  xy: 2873, 4010
+  size: 98, 30
+  orig: 101, 34
+  offset: 2, 2
+  index: -1
+particle4
+  rotate: false
+  xy: 2404, 3584
+  size: 24, 24
+  orig: 28, 28
+  offset: 2, 2
+  index: -1
+particle5
+  rotate: false
+  xy: 3496, 2617
+  size: 41, 41
+  orig: 48, 47
+  offset: 4, 2
+  index: -1
+particle6
+  rotate: true
+  xy: 527, 89
+  size: 106, 147
+  orig: 108, 150
+  offset: 1, 2
+  index: -1
+particle7
+  rotate: false
+  xy: 3270, 2741
+  size: 49, 49
+  orig: 294, 75
+  offset: 241, 22
+  index: -1
+particle8
+  rotate: false
+  xy: 3744, 296
+  size: 156, 242
+  orig: 160, 245
+  offset: 3, 2
+  index: -1
+particle9
+  rotate: false
+  xy: 2778, 2916
+  size: 39, 40
+  orig: 101, 319
+  offset: 59, 2
+  index: -1
+rainbow3
+  rotate: false
+  xy: 2404, 3791
+  size: 171, 249
+  orig: 183, 261
+  offset: 6, 6
+  index: -1
+rainbow5
+  rotate: false
+  xy: 3744, 1850
+  size: 247, 247
+  orig: 263, 265
+  offset: 8, 9
+  index: -1
+rainbow7
+  rotate: false
+  xy: 3744, 1267
+  size: 229, 231
+  orig: 233, 236
+  offset: 3, 3
+  index: -1
+rainbow8
+  rotate: false
+  xy: 3744, 1528
+  size: 196, 292
+  orig: 211, 308
+  offset: 8, 9
+  index: -1
+
+Card_Large_sk1202058_SSR2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 30, 1499
+  size: 1264, 1915
+  orig: 1264, 1916
+  offset: 0, 0
+  index: -1
+ef1
+  rotate: false
+  xy: 30, 2793
+  size: 2344, 1172
+  orig: 2346, 1240
+  offset: 1, 1
+  index: -1
+ef3
+  rotate: false
+  xy: 3467, 2798
+  size: 392, 390
+  orig: 433, 443
+  offset: 18, 25
+  index: -1
+ef4
+  rotate: true
+  xy: 2404, 2419
+  size: 1546, 1033
+  orig: 1577, 1074
+  offset: 15, 10
+  index: -1
+eugeo_hair_back
+  rotate: 180
+  xy: 3467, 2309
+  size: 449, 455
+  orig: 449, 455
+  offset: 0, 0
+  index: -1
+eugeo_hair_right
+  rotate: true
+  xy: 1975, 2521
+  size: 243, 289
+  orig: 243, 289
+  offset: 0, 0
+  index: -1
+eugeo_hand1
+  rotate: true
+  xy: 1973, 610
+  size: 1501, 819
+  orig: 1501, 1009
+  offset: 0, 190
+  index: -1
+eugeo_hand2
+  rotate: 270
+  xy: 2693, 1799
+  size: 590, 1267
+  orig: 590, 1267
+  offset: 0, 0
+  index: -1
+eugeo_haori1
+  rotate: 270
+  xy: 1975, 1209
+  size: 1275, 1459
+  orig: 1275, 1496
+  offset: 0, 0
+  index: -1
+eugeo_himo
+  rotate: false
+  xy: 1937, 720
+  size: 325, 340
+  orig: 327, 342
+  offset: 1, 1
+  index: -1
+eugeo_kimono
+  rotate: false
+  xy: 3467, 3218
+  size: 360, 747
+  orig: 362, 749
+  offset: 1, 1
+  index: -1
+eugeo_leg
+  rotate: false
+  xy: 30, 958
+  size: 1148, 511
+  orig: 1150, 513
+  offset: 1, 1
+  index: -1
+flare3
+  rotate: false
+  xy: 1208, 772
+  size: 699, 697
+  orig: 706, 705
+  offset: 3, 4
+  index: -1
+kirito_hand2
+  rotate: 270
+  xy: 3045, 882
+  size: 589, 779
+  orig: 589, 779
+  offset: 0, 0
+  index: -1

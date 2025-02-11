@@ -1,0 +1,13 @@
+
+Card_Large_sk250108_SSR.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+BG
+  rotate: false
+  xy: 20, 20
+  size: 1080, 1756
+  orig: 1080, 1756
+  offset: 0, 0
+  index: -1

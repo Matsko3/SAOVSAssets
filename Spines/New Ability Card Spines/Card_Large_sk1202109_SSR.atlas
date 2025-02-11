@@ -1,0 +1,160 @@
+
+Card_Large_sk1202109_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 30, 2074
+  size: 1341, 1989
+  orig: 1343, 1991
+  offset: 1, 1
+  index: -1
+character
+  rotate: false
+  xy: 2748, 2209
+  size: 1009, 1854
+  orig: 1011, 1856
+  offset: 1, 1
+  index: -1
+ef_dust_B1
+  rotate: false
+  xy: 3787, 3718
+  size: 267, 345
+  orig: 269, 347
+  offset: 1, 1
+  index: -1
+ef_dust_B2
+  rotate: false
+  xy: 3574, 1335
+  size: 459, 361
+  orig: 461, 363
+  offset: 1, 1
+  index: -1
+ef_dust_B3
+  rotate: false
+  xy: 3574, 1726
+  size: 406, 453
+  orig: 408, 455
+  offset: 1, 1
+  index: -1
+ef_dust_B4
+  rotate: false
+  xy: 1938, 1708
+  size: 737, 336
+  orig: 739, 338
+  offset: 1, 1
+  index: -1
+ef_dust_B5
+  rotate: true
+  xy: 2748, 1526
+  size: 653, 796
+  orig: 655, 798
+  offset: 1, 1
+  index: -1
+ef_dust_F10
+  rotate: false
+  xy: 3787, 2811
+  size: 215, 252
+  orig: 217, 254
+  offset: 1, 1
+  index: -1
+ef_dust_F11
+  rotate: true
+  xy: 2402, 1400
+  size: 278, 312
+  orig: 280, 314
+  offset: 1, 1
+  index: -1
+ef_dust_F12
+  rotate: false
+  xy: 3787, 3399
+  size: 266, 289
+  orig: 268, 291
+  offset: 1, 1
+  index: -1
+ef_dust_F2
+  rotate: false
+  xy: 1816, 1453
+  size: 90, 53
+  orig: 92, 55
+  offset: 1, 1
+  index: -1
+ef_dust_F3
+  rotate: false
+  xy: 3787, 2255
+  size: 263, 128
+  orig: 265, 130
+  offset: 1, 1
+  index: -1
+ef_dust_F5
+  rotate: false
+  xy: 1392, 1438
+  size: 188, 68
+  orig: 190, 70
+  offset: 1, 1
+  index: -1
+ef_dust_F6
+  rotate: false
+  xy: 3787, 2413
+  size: 264, 156
+  orig: 266, 158
+  offset: 1, 1
+  index: -1
+ef_dust_F7
+  rotate: false
+  xy: 3787, 2599
+  size: 261, 182
+  orig: 263, 184
+  offset: 1, 1
+  index: -1
+ef_dust_F8
+  rotate: false
+  xy: 1610, 1382
+  size: 73, 124
+  orig: 75, 126
+  offset: 1, 1
+  index: -1
+ef_dust_F9
+  rotate: false
+  xy: 1938, 1410
+  size: 434, 268
+  orig: 436, 270
+  offset: 1, 1
+  index: -1
+ef_flare
+  rotate: false
+  xy: 1401, 2074
+  size: 1317, 1989
+  orig: 1319, 1991
+  offset: 1, 1
+  index: -1
+ef_sun 2
+  rotate: false
+  xy: 1392, 1536
+  size: 516, 508
+  orig: 580, 581
+  offset: 42, 23
+  index: -1
+ef_sun1
+  rotate: false
+  xy: 1713, 1432
+  size: 73, 74
+  orig: 82, 83
+  offset: 4, 5
+  index: -1
+ef_sun3
+  rotate: false
+  xy: 3787, 3093
+  size: 276, 276
+  orig: 284, 288
+  offset: 4, 6
+  index: -1
+ef_sun4
+  rotate: false
+  xy: 30, 1521
+  size: 1332, 523
+  orig: 1334, 543
+  offset: 1, 15
+  index: -1

@@ -1,0 +1,222 @@
+
+Card_Large_sk1107023_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2840, 259
+  size: 1090, 1766
+  orig: 1090, 1766
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2954, 2201
+  size: 1067, 1073
+  orig: 1067, 1073
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 233, 201
+  size: 172, 87
+  orig: 172, 87
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 30, 201
+  size: 173, 87
+  orig: 173, 87
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 435, 202
+  size: 169, 86
+  orig: 169, 86
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 695, 266
+  size: 220, 301
+  orig: 220, 301
+  offset: 0, 0
+  index: -1
+flare
+  rotate: false
+  xy: 1541, 2055
+  size: 1383, 1972
+  orig: 1383, 1972
+  offset: 0, 0
+  index: -1
+hair_sideL
+  rotate: true
+  xy: 945, 186
+  size: 127, 308
+  orig: 127, 308
+  offset: 0, 0
+  index: -1
+leaf_1
+  rotate: false
+  xy: 1255, 323
+  size: 178, 244
+  orig: 181, 248
+  offset: 2, 2
+  index: -1
+leaf_2
+  rotate: false
+  xy: 1283, 201
+  size: 159, 81
+  orig: 163, 83
+  offset: 3, 2
+  index: -1
+leaf_3
+  rotate: false
+  xy: 945, 343
+  size: 280, 224
+  orig: 283, 230
+  offset: 3, 4
+  index: -1
+leaf_4
+  rotate: false
+  xy: 2954, 2079
+  size: 262, 125
+  orig: 263, 127
+  offset: 0, 1
+  index: -1
+leaf_5
+  rotate: true
+  xy: 1463, 323
+  size: 184, 165
+  orig: 188, 167
+  offset: 3, 1
+  index: -1
+leaf_6
+  rotate: false
+  xy: 3246, 2098
+  size: 271, 106
+  orig: 274, 108
+  offset: 2, 1
+  index: -1
+leaf_7
+  rotate: false
+  xy: 2954, 2922
+  size: 115, 94
+  orig: 115, 94
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 2954, 3046
+  size: 610, 981
+  orig: 610, 981
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 30, 1913
+  size: 1481, 2114
+  orig: 1481, 2114
+  offset: 0, 0
+  index: -1
+particle_3
+  rotate: false
+  xy: 1667, 279
+  size: 1143, 1746
+  orig: 1149, 1755
+  offset: 3, 4
+  index: -1
+particle_4
+  rotate: true
+  xy: 30, 597
+  size: 1286, 1607
+  orig: 1297, 1617
+  offset: 3, 3
+  index: -1
+sword_kira1
+  rotate: false
+  xy: 2954, 2234
+  size: 405, 227
+  orig: 405, 227
+  offset: 0, 0
+  index: -1
+sword_kira2
+  rotate: false
+  xy: 2954, 2621
+  size: 57, 72
+  orig: 62, 82
+  offset: 1, 4
+  index: -1
+sword_kira3
+  rotate: false
+  xy: 1541, 1948
+  size: 57, 77
+  orig: 63, 82
+  offset: 2, 1
+  index: -1
+sword_light_1
+  rotate: false
+  xy: 3594, 3358
+  size: 186, 14
+  orig: 207, 16
+  offset: 14, 1
+  index: -1
+sword_light_2
+  rotate: false
+  xy: 2954, 2534
+  size: 186, 15
+  orig: 207, 17
+  offset: 14, 1
+  index: -1
+sword_light_3
+  rotate: true
+  xy: 30, 318
+  size: 249, 635
+  orig: 274, 669
+  offset: 11, 22
+  index: -1
+sword_up
+  rotate: false
+  xy: 3594, 3402
+  size: 270, 625
+  orig: 270, 625
+  offset: 0, 0
+  index: -1
+
+Card_Large_sk1107023_SSR2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hair_back
+  rotate: true
+  xy: 30, 226
+  size: 668, 903
+  orig: 668, 903
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: 270
+  xy: 286, 31
+  size: 668, 927
+  orig: 668, 927
+  offset: 0, 0
+  index: -1
+particle_1
+  rotate: false
+  xy: 30, 2436
+  size: 1195, 1584
+  orig: 1207, 1593
+  offset: 5, 4
+  index: -1
+particle_2
+  rotate: false
+  xy: 30, 923
+  size: 1235, 1483
+  orig: 1245, 1490
+  offset: 3, 3
+  index: -1

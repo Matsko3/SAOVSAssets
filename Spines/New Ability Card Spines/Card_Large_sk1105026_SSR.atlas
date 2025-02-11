@@ -1,0 +1,208 @@
+
+Card_Large_sk1105026_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 1938, 30
+  size: 1280, 1957
+  orig: 1280, 1957
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 30, 306
+  size: 207, 137
+  orig: 210, 157
+  offset: 3, 20
+  index: -1
+ef_all2_b
+  rotate: false
+  xy: 1706, 2017
+  size: 1583, 1946
+  orig: 1583, 1999
+  offset: 0, 53
+  index: -1
+ef_all4_b
+  rotate: false
+  xy: 30, 474
+  size: 1878, 1513
+  orig: 1878, 1563
+  offset: 0, 49
+  index: -1
+ef_weapon_b
+  rotate: false
+  xy: 30, 2087
+  size: 1646, 1876
+  orig: 1664, 1898
+  offset: 5, 0
+  index: -1
+hair_bang
+  rotate: false
+  xy: 3319, 3677
+  size: 263, 284
+  orig: 263, 284
+  offset: 0, 0
+  index: -1
+hair_tail
+  rotate: true
+  xy: 3319, 3131
+  size: 832, 466
+  orig: 832, 466
+  offset: 0, 0
+  index: -1
+manto_b
+  rotate: false
+  xy: 3248, 1572
+  size: 542, 673
+  orig: 567, 673
+  offset: 25, 0
+  index: -1
+particle1
+  rotate: false
+  xy: 3248, 1482
+  size: 190, 152
+  orig: 195, 159
+  offset: 3, 2
+  index: -1
+particle10
+  rotate: false
+  xy: 30, 226
+  size: 97, 50
+  orig: 103, 56
+  offset: 3, 3
+  index: -1
+particle11
+  rotate: false
+  xy: 82, 2038
+  size: 22, 19
+  orig: 28, 25
+  offset: 3, 3
+  index: -1
+particle12
+  rotate: false
+  xy: 3248, 1081
+  size: 229, 84
+  orig: 234, 89
+  offset: 2, 3
+  index: -1
+particle13
+  rotate: false
+  xy: 30, 135
+  size: 39, 61
+  orig: 44, 67
+  offset: 3, 3
+  index: -1
+particle14
+  rotate: false
+  xy: 3319, 2844
+  size: 300, 257
+  orig: 309, 262
+  offset: 7, 3
+  index: -1
+particle15
+  rotate: false
+  xy: 3248, 453
+  size: 62, 126
+  orig: 64, 129
+  offset: 1, 1
+  index: -1
+particle16
+  rotate: false
+  xy: 3319, 2644
+  size: 251, 170
+  orig: 255, 174
+  offset: 2, 2
+  index: -1
+particle2
+  rotate: false
+  xy: 3248, 1334
+  size: 205, 118
+  orig: 240, 123
+  offset: 32, 2
+  index: -1
+particle3
+  rotate: false
+  xy: 3248, 832
+  size: 84, 219
+  orig: 90, 223
+  offset: 3, 2
+  index: -1
+particle4
+  rotate: false
+  xy: 3319, 3520
+  size: 67, 127
+  orig: 72, 131
+  offset: 3, 2
+  index: -1
+particle5
+  rotate: false
+  xy: 30, 2037
+  size: 22, 20
+  orig: 26, 24
+  offset: 2, 2
+  index: -1
+particle6
+  rotate: false
+  xy: 3248, 349
+  size: 94, 74
+  orig: 100, 79
+  offset: 3, 3
+  index: -1
+particle7
+  rotate: false
+  xy: 3248, 609
+  size: 53, 193
+  orig: 60, 198
+  offset: 2, 2
+  index: -1
+particle8
+  rotate: false
+  xy: 3248, 1195
+  size: 192, 109
+  orig: 196, 113
+  offset: 2, 2
+  index: -1
+particle9
+  rotate: false
+  xy: 3416, 3602
+  size: 56, 45
+  orig: 61, 51
+  offset: 2, 3
+  index: -1
+
+Card_Large_sk1105026_SSR2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body1
+  rotate: true
+  xy: 2482, 1262
+  size: 830, 1029
+  orig: 843, 1042
+  offset: 1, 5
+  index: -1
+body3
+  rotate: false
+  xy: 2482, 2122
+  size: 1041, 1401
+  orig: 1050, 1443
+  offset: 0, 42
+  index: -1
+ef_all3_b
+  rotate: true
+  xy: 1308, 1643
+  size: 1880, 1144
+  orig: 1880, 1322
+  offset: 0, 177
+  index: -1
+ef_flare1_b
+  rotate: false
+  xy: 30, 1666
+  size: 1248, 1857
+  orig: 1282, 1987
+  offset: 34, 130
+  index: -1

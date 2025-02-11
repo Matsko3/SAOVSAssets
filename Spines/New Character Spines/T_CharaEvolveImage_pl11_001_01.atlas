@@ -1,0 +1,222 @@
+
+T_CharaEvolveImage_pl11_001_01.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 20, 2837
+  size: 2020, 1180
+  orig: 2020, 1180
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1659, 20
+  size: 1488, 776
+  orig: 1497, 776
+  offset: 4, 0
+  index: -1
+face
+  rotate: false
+  xy: 590, 231
+  size: 573, 476
+  orig: 573, 476
+  offset: 0, 0
+  index: -1
+front_ef
+  rotate: false
+  xy: 20, 727
+  size: 1619, 1086
+  orig: 2020, 1180
+  offset: 401, 49
+  index: -1
+gun_ef
+  rotate: false
+  xy: 20, 154
+  size: 550, 553
+  orig: 567, 568
+  offset: 7, 7
+  index: -1
+hair_back
+  rotate: false
+  xy: 1354, 368
+  size: 246, 333
+  orig: 246, 333
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 1183, 117
+  size: 373, 289
+  orig: 373, 289
+  offset: 0, 0
+  index: -1
+hair_sideL
+  rotate: false
+  xy: 1659, 1417
+  size: 179, 396
+  orig: 183, 396
+  offset: 4, 0
+  index: -1
+hair_sideR
+  rotate: false
+  xy: 1183, 421
+  size: 249, 285
+  orig: 249, 289
+  offset: 0, 0
+  index: -1
+hat_1
+  rotate: false
+  xy: 3167, 476
+  size: 605, 320
+  orig: 605, 320
+  offset: 0, 0
+  index: -1
+hat_2
+  rotate: false
+  xy: 884, 20
+  size: 326, 191
+  orig: 326, 191
+  offset: 0, 0
+  index: -1
+hat_2_ef
+  rotate: false
+  xy: 590, 20
+  size: 326, 191
+  orig: 386, 251
+  offset: 30, 30
+  index: -1
+hat_back
+  rotate: false
+  xy: 1908, 2526
+  size: 98, 71
+  orig: 98, 73
+  offset: 0, 2
+  index: -1
+particle2_2k
+  rotate: false
+  xy: 20, 1833
+  size: 1868, 984
+  orig: 1872, 986
+  offset: 1, 1
+  index: -1
+particle3_1
+  rotate: false
+  xy: 1908, 816
+  size: 1779, 1027
+  orig: 1785, 1036
+  offset: 5, 8
+  index: -1
+particle3_4
+  rotate: false
+  xy: 2060, 2963
+  size: 1793, 1054
+  orig: 1804, 1056
+  offset: 1, 1
+  index: -1
+scarf_back
+  rotate: false
+  xy: 1659, 1025
+  size: 164, 185
+  orig: 164, 192
+  offset: 0, 7
+  index: -1
+scarf_back_ef
+  rotate: false
+  xy: 1659, 1211
+  size: 165, 185
+  orig: 194, 222
+  offset: 14, 22
+  index: -1
+stoneB_1
+  rotate: false
+  xy: 2060, 1863
+  size: 1706, 1080
+  orig: 1718, 1082
+  offset: 4, 1
+  index: -1
+stone_1
+  rotate: false
+  xy: 1908, 2617
+  size: 118, 200
+  orig: 120, 203
+  offset: 1, 1
+  index: -1
+
+T_CharaEvolveImage_pl11_001_012.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body2
+  rotate: false
+  xy: 1281, 47
+  size: 968, 761
+  orig: 968, 761
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 2639, 20
+  size: 998, 878
+  orig: 1028, 905
+  offset: 18, 7
+  index: -1
+gun_light_k
+  rotate: false
+  xy: 20, 122
+  size: 1241, 775
+  orig: 1244, 862
+  offset: 1, 1
+  index: -1
+particle1_3k
+  rotate: false
+  xy: 2639, 918
+  size: 1116, 909
+  orig: 1118, 911
+  offset: 1, 1
+  index: -1
+particle1_4k
+  rotate: false
+  xy: 1529, 828
+  size: 1090, 999
+  orig: 1093, 1003
+  offset: 2, 2
+  index: -1
+particle2_4k
+  rotate: true
+  xy: 1830, 1847
+  size: 1859, 861
+  orig: 1869, 984
+  offset: 1, 1
+  index: -1
+particle3_2
+  rotate: false
+  xy: 20, 2808
+  size: 1761, 983
+  orig: 1791, 997
+  offset: 8, 6
+  index: -1
+stoneB_2
+  rotate: false
+  xy: 20, 1847
+  size: 1790, 941
+  orig: 1821, 962
+  offset: 26, 15
+  index: -1
+stone_2
+  rotate: false
+  xy: 20, 917
+  size: 1489, 910
+  orig: 1491, 913
+  offset: 1, 1
+  index: -1
+stone_4
+  rotate: true
+  xy: 2711, 1847
+  size: 1499, 1003
+  orig: 1518, 1006
+  offset: 2, 1
+  index: -1

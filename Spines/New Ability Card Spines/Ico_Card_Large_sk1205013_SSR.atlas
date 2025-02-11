@@ -1,0 +1,159 @@
+
+Ico_Card_Large_sk1205013_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 1750, 553
+  size: 1130, 1806
+  orig: 1130, 1806
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1699, 2363
+  size: 1249, 1689
+  orig: 1249, 1689
+  offset: 0, 0
+  index: -1
+e1
+  rotate: false
+  xy: 2952, 2482
+  size: 990, 1570
+  orig: 990, 1570
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 2884, 299
+  size: 311, 320
+  orig: 311, 320
+  offset: 0, 0
+  index: -1
+flare
+  rotate: true
+  xy: 5, 677
+  size: 1431, 1741
+  orig: 1431, 1741
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 1161, 287
+  size: 386, 391
+  orig: 386, 391
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 1541, 316
+  size: 272, 262
+  orig: 272, 262
+  offset: 0, 0
+  index: -1
+hair_side
+  rotate: false
+  xy: 1925, 307
+  size: 215, 200
+  orig: 215, 200
+  offset: 0, 0
+  index: -1
+kira_5_k
+  rotate: false
+  xy: 2884, 614
+  size: 1168, 1745
+  orig: 1182, 1758
+  offset: 8, 10
+  index: -1
+light
+  rotate: false
+  xy: 5, 2112
+  size: 1690, 1940
+  orig: 1692, 1942
+  offset: 1, 1
+  index: -1
+light2
+  rotate: true
+  xy: 5, 296
+  size: 377, 1152
+  orig: 423, 1280
+  offset: 1, 82
+  index: -1
+neck
+  rotate: false
+  xy: 1817, 360
+  size: 126, 179
+  orig: 126, 179
+  offset: 0, 0
+  index: -1
+neck_L
+  rotate: false
+  xy: 2144, 309
+  size: 96, 203
+  orig: 96, 203
+  offset: 0, 0
+  index: -1
+neck_R
+  rotate: false
+  xy: 2952, 2374
+  size: 290, 104
+  orig: 290, 104
+  offset: 0, 0
+  index: -1
+
+Ico_Card_Large_sk1205013_SSR2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kira1_s
+  rotate: true
+  xy: 5, 1040
+  size: 851, 1519
+  orig: 857, 1525
+  offset: 3, 3
+  index: -1
+kira2_s
+  rotate: true
+  xy: 1528, 417
+  size: 1070, 1073
+  orig: 1075, 1079
+  offset: 3, 3
+  index: -1
+kira3_s
+  rotate: true
+  xy: 2247, 1491
+  size: 957, 1363
+  orig: 964, 1370
+  offset: 5, 3
+  index: -1
+kira4_s
+  rotate: false
+  xy: 2247, 2452
+  size: 1074, 1231
+  orig: 1082, 1237
+  offset: 5, 2
+  index: -1
+kira_6_k
+  rotate: false
+  xy: 1194, 1895
+  size: 1049, 1788
+  orig: 1053, 1791
+  offset: 3, 1
+  index: -1
+kira_7_k
+  rotate: false
+  xy: 5, 2013
+  size: 1185, 1670
+  orig: 1188, 1675
+  offset: 1, 3
+  index: -1
+light1
+  rotate: false
+  xy: 2605, 748
+  size: 1078, 739
+  orig: 1150, 782
+  offset: 1, 40
+  index: -1

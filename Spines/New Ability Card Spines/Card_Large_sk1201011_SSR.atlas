@@ -1,0 +1,160 @@
+
+Card_Large_sk1201011_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 1315, 2288
+  size: 1090, 1766
+  orig: 1090, 1766
+  offset: 0, 0
+  index: -1
+arm
+  rotate: false
+  xy: 30, 1381
+  size: 1031, 747
+  orig: 1031, 747
+  offset: 0, 0
+  index: -1
+arm_2
+  rotate: false
+  xy: 30, 1092
+  size: 608, 259
+  orig: 608, 259
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1315, 1621
+  size: 637, 1636
+  orig: 637, 1636
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 668, 1187
+  size: 236, 164
+  orig: 236, 164
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 1701, 994
+  size: 236, 164
+  orig: 236, 164
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 1967, 995
+  size: 235, 163
+  orig: 235, 163
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2435, 2477
+  size: 1250, 1577
+  orig: 1250, 1577
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: 270
+  xy: 2242, 883
+  size: 578, 972
+  orig: 578, 972
+  offset: 0, 0
+  index: -1
+hair_sideR
+  rotate: true
+  xy: 459, 867
+  size: 311, 602
+  orig: 311, 602
+  offset: 0, 0
+  index: -1
+kira1
+  rotate: false
+  xy: 2331, 1362
+  size: 242, 229
+  orig: 260, 247
+  offset: 9, 9
+  index: -1
+kira2
+  rotate: false
+  xy: 3877, 2659
+  size: 176, 177
+  orig: 194, 195
+  offset: 9, 9
+  index: -1
+kira3
+  rotate: false
+  xy: 2435, 2422
+  size: 402, 738
+  orig: 423, 768
+  offset: 10, 9
+  index: -1
+kira4
+  rotate: false
+  xy: 3715, 3410
+  size: 297, 644
+  orig: 315, 661
+  offset: 8, 9
+  index: -1
+kira5
+  rotate: false
+  xy: 2435, 3234
+  size: 162, 91
+  orig: 210, 156
+  offset: 40, 34
+  index: -1
+kira6
+  rotate: true
+  xy: 1701, 1188
+  size: 403, 600
+  orig: 418, 625
+  offset: 9, 16
+  index: -1
+kira7
+  rotate: false
+  xy: 2981, 1660
+  size: 1032, 787
+  orig: 1048, 810
+  offset: 8, 8
+  index: -1
+light
+  rotate: false
+  xy: 30, 2158
+  size: 1255, 1896
+  orig: 1257, 1947
+  offset: 1, 50
+  index: -1
+skirt
+  rotate: false
+  xy: 2981, 1028
+  size: 972, 602
+  orig: 972, 602
+  offset: 0, 0
+  index: -1
+skirt_back
+  rotate: true
+  xy: 3715, 2866
+  size: 514, 308
+  orig: 514, 308
+  offset: 0, 0
+  index: -1
+tama1
+  rotate: true
+  xy: 1091, 1055
+  size: 536, 580
+  orig: 550, 598
+  offset: 13, 1
+  index: -1
+tama2
+  rotate: false
+  xy: 3551, 2511
+  size: 296, 325
+  orig: 320, 386
+  offset: 1, 23
+  index: -1

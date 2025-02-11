@@ -1,0 +1,398 @@
+
+Card_Large_sk1201013_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 30, 2061
+  size: 1291, 1980
+  orig: 1291, 1980
+  offset: 0, 0
+  index: -1
+arm_front
+  rotate: true
+  xy: 2912, 472
+  size: 257, 233
+  orig: 257, 233
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: false
+  xy: 3043, 763
+  size: 188, 245
+  orig: 196, 260
+  offset: 7, 15
+  index: -1
+back_manto
+  rotate: true
+  xy: 1881, 3237
+  size: 804, 526
+  orig: 824, 533
+  offset: 10, 2
+  index: -1
+body
+  rotate: false
+  xy: 1814, 394
+  size: 525, 696
+  orig: 527, 696
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2546, 1192
+  size: 333, 391
+  orig: 333, 391
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: 270
+  xy: 2394, 2670
+  size: 490, 437
+  orig: 490, 439
+  offset: 0, 0
+  index: -1
+hair_bang
+  rotate: false
+  xy: 3126, 2655
+  size: 218, 285
+  orig: 218, 285
+  offset: 0, 0
+  index: -1
+hair_side
+  rotate: true
+  xy: 2957, 58
+  size: 384, 351
+  orig: 384, 351
+  offset: 0, 0
+  index: -1
+hair_side2
+  rotate: 270
+  xy: 3036, 3261
+  size: 384, 351
+  orig: 384, 351
+  offset: 0, 0
+  index: -1
+hand_front
+  rotate: true
+  xy: 2501, 2236
+  size: 404, 375
+  orig: 404, 375
+  offset: 0, 0
+  index: -1
+hand_light1
+  rotate: true
+  xy: 2416, 3593
+  size: 448, 350
+  orig: 478, 354
+  offset: 1, 1
+  index: -1
+hand_light2
+  rotate: true
+  xy: 2076, 1192
+  size: 531, 440
+  orig: 607, 475
+  offset: 8, 12
+  index: -1
+hand_light3
+  rotate: true
+  xy: 2369, 724
+  size: 438, 374
+  orig: 451, 386
+  offset: 7, 5
+  index: -1
+leaf1
+  rotate: false
+  xy: 2282, 3932
+  size: 84, 109
+  orig: 85, 111
+  offset: 0, 1
+  index: -1
+leaf2
+  rotate: false
+  xy: 1833, 2921
+  size: 90, 106
+  orig: 91, 109
+  offset: 0, 2
+  index: -1
+leaf3
+  rotate: false
+  xy: 1833, 2492
+  size: 71, 57
+  orig: 71, 57
+  offset: 0, 0
+  index: -1
+leaf4
+  rotate: false
+  xy: 3093, 3704
+  size: 195, 211
+  orig: 197, 213
+  offset: 1, 1
+  index: -1
+leaf5
+  rotate: false
+  xy: 1175, 1452
+  size: 145, 209
+  orig: 147, 228
+  offset: 1, 17
+  index: -1
+leaf6
+  rotate: false
+  xy: 1881, 3334
+  size: 70, 146
+  orig: 71, 148
+  offset: 1, 1
+  index: -1
+leaf7_2
+  rotate: false
+  xy: 1667, 2137
+  size: 70, 88
+  orig: 112, 149
+  offset: 1, 61
+  index: -1
+light1
+  rotate: false
+  xy: 30, 1120
+  size: 1115, 911
+  orig: 1130, 982
+  offset: 0, 71
+  index: -1
+light2
+  rotate: false
+  xy: 2796, 3945
+  size: 486, 96
+  orig: 567, 274
+  offset: 81, 178
+  index: -1
+light3
+  rotate: true
+  xy: 30, 233
+  size: 857, 966
+  orig: 1018, 1052
+  offset: 0, 86
+  index: -1
+light_spark
+  rotate: false
+  xy: 1814, 122
+  size: 733, 242
+  orig: 1038, 798
+  offset: 13, 535
+  index: -1
+manto
+  rotate: false
+  xy: 2719, 1577
+  size: 379, 304
+  orig: 386, 306
+  offset: 7, 2
+  index: -1
+particle1
+  rotate: false
+  xy: 1175, 1300
+  size: 139, 122
+  orig: 145, 127
+  offset: 3, 3
+  index: -1
+particle2
+  rotate: false
+  xy: 3043, 1038
+  size: 244, 205
+  orig: 249, 213
+  offset: 2, 3
+  index: -1
+particle3
+  rotate: false
+  xy: 2860, 2687
+  size: 236, 302
+  orig: 239, 316
+  offset: 0, 7
+  index: -1
+particle4
+  rotate: false
+  xy: 1881, 3245
+  size: 58, 59
+  orig: 70, 62
+  offset: 6, 0
+  index: -1
+particle5
+  rotate: false
+  xy: 2853, 3441
+  size: 150, 122
+  orig: 156, 127
+  offset: 3, 3
+  index: -1
+particle6
+  rotate: false
+  xy: 3140, 2489
+  size: 210, 135
+  orig: 212, 138
+  offset: 2, 0
+  index: -1
+rose_left
+  rotate: false
+  xy: 3173, 1322
+  size: 88, 350
+  orig: 88, 350
+  offset: 0, 0
+  index: -1
+rose_right
+  rotate: false
+  xy: 3140, 2176
+  size: 176, 284
+  orig: 176, 287
+  offset: 0, 3
+  index: -1
+shorder_left
+  rotate: false
+  xy: 1351, 2150
+  size: 286, 210
+  orig: 286, 210
+  offset: 0, 0
+  index: -1
+shorder_left2
+  rotate: false
+  xy: 2577, 31
+  size: 350, 286
+  orig: 350, 286
+  offset: 0, 0
+  index: -1
+shoulder_right
+  rotate: false
+  xy: 1833, 2579
+  size: 137, 264
+  orig: 137, 264
+  offset: 0, 0
+  index: -1
+sword_braid
+  rotate: true
+  xy: 2909, 1273
+  size: 274, 234
+  orig: 274, 234
+  offset: 0, 0
+  index: -1
+sword_handle
+  rotate: true
+  xy: 2577, 347
+  size: 347, 305
+  orig: 348, 305
+  offset: 0, 0
+  index: -1
+under
+  rotate: true
+  xy: 1351, 3268
+  size: 773, 500
+  orig: 774, 500
+  offset: 1, 0
+  index: -1
+under_manto
+  rotate: true
+  xy: 2066, 1753
+  size: 833, 490
+  orig: 833, 490
+  offset: 0, 0
+  index: -1
+upper_front
+  rotate: false
+  xy: 2796, 3593
+  size: 267, 297
+  orig: 271, 297
+  offset: 4, 0
+  index: -1
+waist_armor
+  rotate: true
+  xy: 1351, 2390
+  size: 848, 452
+  orig: 851, 463
+  offset: 3, 2
+  index: -1
+waist_manto
+  rotate: 270
+  xy: 1702, 2231
+  size: 970, 759
+  orig: 970, 777
+  offset: 0, 18
+  index: -1
+wind1-1
+  rotate: false
+  xy: 3126, 2969
+  size: 184, 262
+  orig: 188, 264
+  offset: 0, 0
+  index: -1
+wind1-2
+  rotate: false
+  xy: 2906, 2322
+  size: 204, 335
+  orig: 216, 357
+  offset: 0, 10
+  index: -1
+wind2-1
+  rotate: true
+  xy: 1351, 1120
+  size: 977, 695
+  orig: 980, 700
+  offset: 0, 1
+  index: -1
+wind2-2
+  rotate: true
+  xy: 1026, 87
+  size: 1003, 758
+  orig: 1014, 779
+  offset: 0, 9
+  index: -1
+wind3-1
+  rotate: false
+  xy: 3128, 1844
+  size: 216, 177
+  orig: 230, 188
+  offset: 0, 0
+  index: -1
+wind3-2
+  rotate: true
+  xy: 2938, 2051
+  size: 241, 220
+  orig: 252, 259
+  offset: 0, 26
+  index: -1
+wind4-1
+  rotate: true
+  xy: 2586, 1880
+  size: 326, 322
+  orig: 339, 335
+  offset: 0, 2
+  index: -1
+wind4-2
+  rotate: true
+  xy: 2436, 3215
+  size: 348, 387
+  orig: 360, 412
+  offset: 0, 13
+  index: -1
+wind6-1
+  rotate: true
+  xy: 2853, 3019
+  size: 324, 227
+  orig: 338, 236
+  offset: 3, 0
+  index: -1
+wind6-2
+  rotate: true
+  xy: 2773, 759
+  size: 403, 240
+  orig: 431, 252
+  offset: 16, 0
+  index: -1
+wind7-1
+  rotate: false
+  xy: 3128, 1702
+  size: 251, 112
+  orig: 273, 124
+  offset: 4, 0
+  index: -1
+wind7-2
+  rotate: true
+  xy: 1175, 1691
+  size: 340, 129
+  orig: 371, 141
+  offset: 18, 0
+  index: -1

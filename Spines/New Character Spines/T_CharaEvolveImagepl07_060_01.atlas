@@ -1,0 +1,270 @@
+
+T_CharaEvolveImagepl07_060_01.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 20, 2681
+  size: 2253, 1384
+  orig: 2422, 1582
+  offset: 0, 0
+  index: -1
+EF_kira1
+  rotate: false
+  xy: 2144, 340
+  size: 1025, 1285
+  orig: 1027, 1287
+  offset: 1, 1
+  index: -1
+EF_light1
+  rotate: false
+  xy: 20, 1282
+  size: 2104, 1379
+  orig: 2106, 1381
+  offset: 1, 1
+  index: -1
+EF_rokka1
+  rotate: false
+  xy: 3189, 422
+  size: 857, 1203
+  orig: 862, 1206
+  offset: 4, 2
+  index: -1
+EF_rokka2
+  rotate: true
+  xy: 3492, 2490
+  size: 1575, 540
+  orig: 1577, 565
+  offset: 1, 24
+  index: -1
+EF_rokka4
+  rotate: false
+  xy: 3973, 2276
+  size: 76, 194
+  orig: 89, 197
+  offset: 12, 2
+  index: -1
+c_acc1
+  rotate: false
+  xy: 2124, 163
+  size: 458, 157
+  orig: 458, 157
+  offset: 0, 0
+  index: -1
+c_acc3
+  rotate: true
+  xy: 3189, 83
+  size: 319, 598
+  orig: 321, 600
+  offset: 1, 1
+  index: -1
+c_body2
+  rotate: false
+  xy: 3492, 1973
+  size: 461, 497
+  orig: 463, 499
+  offset: 1, 1
+  index: -1
+c_brow
+  rotate: false
+  xy: 2144, 2293
+  size: 80, 174
+  orig: 82, 176
+  offset: 1, 1
+  index: -1
+c_eye1
+  rotate: false
+  xy: 2144, 2487
+  size: 114, 174
+  orig: 116, 176
+  offset: 1, 1
+  index: -1
+c_eye2
+  rotate: true
+  xy: 2755, 219
+  size: 101, 173
+  orig: 103, 175
+  offset: 1, 1
+  index: -1
+c_eye3
+  rotate: true
+  xy: 3492, 1656
+  size: 100, 162
+  orig: 102, 164
+  offset: 1, 1
+  index: -1
+c_hair_bang
+  rotate: false
+  xy: 2500, 150
+  size: 235, 171
+  orig: 235, 171
+  offset: 0, 0
+  index: -1
+c_hair_side1
+  rotate: false
+  xy: 2778, 135
+  size: 245, 145
+  orig: 245, 145
+  offset: 0, 0
+  index: -1
+c_hair_side2
+  rotate: true
+  xy: 3492, 1652
+  size: 302, 438
+  orig: 303, 438
+  offset: 1, 0
+  index: -1
+c_hair_side3
+  rotate: 270
+  xy: 3801, 1685
+  size: 268, 263
+  orig: 268, 263
+  offset: 0, 0
+  index: -1
+c_hirahira1
+  rotate: true
+  xy: 3807, 221
+  size: 177, 236
+  orig: 623, 853
+  offset: 101, 78
+  index: -1
+c_hirahira2
+  rotate: false
+  xy: 2144, 2113
+  size: 113, 159
+  orig: 463, 499
+  offset: 232, 88
+  index: -1
+wave
+  rotate: true
+  xy: 2293, 1645
+  size: 2420, 1179
+  orig: 2422, 1186
+  offset: 1, 1
+  index: -1
+wave_B1
+  rotate: false
+  xy: 20, 217
+  size: 2084, 1045
+  orig: 2422, 1582
+  offset: 168, 100
+  index: -1
+
+T_CharaEvolveImagepl07_060_012.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EF_kira2
+  rotate: false
+  xy: 3541, 2212
+  size: 373, 469
+  orig: 382, 474
+  offset: 4, 1
+  index: -1
+EF_light2
+  rotate: false
+  xy: 20, 1290
+  size: 2100, 1286
+  orig: 2102, 1288
+  offset: 1, 1
+  index: -1
+EF_particle
+  rotate: true
+  xy: 2849, 1280
+  size: 2055, 672
+  orig: 2079, 679
+  offset: 7, 1
+  index: -1
+EF_rainbow
+  rotate: false
+  xy: 20, 2596
+  size: 2021, 1382
+  orig: 2026, 1384
+  offset: 4, 1
+  index: -1
+EF_rokka3
+  rotate: false
+  xy: 3541, 1281
+  size: 353, 911
+  orig: 363, 926
+  offset: 8, 12
+  index: -1
+c_acc2
+  rotate: true
+  xy: 1647, 135
+  size: 359, 593
+  orig: 359, 593
+  offset: 0, 0
+  index: -1
+c_acc3_back
+  rotate: false
+  xy: 3173, 3375
+  size: 467, 603
+  orig: 467, 603
+  offset: 0, 0
+  index: -1
+c_body1
+  rotate: false
+  xy: 3355, 408
+  size: 623, 853
+  orig: 623, 853
+  offset: 0, 0
+  index: -1
+c_hair_back
+  rotate: false
+  xy: 3522, 3171
+  size: 379, 486
+  orig: 379, 486
+  offset: 0, 0
+  index: -1
+c_tube1
+  rotate: false
+  xy: 2124, 514
+  size: 1211, 746
+  orig: 1213, 748
+  offset: 1, 1
+  index: -1
+c_tube2
+  rotate: false
+  xy: 2061, 3540
+  size: 1092, 438
+  orig: 1094, 440
+  offset: 1, 1
+  index: -1
+spray
+  rotate: true
+  xy: 2140, 1290
+  size: 2045, 689
+  orig: 2056, 692
+  offset: 4, 1
+  index: -1
+wave_B2
+  rotate: false
+  xy: 20, 419
+  size: 2084, 851
+  orig: 2086, 867
+  offset: 1, 1
+  index: -1
+
+T_CharaEvolveImagepl07_060_013.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EF_kira3
+  rotate: false
+  xy: 20, 1018
+  size: 753, 783
+  orig: 756, 787
+  offset: 1, 1
+  index: -1
+c_body3
+  rotate: false
+  xy: 793, 872
+  size: 1008, 929
+  orig: 1008, 929
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,243 @@
+
+Card_Large_sk1202042_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_kirito
+  rotate: false
+  xy: 20, 2154
+  size: 1090, 1766
+  orig: 1090, 1766
+  offset: 0, 0
+  index: -1
+air1
+  rotate: 270
+  xy: 3032, 43
+  size: 1284, 884
+  orig: 2371, 884
+  offset: 0, 0
+  index: -1
+air2
+  rotate: true
+  xy: 2239, 1209
+  size: 1439, 1127
+  orig: 2606, 1766
+  offset: 13, 19
+  index: -1
+asuna_
+  rotate: true
+  xy: 1130, 56
+  size: 539, 1229
+  orig: 1621, 1768
+  offset: 2, 538
+  index: -1
+asuna_c
+  rotate: true
+  xy: 2284, 615
+  size: 573, 1229
+  orig: 1654, 1768
+  offset: 1, 538
+  index: -1
+cross
+  rotate: true
+  xy: 1130, 785
+  size: 1362, 1134
+  orig: 1374, 1216
+  offset: 6, 1
+  index: -1
+kirito_
+  rotate: false
+  xy: 1130, 2167
+  size: 1089, 1753
+  orig: 1280, 1755
+  offset: 1, 1
+  index: -1
+kirito_c
+  rotate: false
+  xy: 20, 368
+  size: 1090, 1766
+  orig: 2170, 1766
+  offset: 0, 0
+  index: -1
+kirito_sw_p
+  rotate: false
+  xy: 3363, 3264
+  size: 556, 656
+  orig: 558, 659
+  offset: 1, 2
+  index: -1
+sand
+  rotate: true
+  xy: 2239, 2666
+  size: 1255, 1104
+  orig: 2389, 1104
+  offset: 0, 0
+  index: -1
+stone1
+  rotate: false
+  xy: 2284, 1476
+  size: 190, 159
+  orig: 192, 161
+  offset: 1, 1
+  index: -1
+stone1_1
+  rotate: false
+  xy: 2420, 2606
+  size: 34, 41
+  orig: 36, 43
+  offset: 1, 1
+  index: -1
+stone1_2
+  rotate: false
+  xy: 2520, 2012
+  size: 71, 66
+  orig: 73, 68
+  offset: 1, 1
+  index: -1
+stone1_3
+  rotate: false
+  xy: 2330, 1214
+  size: 19, 31
+  orig: 21, 34
+  offset: 1, 1
+  index: -1
+stone1_4
+  rotate: false
+  xy: 2284, 2075
+  size: 29, 46
+  orig: 31, 48
+  offset: 1, 1
+  index: -1
+stone3
+  rotate: false
+  xy: 2624, 1903
+  size: 74, 160
+  orig: 76, 162
+  offset: 1, 1
+  index: -1
+stone3_1
+  rotate: false
+  xy: 2328, 2575
+  size: 72, 72
+  orig: 74, 74
+  offset: 1, 1
+  index: -1
+stone3_2
+  rotate: false
+  xy: 2239, 2479
+  size: 44, 71
+  orig: 46, 74
+  offset: 1, 2
+  index: -1
+stone3_3
+  rotate: false
+  xy: 2575, 1955
+  size: 22, 37
+  orig: 24, 40
+  offset: 1, 2
+  index: -1
+stone3_4
+  rotate: false
+  xy: 2284, 1383
+  size: 47, 73
+  orig: 49, 75
+  offset: 1, 1
+  index: -1
+stone3_5
+  rotate: false
+  xy: 2284, 1256
+  size: 26, 45
+  orig: 28, 48
+  offset: 1, 2
+  index: -1
+stone3_6
+  rotate: false
+  xy: 2819, 2585
+  size: 49, 61
+  orig: 51, 64
+  offset: 1, 1
+  index: -1
+stone6
+  rotate: false
+  xy: 2284, 1321
+  size: 31, 42
+  orig: 34, 44
+  offset: 2, 1
+  index: -1
+stone7
+  rotate: false
+  xy: 2239, 2570
+  size: 69, 77
+  orig: 71, 79
+  offset: 1, 1
+  index: -1
+stone7_1
+  rotate: false
+  xy: 2474, 2610
+  size: 33, 37
+  orig: 35, 39
+  offset: 1, 1
+  index: -1
+stone7_2
+  rotate: false
+  xy: 2303, 2526
+  size: 15, 24
+  orig: 17, 27
+  offset: 1, 1
+  index: -1
+stone8
+  rotate: false
+  xy: 2330, 1265
+  size: 22, 36
+  orig: 25, 39
+  offset: 2, 2
+  index: -1
+stone9
+  rotate: false
+  xy: 2239, 2426
+  size: 16, 33
+  orig: 18, 35
+  offset: 1, 1
+  index: -1
+stone9_1
+  rotate: false
+  xy: 2527, 2622
+  size: 12, 25
+  orig: 14, 27
+  offset: 1, 1
+  index: -1
+sw_light
+  rotate: false
+  xy: 2284, 1619
+  size: 397, 428
+  orig: 397, 428
+  offset: 0, 0
+  index: -1
+sw_light_p
+  rotate: true
+  xy: 3326, 1208
+  size: 1017, 590
+  orig: 1058, 590
+  offset: 0, 0
+  index: -1
+
+Card_Large_sk1202042_SSR2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+particle1
+  rotate: false
+  xy: 20, 869
+  size: 1613, 1140
+  orig: 1613, 1140
+  offset: 0, 0
+  index: -1
+particle２
+  rotate: false
+  xy: 325, 911
+  size: 1683, 715
+  orig: 1683, 1351
+  offset: 0, 636
+  index: -1

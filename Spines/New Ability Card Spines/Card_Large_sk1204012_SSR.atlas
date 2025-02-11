@@ -1,0 +1,299 @@
+
+Card_Large_sk1204012_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 30, 2287
+  size: 1090, 1766
+  orig: 1090, 1766
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1150, 2483
+  size: 1192, 1571
+  orig: 1192, 1571
+  offset: 0, 0
+  index: -1
+earR
+  rotate: false
+  xy: 1150, 2360
+  size: 106, 93
+  orig: 109, 95
+  offset: 1, 1
+  index: -1
+eye1
+  rotate: false
+  xy: 2153, 3267
+  size: 182, 61
+  orig: 182, 61
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 2350, 3999
+  size: 180, 54
+  orig: 180, 54
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 2350, 3933
+  size: 174, 36
+  orig: 174, 36
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1281, 431
+  size: 335, 280
+  orig: 337, 282
+  offset: 1, 1
+  index: -1
+hair_back1
+  rotate: true
+  xy: 2205, 2571
+  size: 1288, 991
+  orig: 1288, 991
+  offset: 0, 0
+  index: -1
+hair_back3
+  rotate: false
+  xy: 1331, 3347
+  size: 102, 232
+  orig: 102, 232
+  offset: 0, 0
+  index: -1
+kaze1
+  rotate: false
+  xy: 3544, 1996
+  size: 354, 1420
+  orig: 382, 1490
+  offset: 26, 1
+  index: -1
+kaze2
+  rotate: false
+  xy: 3653, 394
+  size: 299, 351
+  orig: 312, 362
+  offset: 10, 6
+  index: -1
+kaze3
+  rotate: false
+  xy: 1346, 1585
+  size: 982, 868
+  orig: 1013, 874
+  offset: 1, 1
+  index: -1
+kaze4
+  rotate: false
+  xy: 1346, 741
+  size: 928, 814
+  orig: 931, 817
+  offset: 1, 1
+  index: -1
+kaze5
+  rotate: false
+  xy: 2202, 3383
+  size: 223, 73
+  orig: 226, 75
+  offset: 1, 1
+  index: -1
+leg
+  rotate: false
+  xy: 2304, 775
+  size: 736, 780
+  orig: 738, 782
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 30, 912
+  size: 1286, 1345
+  orig: 1288, 1359
+  offset: 1, 1
+  index: -1
+mozi1
+  rotate: false
+  xy: 30, 141
+  size: 1221, 325
+  orig: 1232, 333
+  offset: 5, 4
+  index: -1
+mozi1_1
+  rotate: true
+  xy: 3070, 775
+  size: 1218, 434
+  orig: 1230, 463
+  offset: 11, 16
+  index: -1
+mozi2
+  rotate: false
+  xy: 2304, 403
+  size: 1283, 342
+  orig: 1291, 354
+  offset: 7, 7
+  index: -1
+mozi2_1
+  rotate: false
+  xy: 30, 496
+  size: 1177, 386
+  orig: 1179, 388
+  offset: 1, 1
+  index: -1
+mozi3_1
+  rotate: true
+  xy: 3534, 775
+  size: 1150, 432
+  orig: 1160, 465
+  offset: 1, 20
+  index: -1
+mozi4_1
+  rotate: false
+  xy: 1281, 31
+  size: 1145, 342
+  orig: 1174, 371
+  offset: 28, 6
+  index: -1
+mozi5
+  rotate: true
+  xy: 3114, 2126
+  size: 1290, 400
+  orig: 1299, 413
+  offset: 8, 5
+  index: -1
+mozi5_1
+  rotate: false
+  xy: 2456, 38
+  size: 1167, 335
+  orig: 1213, 388
+  offset: 26, 19
+  index: -1
+skirt
+  rotate: true
+  xy: 3492, 3564
+  size: 490, 467
+  orig: 490, 467
+  offset: 0, 0
+  index: -1
+skirt2
+  rotate: false
+  xy: 3010, 3521
+  size: 510, 372
+  orig: 510, 372
+  offset: 0, 0
+  index: -1
+tue1
+  rotate: true
+  xy: 2358, 1708
+  size: 745, 560
+  orig: 804, 620
+  offset: 58, 59
+  index: -1
+tue2
+  rotate: false
+  xy: 1991, 3791
+  size: 154, 262
+  orig: 171, 290
+  offset: 11, 13
+  index: -1
+tue3
+  rotate: true
+  xy: 1589, 3830
+  size: 223, 372
+  orig: 239, 385
+  offset: 10, 6
+  index: -1
+tue4
+  rotate: false
+  xy: 1646, 432
+  size: 211, 279
+  orig: 227, 298
+  offset: 11, 6
+  index: -1
+tue5
+  rotate: false
+  xy: 1150, 3136
+  size: 151, 268
+  orig: 161, 278
+  offset: 7, 6
+  index: -1
+tue6
+  rotate: false
+  xy: 2048, 3358
+  size: 124, 201
+  orig: 137, 212
+  offset: 7, 5
+  index: -1
+tue7
+  rotate: false
+  xy: 2175, 3887
+  size: 145, 166
+  orig: 145, 166
+  offset: 0, 0
+  index: -1
+tue8
+  rotate: false
+  xy: 1150, 2902
+  size: 79, 204
+  orig: 95, 228
+  offset: 6, 9
+  index: -1
+
+Card_Large_sk1204012_SSR2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+clith1
+  rotate: true
+  xy: 336, 432
+  size: 951, 766
+  orig: 951, 766
+  offset: 0, 0
+  index: -1
+cloth2
+  rotate: true
+  xy: 30, 962
+  size: 859, 950
+  orig: 859, 950
+  offset: 0, 0
+  index: -1
+hair_back2
+  rotate: 180
+  xy: 899, 516
+  size: 648, 745
+  orig: 648, 745
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: 270
+  xy: 30, 32
+  size: 688, 673
+  orig: 688, 673
+  offset: 0, 0
+  index: -1
+hair_sideR
+  rotate: false
+  xy: 912, 91
+  size: 558, 459
+  orig: 558, 459
+  offset: 0, 0
+  index: -1
+mozi3
+  rotate: false
+  xy: 30, 1851
+  size: 1073, 323
+  orig: 1084, 331
+  offset: 5, 4
+  index: -1
+mozi4
+  rotate: true
+  xy: 1133, 1066
+  size: 1108, 271
+  orig: 1113, 279
+  offset: 4, 4
+  index: -1

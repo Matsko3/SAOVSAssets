@@ -1,0 +1,201 @@
+
+Card_Large_sk1202053_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+asuna_accessory
+  rotate: false
+  xy: 3787, 3636
+  size: 218, 425
+  orig: 218, 425
+  offset: 0, 0
+  index: -1
+asuna_body
+  rotate: true
+  xy: 30, 229
+  size: 873, 1697
+  orig: 875, 1699
+  offset: 1, 1
+  index: -1
+asuna_eye1
+  rotate: false
+  xy: 2274, 1135
+  size: 251, 118
+  orig: 260, 131
+  offset: 1, 12
+  index: -1
+asuna_eye2
+  rotate: false
+  xy: 293, 89
+  size: 251, 110
+  orig: 260, 128
+  offset: 1, 12
+  index: -1
+asuna_eye3
+  rotate: false
+  xy: 3376, 2872
+  size: 217, 52
+  orig: 219, 54
+  offset: 1, 1
+  index: -1
+asuna_hair_bang
+  rotate: false
+  xy: 2966, 1616
+  size: 346, 347
+  orig: 346, 347
+  offset: 0, 0
+  index: -1
+asuna_hand2_1
+  rotate: true
+  xy: 30, 77
+  size: 122, 233
+  orig: 124, 235
+  offset: 1, 1
+  index: -1
+asuna_hand2_2
+  rotate: false
+  xy: 3376, 2954
+  size: 523, 1107
+  orig: 523, 1107
+  offset: 0, 0
+  index: -1
+asuna_side_hair2
+  rotate: 270
+  xy: 1797, 31
+  size: 313, 1374
+  orig: 313, 1374
+  offset: 0, 0
+  index: -1
+bg1
+  rotate: true
+  xy: 30, 1132
+  size: 1309, 1917
+  orig: 1309, 1917
+  offset: 0, 0
+  index: -1
+bg_0
+  rotate: true
+  xy: 3732, 1000
+  size: 757, 228
+  orig: 759, 1725
+  offset: 1, 1496
+  index: -1
+bg_1
+  rotate: false
+  xy: 2966, 2337
+  size: 380, 1724
+  orig: 759, 1725
+  offset: 127, 1
+  index: -1
+bg_1_p
+  rotate: true
+  xy: 1757, 343
+  size: 759, 1725
+  orig: 759, 1725
+  offset: 0, 0
+  index: -1
+bg_1_r
+  rotate: 270
+  xy: 1977, 1183
+  size: 759, 1725
+  orig: 759, 1725
+  offset: 0, 0
+  index: -1
+bg_1_w
+  rotate: 270
+  xy: 2017, 211
+  size: 759, 1725
+  orig: 759, 1725
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: true
+  xy: 2579, 1674
+  size: 2387, 357
+  orig: 2389, 359
+  offset: 1, 1
+  index: -1
+bg_3
+  rotate: true
+  xy: 2075, 1674
+  size: 2387, 474
+  orig: 2389, 476
+  offset: 1, 1
+  index: -1
+ef1
+  rotate: false
+  xy: 30, 2471
+  size: 2015, 1590
+  orig: 2146, 1748
+  offset: 130, 157
+  index: -1
+ef2
+  rotate: false
+  xy: 2966, 2059
+  size: 282, 248
+  orig: 286, 250
+  offset: 3, 0
+  index: -1
+ef3
+  rotate: false
+  xy: 3637, 2699
+  size: 393, 394
+  orig: 400, 399
+  offset: 3, 2
+  index: -1
+ef4
+  rotate: false
+  xy: 1977, 1024
+  size: 267, 266
+  orig: 299, 301
+  offset: 20, 24
+  index: -1
+ef5
+  rotate: true
+  xy: 3376, 1972
+  size: 697, 445
+  orig: 705, 705
+  offset: 4, 256
+  index: -1
+
+Card_Large_sk1202053_SSR2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+alice_hand
+  rotate: 180
+  xy: 30, 835
+  size: 854, 1013
+  orig: 854, 1013
+  offset: 0, 0
+  index: -1
+alice_side_hair2
+  rotate: 270
+  xy: 530, 278
+  size: 475, 1316
+  orig: 475, 1316
+  offset: 0, 0
+  index: -1
+asuna_face
+  rotate: false
+  xy: 1447, 1450
+  size: 388, 398
+  orig: 390, 400
+  offset: 1, 1
+  index: -1
+asuna_hair_side1
+  rotate: 270
+  xy: 493, 450
+  size: 561, 1348
+  orig: 561, 1348
+  offset: 0, 0
+  index: -1
+asuna_hand1
+  rotate: 180
+  xy: 715, 793
+  size: 714, 1055
+  orig: 714, 1121
+  offset: 0, 66
+  index: -1

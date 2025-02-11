@@ -1,0 +1,139 @@
+
+Card_Large_sk1202119_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 30, 1733
+  size: 1716, 2143
+  orig: 1718, 2145
+  offset: 1, 1
+  index: -1
+chara
+  rotate: true
+  xy: 30, 642
+  size: 1061, 1627
+  orig: 1063, 1629
+  offset: 1, 1
+  index: -1
+ef_circle1
+  rotate: false
+  xy: 1344, 31
+  size: 260, 195
+  orig: 267, 202
+  offset: 4, 4
+  index: -1
+ef_circle2
+  rotate: false
+  xy: 714, 45
+  size: 47, 46
+  orig: 54, 53
+  offset: 4, 3
+  index: -1
+ef_circle3
+  rotate: false
+  xy: 1479, 351
+  size: 147, 261
+  orig: 152, 269
+  offset: 3, 4
+  index: -1
+ef_circle4
+  rotate: false
+  xy: 714, 321
+  size: 215, 291
+  orig: 222, 298
+  offset: 4, 3
+  index: -1
+ef_circle5
+  rotate: false
+  xy: 714, 121
+  size: 325, 170
+  orig: 329, 175
+  offset: 2, 3
+  index: -1
+ef_circle6
+  rotate: false
+  xy: 30, 30
+  size: 654, 582
+  orig: 664, 588
+  offset: 5, 3
+  index: -1
+item_1
+  rotate: false
+  xy: 1634, 84
+  size: 179, 257
+  orig: 179, 257
+  offset: 0, 0
+  index: -1
+item_2
+  rotate: false
+  xy: 1054, 32
+  size: 398, 360
+  orig: 398, 360
+  offset: 0, 0
+  index: -1
+item_3
+  rotate: true
+  xy: 1656, 371
+  size: 171, 162
+  orig: 173, 164
+  offset: 1, 1
+  index: -1
+item_ef
+  rotate: false
+  xy: 791, 43
+  size: 37, 48
+  orig: 39, 51
+  offset: 1, 2
+  index: -1
+item_ef2
+  rotate: false
+  xy: 1687, 776
+  size: 130, 148
+  orig: 139, 155
+  offset: 4, 3
+  index: -1
+leaf1
+  rotate: false
+  xy: 1730, 57
+  size: 46, 69
+  orig: 50, 73
+  offset: 2, 2
+  index: -1
+leaf2
+  rotate: false
+  xy: 858, 34
+  size: 29, 57
+  orig: 33, 61
+  offset: 2, 2
+  index: -1
+leaf3
+  rotate: false
+  xy: 1687, 1159
+  size: 110, 76
+  orig: 114, 80
+  offset: 2, 2
+  index: -1
+leaf4
+  rotate: false
+  xy: 1181, 45
+  size: 111, 79
+  orig: 114, 83
+  offset: 2, 2
+  index: -1
+leaf5
+  rotate: false
+  xy: 1687, 572
+  size: 125, 174
+  orig: 129, 176
+  offset: 1, 1
+  index: -1
+leaf6
+  rotate: true
+  xy: 1687, 954
+  size: 175, 105
+  orig: 180, 109
+  offset: 2, 2
+  index: -1

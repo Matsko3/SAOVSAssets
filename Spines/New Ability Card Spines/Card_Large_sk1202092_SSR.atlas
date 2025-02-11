@@ -1,0 +1,258 @@
+
+Card_Large_sk1202092_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 20, 2044
+  size: 1286, 1972
+  orig: 1288, 1974
+  offset: 1, 1
+  index: -1
+arm_left
+  rotate: 180
+  xy: 2355, 2056
+  size: 542, 1455
+  orig: 542, 1455
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: true
+  xy: 1996, 21
+  size: 754, 892
+  orig: 754, 892
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1326, 71
+  size: 646, 1530
+  orig: 646, 1530
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 2802, 3458
+  size: 178, 90
+  orig: 180, 92
+  offset: 1, 1
+  index: -1
+eye_harf
+  rotate: false
+  xy: 2780, 3792
+  size: 195, 98
+  orig: 197, 100
+  offset: 1, 1
+  index: -1
+eye_open
+  rotate: false
+  xy: 2780, 3910
+  size: 200, 106
+  orig: 202, 108
+  offset: 1, 1
+  index: -1
+eyebrow
+  rotate: true
+  xy: 2890, 1878
+  size: 199, 71
+  orig: 201, 73
+  offset: 1, 1
+  index: -1
+fan
+  rotate: 270
+  xy: 2652, 321
+  size: 475, 332
+  orig: 475, 332
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: 270
+  xy: 2631, 2056
+  size: 349, 275
+  orig: 349, 275
+  offset: 0, 0
+  index: -1
+hair_bang
+  rotate: true
+  xy: 2518, 3276
+  size: 371, 218
+  orig: 371, 218
+  offset: 0, 0
+  index: -1
+headdress
+  rotate: false
+  xy: 2355, 1654
+  size: 498, 382
+  orig: 500, 384
+  offset: 1, 1
+  index: -1
+headdress_back
+  rotate: false
+  xy: 2580, 3683
+  size: 85, 37
+  orig: 88, 41
+  offset: 2, 2
+  index: -1
+leaf1
+  rotate: false
+  xy: 2658, 3233
+  size: 68, 34
+  orig: 70, 37
+  offset: 1, 2
+  index: -1
+leaf2
+  rotate: false
+  xy: 2518, 3170
+  size: 52, 89
+  orig: 54, 92
+  offset: 1, 1
+  index: -1
+leaf3
+  rotate: false
+  xy: 2896, 3177
+  size: 88, 67
+  orig: 90, 69
+  offset: 1, 1
+  index: -1
+leaf4
+  rotate: false
+  xy: 2639, 3488
+  size: 44, 56
+  orig: 46, 58
+  offset: 1, 1
+  index: -1
+leaf5
+  rotate: false
+  xy: 2518, 3639
+  size: 42, 81
+  orig: 44, 83
+  offset: 1, 1
+  index: -1
+leaf6
+  rotate: false
+  xy: 2856, 2549
+  size: 79, 133
+  orig: 79, 133
+  offset: 0, 0
+  index: -1
+leaf6_2
+  rotate: false
+  xy: 2610, 3424
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+leaf7
+  rotate: false
+  xy: 2816, 2425
+  size: 135, 104
+  orig: 138, 106
+  offset: 2, 1
+  index: -1
+leaf8
+  rotate: false
+  xy: 2822, 73
+  size: 108, 100
+  orig: 111, 102
+  offset: 2, 1
+  index: -1
+leaf9
+  rotate: false
+  xy: 2889, 2702
+  size: 70, 89
+  orig: 72, 91
+  offset: 1, 1
+  index: -1
+light
+  rotate: true
+  xy: 1976, 780
+  size: 821, 752
+  orig: 996, 974
+  offset: 1, 221
+  index: -1
+light2
+  rotate: false
+  xy: 20, 370
+  size: 1286, 1654
+  orig: 1288, 1668
+  offset: 1, 13
+  index: -1
+light3
+  rotate: false
+  xy: 1326, 1621
+  size: 1009, 897
+  orig: 1288, 1193
+  offset: 1, 295
+  index: -1
+light4
+  rotate: false
+  xy: 1326, 2538
+  size: 1172, 1478
+  orig: 1288, 1812
+  offset: 1, 333
+  index: -1
+particle1
+  rotate: false
+  xy: 2756, 3568
+  size: 156, 152
+  orig: 173, 166
+  offset: 7, 6
+  index: -1
+particle2
+  rotate: false
+  xy: 2748, 1474
+  size: 160, 160
+  orig: 174, 172
+  offset: 9, 5
+  index: -1
+particle3
+  rotate: false
+  xy: 2748, 1215
+  size: 164, 161
+  orig: 180, 177
+  offset: 7, 8
+  index: -1
+particle4
+  rotate: false
+  xy: 2541, 32
+  size: 261, 269
+  orig: 275, 286
+  offset: 9, 10
+  index: -1
+particle5
+  rotate: false
+  xy: 2518, 3740
+  size: 242, 276
+  orig: 260, 295
+  offset: 9, 10
+  index: -1
+particle6
+  rotate: false
+  xy: 2748, 795
+  size: 168, 199
+  orig: 187, 216
+  offset: 10, 10
+  index: -1
+particle7
+  rotate: false
+  xy: 2822, 193
+  size: 131, 132
+  orig: 145, 147
+  offset: 6, 7
+  index: -1
+particle8
+  rotate: false
+  xy: 2748, 1014
+  size: 176, 181
+  orig: 193, 199
+  offset: 9, 9
+  index: -1
+tassel
+  rotate: false
+  xy: 2879, 1647
+  size: 99, 211
+  orig: 99, 211
+  offset: 0, 0
+  index: -1

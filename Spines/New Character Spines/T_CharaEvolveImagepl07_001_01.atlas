@@ -1,0 +1,13 @@
+
+T_CharaEvolveImagepl07_001_01.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+BG
+  rotate: false
+  xy: 30, 870
+  size: 1970, 1130
+  orig: 1970, 1130
+  offset: 0, 0
+  index: -1

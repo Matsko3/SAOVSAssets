@@ -1,0 +1,712 @@
+
+Card_Large_sk1202071_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 30, 646
+  size: 1090, 1766
+  orig: 1090, 1766
+  offset: 0, 0
+  index: -1
+BG_Incident light
+  rotate: false
+  xy: 30, 1766
+  size: 1710, 2300
+  orig: 1902, 2302
+  offset: 1, 1
+  index: -1
+arm_L_frill_1
+  rotate: 270
+  xy: 3013, 3491
+  size: 229, 156
+  orig: 229, 156
+  offset: 0, 0
+  index: -1
+arm_L_frill_2
+  rotate: false
+  xy: 2770, 3070
+  size: 178, 187
+  orig: 178, 187
+  offset: 0, 0
+  index: -1
+arm_R_frill_1
+  rotate: true
+  xy: 3930, 3187
+  size: 205, 128
+  orig: 205, 128
+  offset: 0, 0
+  index: -1
+arm_R_frill_2
+  rotate: true
+  xy: 2559, 1564
+  size: 205, 151
+  orig: 205, 151
+  offset: 0, 0
+  index: -1
+back_eff_1
+  rotate: true
+  xy: 3068, 31
+  size: 941, 884
+  orig: 1246, 963
+  offset: 76, 79
+  index: -1
+back_eff_2
+  rotate: true
+  xy: 2717, 355
+  size: 1147, 872
+  orig: 1147, 1036
+  offset: 0, 139
+  index: -1
+back_eff_4
+  rotate: false
+  xy: 2559, 1522
+  size: 956, 1123
+  orig: 1649, 1580
+  offset: 450, 220
+  index: -1
+body
+  rotate: false
+  xy: 1826, 1556
+  size: 703, 1088
+  orig: 705, 1090
+  offset: 1, 1
+  index: -1
+body_frill
+  rotate: true
+  xy: 3913, 3610
+  size: 204, 150
+  orig: 204, 150
+  offset: 0, 0
+  index: -1
+cloak_R_bure
+  rotate: true
+  xy: 2760, 2363
+  size: 1154, 881
+  orig: 1279, 1190
+  offset: 125, 87
+  index: -1
+eye1
+  rotate: true
+  xy: 3520, 1533
+  size: 142, 73
+  orig: 144, 75
+  offset: 1, 1
+  index: -1
+eye2
+  rotate: true
+  xy: 1724, 192
+  size: 139, 64
+  orig: 141, 66
+  offset: 1, 1
+  index: -1
+eye3
+  rotate: true
+  xy: 3013, 3370
+  size: 132, 52
+  orig: 134, 54
+  offset: 1, 1
+  index: -1
+hair_back_2
+  rotate: false
+  xy: 3152, 3246
+  size: 821, 813
+  orig: 821, 813
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 3013, 3761
+  size: 99, 112
+  orig: 101, 114
+  offset: 1, 1
+  index: -1
+hip
+  rotate: false
+  xy: 780, 61
+  size: 513, 555
+  orig: 541, 638
+  offset: 27, 54
+  index: -1
+kira_2
+  rotate: false
+  xy: 1770, 2621
+  size: 23, 23
+  orig: 32, 31
+  offset: 4, 4
+  index: -1
+kira_3
+  rotate: false
+  xy: 3730, 30
+  size: 317, 268
+  orig: 319, 327
+  offset: 1, 1
+  index: -1
+kira_6
+  rotate: true
+  xy: 3409, 1003
+  size: 243, 187
+  orig: 269, 205
+  offset: 9, 14
+  index: -1
+kira_7
+  rotate: false
+  xy: 3227, 3827
+  size: 46, 46
+  orig: 53, 53
+  offset: 3, 3
+  index: -1
+kira_8
+  rotate: false
+  xy: 3958, 328
+  size: 99, 190
+  orig: 101, 194
+  offset: 1, 3
+  index: -1
+leg_L
+  rotate: false
+  xy: 2770, 3287
+  size: 213, 779
+  orig: 215, 781
+  offset: 1, 1
+  index: -1
+leg_R
+  rotate: true
+  xy: 30, 202
+  size: 414, 720
+  orig: 416, 722
+  offset: 1, 1
+  index: -1
+light_2
+  rotate: false
+  xy: 1770, 2674
+  size: 970, 1392
+  orig: 987, 1416
+  offset: 9, 8
+  index: -1
+particle_1
+  rotate: false
+  xy: 2559, 2547
+  size: 27, 33
+  orig: 1824, 2035
+  offset: 2, 1124
+  index: -1
+particle_11
+  rotate: false
+  xy: 3830, 805
+  size: 180, 185
+  orig: 1497, 2035
+  offset: 1089, 1530
+  index: -1
+particle_17
+  rotate: false
+  xy: 30, 49
+  size: 386, 123
+  orig: 1604, 2035
+  offset: 2, 1425
+  index: -1
+particle_2
+  rotate: false
+  xy: 1770, 2521
+  size: 19, 19
+  orig: 1723, 2035
+  offset: 2, 941
+  index: -1
+particle_3
+  rotate: false
+  xy: 1770, 2570
+  size: 21, 21
+  orig: 1512, 2035
+  offset: 2, 1006
+  index: -1
+particle_5
+  rotate: false
+  xy: 3074, 2305
+  size: 63, 28
+  orig: 1584, 2035
+  offset: 2, 357
+  index: -1
+particle_6
+  rotate: true
+  xy: 1724, 361
+  size: 255, 69
+  orig: 1497, 2035
+  offset: 433, 292
+  index: -1
+particle_7
+  rotate: false
+  xy: 2559, 2610
+  size: 31, 34
+  orig: 1497, 2035
+  offset: 1206, 374
+  index: -1
+particle_8
+  rotate: false
+  xy: 2843, 1289
+  size: 205, 256
+  orig: 1497, 2035
+  offset: 342, 449
+  index: -1
+particle_9
+  rotate: true
+  xy: 3013, 3903
+  size: 163, 242
+  orig: 1497, 2035
+  offset: 856, 811
+  index: -1
+petal_01_1
+  rotate: false
+  xy: 2533, 529
+  size: 171, 278
+  orig: 184, 294
+  offset: 7, 8
+  index: -1
+petal_01_12
+  rotate: false
+  xy: 1724, 46
+  size: 371, 83
+  orig: 384, 104
+  offset: 6, 14
+  index: -1
+petal_01_15
+  rotate: true
+  xy: 3710, 3847
+  size: 219, 307
+  orig: 229, 316
+  offset: 9, 8
+  index: -1
+petal_01_18
+  rotate: true
+  xy: 446, 51
+  size: 121, 234
+  orig: 134, 250
+  offset: 7, 8
+  index: -1
+petal_01_2
+  rotate: false
+  xy: 3405, 2396
+  size: 80, 86
+  orig: 93, 103
+  offset: 7, 8
+  index: -1
+petal_01_20
+  rotate: false
+  xy: 1323, 48
+  size: 371, 568
+  orig: 384, 584
+  offset: 6, 8
+  index: -1
+petal_01_21
+  rotate: false
+  xy: 3519, 1835
+  size: 481, 647
+  orig: 499, 666
+  offset: 9, 10
+  index: -1
+petal_01_3
+  rotate: false
+  xy: 3599, 3188
+  size: 60, 63
+  orig: 74, 80
+  offset: 7, 8
+  index: -1
+petal_01_4
+  rotate: true
+  xy: 2533, 361
+  size: 138, 149
+  orig: 153, 163
+  offset: 7, 7
+  index: -1
+petal_01_5
+  rotate: false
+  xy: 2125, 45
+  size: 219, 84
+  orig: 228, 93
+  offset: 8, 1
+  index: -1
+petal_01_8
+  rotate: false
+  xy: 3602, 4006
+  size: 67, 60
+  orig: 83, 77
+  offset: 8, 8
+  index: -1
+petal_01_9
+  rotate: true
+  xy: 3194, 2401
+  size: 269, 181
+  orig: 283, 197
+  offset: 7, 8
+  index: -1
+petal_02_1
+  rotate: true
+  xy: 2843, 1122
+  size: 137, 138
+  orig: 141, 142
+  offset: 2, 2
+  index: -1
+petal_02_10
+  rotate: true
+  xy: 3238, 2700
+  size: 108, 151
+  orig: 123, 167
+  offset: 9, 8
+  index: -1
+petal_02_2
+  rotate: false
+  xy: 3976, 652
+  size: 83, 123
+  orig: 96, 139
+  offset: 7, 8
+  index: -1
+petal_02_5
+  rotate: true
+  xy: 3255, 557
+  size: 102, 89
+  orig: 115, 103
+  offset: 6, 7
+  index: -1
+petal_02_7
+  rotate: false
+  xy: 3330, 2838
+  size: 55, 56
+  orig: 72, 74
+  offset: 9, 9
+  index: -1
+petal_02_8
+  rotate: true
+  xy: 2374, 40
+  size: 89, 125
+  orig: 94, 132
+  offset: 1, 5
+  index: -1
+petal_03_1
+  rotate: true
+  xy: 2872, 2202
+  size: 134, 172
+  orig: 138, 177
+  offset: 2, 3
+  index: -1
+splash_01
+  rotate: false
+  xy: 1826, 159
+  size: 677, 648
+  orig: 680, 650
+  offset: 1, 1
+  index: -1
+splash_03
+  rotate: true
+  xy: 2533, 76
+  size: 249, 495
+  orig: 252, 498
+  offset: 1, 1
+  index: -1
+splash_04
+  rotate: false
+  xy: 1826, 837
+  size: 987, 689
+  orig: 992, 693
+  offset: 4, 3
+  index: -1
+weapon
+  rotate: false
+  xy: 3631, 1020
+  size: 334, 785
+  orig: 336, 787
+  offset: 1, 1
+  index: -1
+weapon_particle_2
+  rotate: true
+  xy: 3419, 2512
+  size: 646, 596
+  orig: 1510, 2035
+  offset: 2, 366
+  index: -1
+
+Card_Large_sk1202071_SSR2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 1386, 1019
+  size: 299, 502
+  orig: 301, 504
+  offset: 1, 1
+  index: -1
+back_eff_3
+  rotate: 270
+  xy: 30, 1329
+  size: 557, 755
+  orig: 646, 1125
+  offset: 89, 323
+  index: -1
+body_bure
+  rotate: false
+  xy: 30, 642
+  size: 485, 486
+  orig: 674, 1027
+  offset: 44, 489
+  index: -1
+cloak_L
+  rotate: true
+  xy: 30, 895
+  size: 472, 898
+  orig: 472, 898
+  offset: 0, 0
+  index: -1
+cloak_R
+  rotate: false
+  xy: 30, 1581
+  size: 1070, 721
+  orig: 1070, 721
+  offset: 0, 0
+  index: -1
+hair_back_1
+  rotate: 270
+  xy: 757, 1189
+  size: 286, 150
+  orig: 286, 150
+  offset: 0, 0
+  index: -1
+hair_back_2_bure
+  rotate: false
+  xy: 30, 2210
+  size: 692, 551
+  orig: 829, 1253
+  offset: 11, 584
+  index: -1
+hair_front_1
+  rotate: true
+  xy: 1127, 57
+  size: 81, 147
+  orig: 81, 147
+  offset: 0, 0
+  index: -1
+hair_front_2
+  rotate: true
+  xy: 185, 2108
+  size: 110, 192
+  orig: 110, 192
+  offset: 0, 0
+  index: -1
+hair_front_3
+  rotate: true
+  xy: 194, 243
+  size: 391, 829
+  orig: 391, 829
+  offset: 0, 0
+  index: -1
+hair_front_4
+  rotate: true
+  xy: 719, 155
+  size: 248, 800
+  orig: 248, 800
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 862, 268
+  size: 212, 246
+  orig: 214, 248
+  offset: 1, 1
+  index: -1
+kira_1
+  rotate: false
+  xy: 1571, 2683
+  size: 78, 80
+  orig: 103, 97
+  offset: 14, 10
+  index: -1
+kira_4
+  rotate: false
+  xy: 1359, 662
+  size: 203, 327
+  orig: 222, 344
+  offset: 13, 16
+  index: -1
+kira_5
+  rotate: false
+  xy: 1444, 433
+  size: 252, 152
+  orig: 447, 189
+  offset: 15, 13
+  index: -1
+kira_9
+  rotate: false
+  xy: 958, 1047
+  size: 398, 450
+  orig: 400, 455
+  offset: 1, 1
+  index: -1
+light_1
+  rotate: true
+  xy: 578, 2017
+  size: 163, 455
+  orig: 1497, 2035
+  offset: 53, 414
+  index: -1
+particle_10
+  rotate: true
+  xy: 408, 2129
+  size: 75, 116
+  orig: 1497, 2035
+  offset: 946, 1237
+  index: -1
+particle_12
+  rotate: true
+  xy: 571, 2691
+  size: 76, 116
+  orig: 1497, 2035
+  offset: 1015, 1891
+  index: -1
+particle_13
+  rotate: true
+  xy: 1430, 2683
+  size: 73, 111
+  orig: 1497, 2035
+  offset: 895, 1728
+  index: -1
+particle_14
+  rotate: false
+  xy: 216, 92
+  size: 141, 130
+  orig: 1497, 2035
+  offset: 701, 1796
+  index: -1
+particle_15
+  rotate: false
+  xy: 646, 67
+  size: 136, 113
+  orig: 1497, 2035
+  offset: 500, 1832
+  index: -1
+particle_16
+  rotate: true
+  xy: 544, 650
+  size: 214, 307
+  orig: 1497, 2035
+  offset: 290, 1582
+  index: -1
+particle_4
+  rotate: true
+  xy: 968, 32
+  size: 93, 129
+  orig: 1545, 2035
+  offset: 3, 558
+  index: -1
+petal_01_10
+  rotate: true
+  xy: 1288, 2219
+  size: 434, 388
+  orig: 446, 403
+  offset: 6, 7
+  index: -1
+petal_01_11
+  rotate: true
+  xy: 1474, 119
+  size: 214, 222
+  orig: 228, 239
+  offset: 7, 8
+  index: -1
+petal_01_13
+  rotate: true
+  xy: 30, 497
+  size: 171, 129
+  orig: 187, 145
+  offset: 8, 8
+  index: -1
+petal_01_14
+  rotate: false
+  xy: 1592, 615
+  size: 101, 160
+  orig: 113, 174
+  offset: 6, 7
+  index: -1
+petal_01_16
+  rotate: false
+  xy: 1510, 2088
+  size: 165, 92
+  orig: 177, 104
+  offset: 5, 5
+  index: -1
+petal_01_17
+  rotate: true
+  xy: 1510, 1551
+  size: 507, 190
+  orig: 521, 206
+  offset: 7, 8
+  index: -1
+petal_01_19
+  rotate: false
+  xy: 957, 673
+  size: 372, 294
+  orig: 386, 310
+  offset: 7, 7
+  index: -1
+petal_01_6
+  rotate: false
+  xy: 818, 1509
+  size: 79, 87
+  orig: 92, 102
+  offset: 6, 8
+  index: -1
+petal_01_7
+  rotate: true
+  xy: 444, 99
+  size: 135, 172
+  orig: 149, 187
+  offset: 7, 7
+  index: -1
+petal_02_11
+  rotate: false
+  xy: 812, 31
+  size: 126, 106
+  orig: 138, 121
+  offset: 6, 8
+  index: -1
+petal_02_3
+  rotate: true
+  xy: 30, 86
+  size: 136, 156
+  orig: 148, 174
+  offset: 6, 11
+  index: -1
+petal_02_4
+  rotate: true
+  xy: 1288, 2683
+  size: 74, 112
+  orig: 80, 117
+  offset: 2, 3
+  index: -1
+petal_02_6
+  rotate: true
+  xy: 1592, 805
+  size: 137, 114
+  orig: 151, 128
+  offset: 6, 7
+  index: -1
+petal_02_9
+  rotate: false
+  xy: 1321, 84
+  size: 123, 130
+  orig: 137, 145
+  offset: 7, 8
+  index: -1
+splash_02
+  rotate: true
+  xy: 751, 2218
+  size: 549, 507
+  orig: 552, 511
+  offset: 1, 2
+  index: -1
+weapon_particle_1
+  rotate: false
+  xy: 1129, 1551
+  size: 351, 637
+  orig: 1497, 2035
+  offset: 621, 860
+  index: -1

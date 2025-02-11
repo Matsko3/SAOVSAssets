@@ -1,0 +1,313 @@
+
+Card_Large_sk1202062_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Incident light_01_2
+  rotate: false
+  xy: 3191, 1838
+  size: 770, 1925
+  orig: 934, 1954
+  offset: 78, 28
+  index: -1
+Incident light_02_1
+  rotate: true
+  xy: 1818, 1881
+  size: 2122, 1343
+  orig: 2124, 2113
+  offset: 1, 769
+  index: -1
+Incident light_02_2
+  rotate: false
+  xy: 30, 508
+  size: 2113, 1343
+  orig: 2122, 2113
+  offset: 1, 769
+  index: -1
+airflow__01_2
+  rotate: false
+  xy: 2173, 1432
+  size: 403, 419
+  orig: 422, 419
+  offset: 0, 0
+  index: -1
+airflow_particle
+  rotate: true
+  xy: 3525, 500
+  size: 1103, 491
+  orig: 1253, 519
+  offset: 14, 1
+  index: -1
+arm_L_1
+  rotate: true
+  xy: 3191, 3796
+  size: 270, 598
+  orig: 272, 600
+  offset: 1, 1
+  index: -1
+body_2
+  rotate: false
+  xy: 2173, 1195
+  size: 146, 207
+  orig: 148, 209
+  offset: 1, 1
+  index: -1
+body_button
+  rotate: false
+  xy: 2486, 1374
+  size: 55, 37
+  orig: 57, 39
+  offset: 1, 1
+  index: -1
+body_string_1
+  rotate: true
+  xy: 3769, 1633
+  size: 266, 256
+  orig: 266, 256
+  offset: 0, 0
+  index: -1
+body_string_3
+  rotate: false
+  xy: 2349, 1295
+  size: 111, 107
+  orig: 111, 107
+  offset: 0, 0
+  index: -1
+eff_2
+  rotate: false
+  xy: 30, 1881
+  size: 1758, 2185
+  orig: 1760, 2187
+  offset: 1, 1
+  index: -1
+eye1
+  rotate: true
+  xy: 3819, 3839
+  size: 227, 208
+  orig: 231, 210
+  offset: 2, 1
+  index: -1
+face
+  rotate: false
+  xy: 3525, 30
+  size: 317, 341
+  orig: 319, 343
+  offset: 1, 1
+  index: -1
+hair_back
+  rotate: false
+  xy: 1508, 182
+  size: 446, 296
+  orig: 446, 296
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 568, 193
+  size: 475, 285
+  orig: 477, 287
+  offset: 1, 1
+  index: -1
+leg_L_1
+  rotate: false
+  xy: 30, 30
+  size: 508, 448
+  orig: 510, 450
+  offset: 1, 1
+  index: -1
+leg_L_2
+  rotate: false
+  xy: 1073, 165
+  size: 405, 313
+  orig: 407, 315
+  offset: 1, 1
+  index: -1
+particle_1
+  rotate: false
+  xy: 2173, 981
+  size: 89, 60
+  orig: 93, 65
+  offset: 3, 3
+  index: -1
+particle_2
+  rotate: false
+  xy: 2709, 1443
+  size: 43, 45
+  orig: 47, 49
+  offset: 2, 2
+  index: -1
+particle_3
+  rotate: false
+  xy: 725, 90
+  size: 71, 73
+  orig: 81, 80
+  offset: 6, 4
+  index: -1
+particle_4
+  rotate: false
+  xy: 2601, 1400
+  size: 78, 79
+  orig: 85, 86
+  offset: 4, 3
+  index: -1
+particle_5
+  rotate: false
+  xy: 1818, 4040
+  size: 27, 26
+  orig: 31, 29
+  offset: 2, 2
+  index: -1
+particle_6
+  rotate: false
+  xy: 2173, 1071
+  size: 112, 94
+  orig: 119, 102
+  offset: 4, 4
+  index: -1
+particle_7
+  rotate: false
+  xy: 568, 75
+  size: 127, 88
+  orig: 137, 98
+  offset: 5, 5
+  index: -1
+particle_8
+  rotate: false
+  xy: 2173, 915
+  size: 36, 36
+  orig: 44, 44
+  offset: 4, 4
+  index: -1
+smoke
+  rotate: true
+  xy: 2148, 91
+  size: 1760, 1348
+  orig: 1760, 1385
+  offset: 0, 0
+  index: -1
+
+Card_Large_sk1202062_SSR2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2182, 1845
+  size: 1090, 1766
+  orig: 1090, 1766
+  offset: 0, 0
+  index: -1
+Incident light_01_1
+  rotate: true
+  xy: 1498, 1071
+  size: 744, 1895
+  orig: 1138, 2320
+  offset: 17, 424
+  index: -1
+Incident light_02_3
+  rotate: false
+  xy: 30, 2761
+  size: 2122, 1305
+  orig: 2124, 2110
+  offset: 1, 804
+  index: -1
+airflow__01_1
+  rotate: true
+  xy: 3138, 335
+  size: 1382, 928
+  orig: 1424, 928
+  offset: 42, 0
+  index: -1
+airflow__02_1
+  rotate: false
+  xy: 272, 332
+  size: 877, 529
+  orig: 877, 529
+  offset: 0, 0
+  index: -1
+airflow__02_2
+  rotate: 180
+  xy: 2113, 217
+  size: 513, 361
+  orig: 520, 371
+  offset: 7, 10
+  index: -1
+arm_L_2
+  rotate: false
+  xy: 1179, 250
+  size: 311, 306
+  orig: 313, 308
+  offset: 1, 1
+  index: -1
+arm_R_1
+  rotate: false
+  xy: 1498, 2153
+  size: 518, 578
+  orig: 520, 604
+  offset: 1, 1
+  index: -1
+arm_R_2
+  rotate: false
+  xy: 1885, 1912
+  size: 222, 211
+  orig: 224, 213
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 2113, 495
+  size: 546, 939
+  orig: 546, 939
+  offset: 0, 0
+  index: -1
+body_string_2
+  rotate: true
+  xy: 2771, 342
+  size: 253, 336
+  orig: 253, 336
+  offset: 0, 0
+  index: -1
+cloak_1
+  rotate: false
+  xy: 1498, 1880
+  size: 357, 243
+  orig: 360, 245
+  offset: 2, 1
+  index: -1
+cloak_2
+  rotate: false
+  xy: 30, 588
+  size: 1295, 1069
+  orig: 1295, 1069
+  offset: 0, 0
+  index: -1
+eff_01
+  rotate: false
+  xy: 30, 1687
+  size: 1438, 1044
+  orig: 1478, 1082
+  offset: 1, 37
+  index: -1
+eff_1
+  rotate: false
+  xy: 2182, 2965
+  size: 1758, 1101
+  orig: 1760, 1163
+  offset: 1, 61
+  index: -1
+hair_front
+  rotate: false
+  xy: 1520, 272
+  size: 338, 283
+  orig: 338, 283
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 1179, 586
+  size: 455, 904
+  orig: 457, 906
+  offset: 1, 1
+  index: -1

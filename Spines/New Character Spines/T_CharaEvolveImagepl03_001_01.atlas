@@ -1,0 +1,202 @@
+
+T_CharaEvolveImagepl03_001_01.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG2
+  rotate: false
+  xy: 30, 2344
+  size: 2186, 1346
+  orig: 2186, 1346
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2098, 1395
+  size: 1186, 858
+  orig: 1186, 858
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 1578, 37
+  size: 1328, 730
+  orig: 1328, 730
+  offset: 0, 0
+  index: -1
+bure
+  rotate: false
+  xy: 30, 348
+  size: 1518, 1017
+  orig: 1923, 1083
+  offset: 0, 63
+  index: -1
+eff_sword
+  rotate: false
+  xy: 30, 1395
+  size: 1916, 919
+  orig: 2004, 919
+  offset: 1, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 2246, 3586
+  size: 182, 104
+  orig: 188, 105
+  offset: 1, 1
+  index: -1
+eye2
+  rotate: false
+  xy: 523, 55
+  size: 181, 104
+  orig: 186, 105
+  offset: 0, 1
+  index: -1
+eye3
+  rotate: false
+  xy: 3233, 2054
+  size: 172, 101
+  orig: 177, 101
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: true
+  xy: 3180, 1013
+  size: 272, 247
+  orig: 272, 247
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: true
+  xy: 3186, 497
+  size: 362, 238
+  orig: 362, 238
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 3117, 1737
+  size: 295, 287
+  orig: 295, 287
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2923, 32
+  size: 620, 321
+  orig: 620, 321
+  offset: 0, 0
+  index: -1
+kaze1
+  rotate: false
+  xy: 3274, 123
+  size: 144, 343
+  orig: 164, 352
+  offset: 17, 9
+  index: -1
+kaze2
+  rotate: false
+  xy: 3182, 2791
+  size: 226, 488
+  orig: 228, 490
+  offset: 2, 1
+  index: -1
+kaze3
+  rotate: false
+  xy: 786, 98
+  size: 338, 220
+  orig: 340, 224
+  offset: 1, 3
+  index: -1
+kaze4
+  rotate: true
+  xy: 3207, 1315
+  size: 392, 140
+  orig: 401, 143
+  offset: 3, 1
+  index: -1
+kaze5
+  rotate: true
+  xy: 2902, 2044
+  size: 711, 301
+  orig: 729, 302
+  offset: 0, 0
+  index: -1
+kaze6
+  rotate: false
+  xy: 30, 46
+  size: 463, 113
+  orig: 467, 113
+  offset: 0, 0
+  index: -1
+kaze7
+  rotate: false
+  xy: 2669, 3546
+  size: 257, 144
+  orig: 297, 163
+  offset: 17, 0
+  index: -1
+kaze8
+  rotate: true
+  xy: 2246, 2627
+  size: 229, 65
+  orig: 239, 102
+  offset: 9, 36
+  index: -1
+kaze9
+  rotate: false
+  xy: 30, 189
+  size: 726, 129
+  orig: 745, 135
+  offset: 18, 2
+  index: -1
+ken1
+  rotate: true
+  xy: 1976, 1857
+  size: 457, 74
+  orig: 555, 431
+  offset: 54, 163
+  index: -1
+ken2
+  rotate: false
+  xy: 2338, 43
+  size: 555, 431
+  orig: 555, 431
+  offset: 0, 0
+  index: -1
+mant_1
+  rotate: true
+  xy: 2338, 504
+  size: 1023, 906
+  orig: 1033, 906
+  offset: 0, 0
+  index: -1
+mant_2
+  rotate: false
+  xy: 2859, 1292
+  size: 318, 501
+  orig: 318, 501
+  offset: 0, 0
+  index: -1
+mant_b
+  rotate: true
+  xy: 2246, 2667
+  size: 1023, 906
+  orig: 1033, 906
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 2980, 3309
+  size: 460, 381
+  orig: 460, 381
+  offset: 0, 0
+  index: -1
+skirt2
+  rotate: false
+  xy: 1154, 75
+  size: 343, 243
+  orig: 343, 243
+  offset: 0, 0
+  index: -1

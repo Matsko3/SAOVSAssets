@@ -1,0 +1,181 @@
+
+Ico_Card_Large_sk1105028_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 1875, 2286
+  size: 1130, 1806
+  orig: 1132, 1808
+  offset: 1, 1
+  index: -1
+Skirt
+  rotate: false
+  xy: 2066, 1010
+  size: 470, 369
+  orig: 470, 369
+  offset: 0, 0
+  index: -1
+arm
+  rotate: false
+  xy: 3009, 2390
+  size: 1081, 1702
+  orig: 1083, 1704
+  offset: 1, 1
+  index: -1
+arm2
+  rotate: false
+  xy: 4, 1033
+  size: 152, 247
+  orig: 1083, 1704
+  offset: 448, 1287
+  index: -1
+body
+  rotate: true
+  xy: 4, 1630
+  size: 616, 843
+  orig: 619, 845
+  offset: 2, 1
+  index: -1
+face
+  rotate: false
+  xy: 875, 1836
+  size: 321, 410
+  orig: 321, 410
+  offset: 0, 0
+  index: -1
+hair_bang1
+  rotate: false
+  xy: 1113, 1730
+  size: 114, 301
+  orig: 114, 301
+  offset: 0, 0
+  index: -1
+hair_bang2
+  rotate: false
+  xy: 377, 998
+  size: 122, 167
+  orig: 122, 167
+  offset: 0, 0
+  index: -1
+hair_bang3
+  rotate: false
+  xy: 989, 1060
+  size: 178, 365
+  orig: 178, 365
+  offset: 0, 0
+  index: -1
+hair_tail1
+  rotate: false
+  xy: 756, 998
+  size: 222, 197
+  orig: 222, 197
+  offset: 0, 0
+  index: -1
+hair_tail2
+  rotate: false
+  xy: 4, 1170
+  size: 991, 456
+  orig: 991, 456
+  offset: 0, 0
+  index: -1
+hair_tail3
+  rotate: false
+  xy: 1100, 998
+  size: 991, 456
+  orig: 991, 456
+  offset: 0, 0
+  index: -1
+leaf1
+  rotate: false
+  xy: 283, 1091
+  size: 108, 95
+  orig: 110, 97
+  offset: 1, 1
+  index: -1
+leaf2
+  rotate: false
+  xy: 851, 2098
+  size: 43, 55
+  orig: 46, 57
+  offset: 2, 1
+  index: -1
+leaf3
+  rotate: false
+  xy: 1231, 1892
+  size: 50, 86
+  orig: 52, 88
+  offset: 1, 1
+  index: -1
+leaf5
+  rotate: false
+  xy: 1021, 2201
+  size: 42, 33
+  orig: 45, 36
+  offset: 1, 1
+  index: -1
+leaf6
+  rotate: false
+  xy: 851, 2157
+  size: 88, 89
+  orig: 90, 91
+  offset: 1, 1
+  index: -1
+leaf7
+  rotate: false
+  xy: 1387, 2167
+  size: 70, 79
+  orig: 72, 84
+  offset: 1, 4
+  index: -1
+leaf8
+  rotate: false
+  xy: 160, 1047
+  size: 119, 171
+  orig: 122, 175
+  offset: 2, 2
+  index: -1
+manto1
+  rotate: true
+  xy: 851, 1452
+  size: 794, 1018
+  orig: 794, 1018
+  offset: 0, 0
+  index: -1
+manto2
+  rotate: 270
+  xy: 3151, 994
+  size: 905, 941
+  orig: 905, 942
+  offset: 0, 1
+  index: -1
+manto3
+  rotate: false
+  xy: 1195, 1980
+  size: 90, 146
+  orig: 111, 147
+  offset: 21, 0
+  index: -1
+manto4
+  rotate: false
+  xy: 1153, 2130
+  size: 137, 116
+  orig: 905, 942
+  offset: 408, 288
+  index: -1
+weapon_ef1
+  rotate: true
+  xy: 1875, 1792
+  size: 490, 1779
+  orig: 510, 1808
+  offset: 6, 7
+  index: -1
+weapon_ef2
+  rotate: false
+  xy: 4, 2250
+  size: 1867, 1842
+  orig: 1889, 1890
+  offset: 13, 7
+  index: -1

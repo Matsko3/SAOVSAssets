@@ -1,0 +1,537 @@
+
+Ico_Card_Large_sk103011_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 20, 2093
+  size: 1286, 1973
+  orig: 1286, 1973
+  offset: 0, 0
+  index: -1
+body
+  rotate: 270
+  xy: 2580, 766
+  size: 1286, 1144
+  orig: 1286, 1144
+  offset: 0, 0
+  index: -1
+circle_1
+  rotate: false
+  xy: 2738, 3259
+  size: 89, 77
+  orig: 94, 80
+  offset: 3, 1
+  index: -1
+circle_10
+  rotate: true
+  xy: 3816, 3503
+  size: 267, 186
+  orig: 277, 194
+  offset: 0, 1
+  index: -1
+circle_12
+  rotate: false
+  xy: 2632, 3356
+  size: 1164, 710
+  orig: 1188, 720
+  offset: 13, 0
+  index: -1
+circle_13
+  rotate: true
+  xy: 2632, 2058
+  size: 1146, 751
+  orig: 1185, 769
+  offset: 17, 8
+  index: -1
+circle_14
+  rotate: false
+  xy: 2768, 21
+  size: 186, 174
+  orig: 190, 179
+  offset: 2, 4
+  index: -1
+circle_16
+  rotate: false
+  xy: 2621, 1806
+  size: 249, 232
+  orig: 254, 305
+  offset: 3, 10
+  index: -1
+circle_17
+  rotate: false
+  xy: 3816, 3790
+  size: 201, 276
+  orig: 247, 316
+  offset: 22, 12
+  index: -1
+circle_18
+  rotate: false
+  xy: 3431, 768
+  size: 109, 232
+  orig: 114, 293
+  offset: 3, 51
+  index: -1
+circle_19
+  rotate: false
+  xy: 20, 76
+  size: 764, 263
+  orig: 784, 330
+  offset: 7, 40
+  index: -1
+circle_2
+  rotate: false
+  xy: 2738, 3224
+  size: 16, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+circle_20
+  rotate: true
+  xy: 3616, 76
+  size: 965, 351
+  orig: 1133, 571
+  offset: 15, 5
+  index: -1
+circle_3
+  rotate: false
+  xy: 3195, 1998
+  size: 42, 40
+  orig: 42, 42
+  offset: 0, 1
+  index: -1
+circle_4
+  rotate: false
+  xy: 2970, 1986
+  size: 55, 52
+  orig: 57, 58
+  offset: 1, 3
+  index: -1
+circle_5
+  rotate: false
+  xy: 2847, 3253
+  size: 76, 83
+  orig: 78, 90
+  offset: 1, 3
+  index: -1
+circle_6
+  rotate: false
+  xy: 3476, 2719
+  size: 56, 50
+  orig: 57, 57
+  offset: 0, 3
+  index: -1
+circle_8
+  rotate: false
+  xy: 3744, 1507
+  size: 318, 545
+  orig: 329, 557
+  offset: 7, 7
+  index: -1
+circle_9
+  rotate: false
+  xy: 3744, 1122
+  size: 298, 365
+  orig: 304, 372
+  offset: 3, 3
+  index: -1
+hair_R
+  rotate: false
+  xy: 2922, 766
+  size: 489, 270
+  orig: 489, 270
+  offset: 0, 0
+  index: -1
+ribbon2
+  rotate: false
+  xy: 2292, 815
+  size: 214, 118
+  orig: 214, 118
+  offset: 0, 0
+  index: -1
+sword_eff1
+  rotate: false
+  xy: 20, 359
+  size: 1286, 1714
+  orig: 1286, 1718
+  offset: 0, 0
+  index: -1
+sword_eff2
+  rotate: false
+  xy: 1326, 2460
+  size: 1286, 1606
+  orig: 1286, 1622
+  offset: 0, 0
+  index: -1
+sword_eff3
+  rotate: false
+  xy: 3403, 2789
+  size: 588, 547
+  orig: 627, 744
+  offset: 0, 180
+  index: -1
+sword_eff4
+  rotate: true
+  xy: 3403, 2072
+  size: 618, 617
+  orig: 663, 748
+  offset: 6, 116
+  index: -1
+sword_eff5
+  rotate: true
+  xy: 2292, 215
+  size: 531, 1304
+  orig: 532, 1304
+  offset: 1, 0
+  index: -1
+sword_eff8
+  rotate: false
+  xy: 804, 42
+  size: 465, 297
+  orig: 519, 339
+  offset: 0, 24
+  index: -1
+sword_eff9
+  rotate: false
+  xy: 1326, 28
+  size: 946, 904
+  orig: 1014, 1061
+  offset: 64, 1
+  index: -1
+sword_hibana
+  rotate: false
+  xy: 1326, 952
+  size: 1275, 1488
+  orig: 1286, 1718
+  offset: 9, 0
+  index: -1
+sword_light
+  rotate: false
+  xy: 2292, 70
+  size: 456, 125
+  orig: 464, 134
+  offset: 8, 5
+  index: -1
+tubu_1
+  rotate: false
+  xy: 2621, 1577
+  size: 54, 53
+  orig: 58, 57
+  offset: 2, 2
+  index: -1
+tubu_10
+  rotate: false
+  xy: 3403, 2716
+  size: 53, 53
+  orig: 57, 57
+  offset: 2, 2
+  index: -1
+tubu_11
+  rotate: false
+  xy: 3118, 1991
+  size: 57, 47
+  orig: 70, 49
+  offset: 11, 0
+  index: -1
+tubu_12
+  rotate: false
+  xy: 2890, 1987
+  size: 60, 51
+  orig: 73, 53
+  offset: 2, 0
+  index: -1
+tubu_13
+  rotate: false
+  xy: 3045, 1985
+  size: 53, 53
+  orig: 57, 57
+  offset: 2, 2
+  index: -1
+tubu_14
+  rotate: false
+  xy: 3836, 2720
+  size: 42, 49
+  orig: 44, 53
+  offset: 0, 2
+  index: -1
+tubu_15
+  rotate: false
+  xy: 2890, 1795
+  size: 38, 38
+  orig: 43, 43
+  offset: 3, 3
+  index: -1
+tubu_16
+  rotate: false
+  xy: 3552, 2721
+  size: 53, 48
+  orig: 59, 54
+  offset: 2, 4
+  index: -1
+tubu_17
+  rotate: false
+  xy: 2621, 1513
+  size: 44, 44
+  orig: 59, 48
+  offset: 2, 2
+  index: -1
+tubu_18
+  rotate: false
+  xy: 2963, 1931
+  size: 40, 35
+  orig: 48, 45
+  offset: 5, 3
+  index: -1
+tubu_19
+  rotate: false
+  xy: 3217, 3266
+  size: 52, 70
+  orig: 57, 74
+  offset: 3, 2
+  index: -1
+tubu_2
+  rotate: false
+  xy: 2890, 1853
+  size: 38, 39
+  orig: 42, 43
+  offset: 2, 2
+  index: -1
+tubu_20
+  rotate: false
+  xy: 2704, 1731
+  size: 54, 55
+  orig: 64, 66
+  offset: 5, 5
+  index: -1
+tubu_21
+  rotate: false
+  xy: 3693, 2720
+  size: 50, 49
+  orig: 73, 63
+  offset: 18, 5
+  index: -1
+tubu_22
+  rotate: false
+  xy: 2890, 1912
+  size: 53, 55
+  orig: 63, 65
+  offset: 5, 5
+  index: -1
+tubu_23
+  rotate: false
+  xy: 3130, 3272
+  size: 67, 64
+  orig: 80, 75
+  offset: 4, 5
+  index: -1
+tubu_24
+  rotate: false
+  xy: 3037, 3263
+  size: 73, 73
+  orig: 82, 83
+  offset: 4, 5
+  index: -1
+tubu_25
+  rotate: false
+  xy: 3882, 3438
+  size: 44, 45
+  orig: 54, 57
+  offset: 5, 6
+  index: -1
+tubu_26
+  rotate: false
+  xy: 2943, 3262
+  size: 74, 74
+  orig: 82, 84
+  offset: 4, 5
+  index: -1
+tubu_27
+  rotate: false
+  xy: 2632, 3249
+  size: 86, 87
+  orig: 95, 97
+  offset: 4, 5
+  index: -1
+tubu_28
+  rotate: false
+  xy: 2621, 1650
+  size: 56, 58
+  orig: 66, 68
+  offset: 5, 5
+  index: -1
+tubu_29
+  rotate: false
+  xy: 3289, 3275
+  size: 60, 61
+  orig: 70, 71
+  offset: 5, 5
+  index: -1
+tubu_3
+  rotate: false
+  xy: 2621, 1728
+  size: 63, 58
+  orig: 78, 67
+  offset: 4, 4
+  index: -1
+tubu_4
+  rotate: false
+  xy: 3763, 2725
+  size: 53, 44
+  orig: 67, 68
+  offset: 12, 2
+  index: -1
+tubu_5
+  rotate: false
+  xy: 3816, 3437
+  size: 46, 46
+  orig: 50, 50
+  offset: 2, 2
+  index: -1
+tubu_6
+  rotate: false
+  xy: 2778, 1745
+  size: 41, 41
+  orig: 45, 45
+  offset: 2, 2
+  index: -1
+tubu_7
+  rotate: false
+  xy: 3882, 3382
+  size: 38, 36
+  orig: 49, 44
+  offset: 2, 6
+  index: -1
+tubu_8
+  rotate: false
+  xy: 3816, 3371
+  size: 46, 46
+  orig: 50, 57
+  offset: 2, 2
+  index: -1
+tubu_9
+  rotate: false
+  xy: 3625, 2717
+  size: 48, 52
+  orig: 52, 57
+  offset: 2, 2
+  index: -1
+
+Ico_Card_Large_sk103011_SSR2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_2
+  rotate: true
+  xy: 20, 20
+  size: 510, 607
+  orig: 511, 607
+  offset: 0, 0
+  index: -1
+circle_11
+  rotate: false
+  xy: 20, 1630
+  size: 701, 838
+  orig: 724, 945
+  offset: 0, 99
+  index: -1
+circle_15
+  rotate: true
+  xy: 567, 3033
+  size: 747, 399
+  orig: 888, 424
+  offset: 131, 13
+  index: -1
+circle_7
+  rotate: false
+  xy: 567, 2573
+  size: 379, 440
+  orig: 427, 461
+  offset: 11, 11
+  index: -1
+eye_1
+  rotate: false
+  xy: 978, 941
+  size: 185, 196
+  orig: 191, 202
+  offset: 0, 6
+  index: -1
+eye_2
+  rotate: false
+  xy: 1030, 157
+  size: 188, 202
+  orig: 191, 202
+  offset: 0, 0
+  index: -1
+eye_3
+  rotate: false
+  xy: 990, 730
+  size: 191, 191
+  orig: 191, 202
+  offset: 0, 11
+  index: -1
+hair_L
+  rotate: false
+  xy: 913, 379
+  size: 388, 331
+  orig: 388, 331
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: 180
+  xy: 858, 1345
+  size: 454, 408
+  orig: 454, 408
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 497, 557
+  size: 437, 437
+  orig: 438, 437
+  offset: 1, 0
+  index: -1
+pina_body
+  rotate: true
+  xy: 20, 550
+  size: 1060, 598
+  orig: 1060, 598
+  offset: 0, 0
+  index: -1
+pina_wing
+  rotate: 180
+  xy: 734, 1724
+  size: 312, 829
+  orig: 312, 829
+  offset: 0, 0
+  index: -1
+ribbon1
+  rotate: false
+  xy: 1020, 1015
+  size: 254, 250
+  orig: 254, 250
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: true
+  xy: 647, 20
+  size: 410, 363
+  orig: 410, 363
+  offset: 0, 0
+  index: -1
+sword_eff6
+  rotate: false
+  xy: 20, 2488
+  size: 527, 1292
+  orig: 551, 1313
+  offset: 0, 20
+  index: -1
+sword_eff7
+  rotate: true
+  xy: 638, 1014
+  size: 505, 320
+  orig: 525, 320
+  offset: 13, 0
+  index: -1

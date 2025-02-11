@@ -1,0 +1,558 @@
+
+Card_Large_sk1202076_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 20, 2118
+  size: 1285, 1956
+  orig: 1287, 1958
+  offset: 1, 1
+  index: -1
+flare1
+  rotate: true
+  xy: 2327, 657
+  size: 950, 1016
+  orig: 975, 1080
+  offset: 0, 64
+  index: -1
+flare2
+  rotate: true
+  xy: 1089, 409
+  size: 882, 1029
+  orig: 886, 1086
+  offset: 0, 57
+  index: -1
+flower1
+  rotate: false
+  xy: 4006, 3512
+  size: 56, 63
+  orig: 69, 78
+  offset: 7, 7
+  index: -1
+flower10
+  rotate: true
+  xy: 2138, 1049
+  size: 69, 76
+  orig: 81, 90
+  offset: 6, 7
+  index: -1
+flower12
+  rotate: false
+  xy: 4006, 3344
+  size: 53, 65
+  orig: 61, 74
+  offset: 1, 3
+  index: -1
+flower13
+  rotate: false
+  xy: 4006, 3673
+  size: 56, 64
+  orig: 69, 77
+  offset: 7, 6
+  index: -1
+flower14
+  rotate: true
+  xy: 1191, 1348
+  size: 67, 86
+  orig: 81, 99
+  offset: 7, 7
+  index: -1
+flower15
+  rotate: false
+  xy: 4006, 3923
+  size: 63, 63
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+flower16
+  rotate: false
+  xy: 4006, 3595
+  size: 61, 58
+  orig: 72, 69
+  offset: 5, 6
+  index: -1
+flower17
+  rotate: false
+  xy: 4006, 3757
+  size: 59, 64
+  orig: 73, 78
+  offset: 6, 7
+  index: -1
+flower18
+  rotate: false
+  xy: 1089, 1344
+  size: 82, 71
+  orig: 94, 78
+  offset: 6, 1
+  index: -1
+flower19
+  rotate: false
+  xy: 2327, 1646
+  size: 81, 74
+  orig: 93, 82
+  offset: 6, 7
+  index: -1
+flower2
+  rotate: false
+  xy: 4006, 3429
+  size: 56, 63
+  orig: 69, 78
+  offset: 6, 8
+  index: -1
+flower3
+  rotate: false
+  xy: 4021, 1926
+  size: 48, 51
+  orig: 60, 65
+  offset: 6, 7
+  index: -1
+flower4
+  rotate: false
+  xy: 4006, 3182
+  size: 53, 60
+  orig: 66, 74
+  offset: 6, 7
+  index: -1
+flower5
+  rotate: true
+  xy: 2138, 874
+  size: 68, 74
+  orig: 80, 86
+  offset: 6, 6
+  index: -1
+flower7
+  rotate: false
+  xy: 2138, 962
+  size: 77, 67
+  orig: 91, 80
+  offset: 7, 6
+  index: -1
+flower8
+  rotate: false
+  xy: 4006, 3262
+  size: 52, 62
+  orig: 64, 75
+  offset: 6, 7
+  index: -1
+flower9
+  rotate: false
+  xy: 4006, 3841
+  size: 61, 62
+  orig: 74, 76
+  offset: 7, 7
+  index: -1
+flower_blur1
+  rotate: false
+  xy: 2327, 1964
+  size: 91, 105
+  orig: 101, 117
+  offset: 6, 6
+  index: -1
+flower_blur10
+  rotate: true
+  xy: 3907, 1997
+  size: 100, 111
+  orig: 108, 121
+  offset: 4, 6
+  index: -1
+flower_blur11
+  rotate: true
+  xy: 3907, 2117
+  size: 169, 116
+  orig: 179, 122
+  offset: 5, 1
+  index: -1
+flower_blur2
+  rotate: false
+  xy: 3967, 2793
+  size: 93, 107
+  orig: 103, 119
+  offset: 5, 5
+  index: -1
+flower_blur3
+  rotate: false
+  xy: 2327, 1852
+  size: 98, 92
+  orig: 108, 112
+  offset: 5, 14
+  index: -1
+flower_blur4
+  rotate: false
+  xy: 2327, 1740
+  size: 93, 92
+  orig: 103, 105
+  offset: 5, 7
+  index: -1
+flower_blur5
+  rotate: false
+  xy: 2327, 2089
+  size: 113, 113
+  orig: 122, 124
+  offset: 5, 6
+  index: -1
+flower_blur6
+  rotate: false
+  xy: 3907, 1881
+  size: 94, 96
+  orig: 104, 108
+  offset: 5, 6
+  index: -1
+flower_blur7
+  rotate: false
+  xy: 3907, 2306
+  size: 134, 165
+  orig: 144, 178
+  offset: 5, 7
+  index: -1
+flower_blur8
+  rotate: false
+  xy: 2327, 2379
+  size: 150, 150
+  orig: 160, 166
+  offset: 5, 7
+  index: -1
+flower_blur9
+  rotate: false
+  xy: 2327, 2222
+  size: 147, 137
+  orig: 203, 151
+  offset: 50, 6
+  index: -1
+flower_blur_front_1_1_3a
+  rotate: false
+  xy: 3311, 63
+  size: 375, 165
+  orig: 397, 170
+  offset: 14, 1
+  index: -1
+flower_blur_front_1_1_3aa
+  rotate: false
+  xy: 3907, 1791
+  size: 126, 70
+  orig: 136, 76
+  offset: 5, 3
+  index: -1
+flower_blur_front_1_1_3ba
+  rotate: false
+  xy: 20, 154
+  size: 499, 217
+  orig: 518, 232
+  offset: 13, 9
+  index: -1
+flower_blur_front_1_1_3ca
+  rotate: true
+  xy: 820, 733
+  size: 343, 237
+  orig: 359, 252
+  offset: 7, 9
+  index: -1
+flower_blur_front_1_1_3d
+  rotate: false
+  xy: 3706, 74
+  size: 296, 154
+  orig: 326, 168
+  offset: 17, 7
+  index: -1
+flower_blur_front_1_2_1a
+  rotate: false
+  xy: 2138, 149
+  size: 859, 488
+  orig: 880, 500
+  offset: 11, 6
+  index: -1
+flower_blur_front_1_2_2ca
+  rotate: false
+  xy: 20, 1096
+  size: 1049, 1002
+  orig: 1058, 1016
+  offset: 4, 6
+  index: -1
+flower_blur_front_1_2_2da
+  rotate: false
+  xy: 1325, 1311
+  size: 982, 1218
+  orig: 991, 1250
+  offset: 2, 26
+  index: -1
+flower_blur_front_1_2_3a
+  rotate: false
+  xy: 539, 37
+  size: 225, 132
+  orig: 247, 145
+  offset: 9, 6
+  index: -1
+flower_blur_front_1_2_4b
+  rotate: true
+  xy: 3017, 291
+  size: 346, 295
+  orig: 365, 314
+  offset: 6, 9
+  index: -1
+flower_blur_front_1_2_5aa
+  rotate: false
+  xy: 1089, 1435
+  size: 211, 291
+  orig: 232, 305
+  offset: 5, 7
+  index: -1
+flower_blur_front_1_2_5ab
+  rotate: false
+  xy: 820, 438
+  size: 199, 275
+  orig: 220, 289
+  offset: 12, 9
+  index: -1
+flower_blur_front_1_2_5b
+  rotate: true
+  xy: 3907, 2491
+  size: 200, 139
+  orig: 223, 155
+  offset: 12, 7
+  index: -1
+flower_blur_front_3_2ba
+  rotate: false
+  xy: 820, 26
+  size: 539, 363
+  orig: 552, 376
+  offset: 10, 5
+  index: -1
+flower_blur_front_3_2ca
+  rotate: false
+  xy: 1379, 76
+  size: 381, 313
+  orig: 397, 329
+  offset: 6, 7
+  index: -1
+flower_blur_front_3_2da
+  rotate: true
+  xy: 20, 391
+  size: 685, 780
+  orig: 696, 795
+  offset: 6, 9
+  index: -1
+flower_blur_front_3_2e
+  rotate: true
+  xy: 3573, 3060
+  size: 1014, 413
+  orig: 1031, 432
+  offset: 10, 9
+  index: -1
+flower_blur_front_3_2f
+  rotate: false
+  xy: 3363, 248
+  size: 623, 624
+  orig: 642, 639
+  offset: 8, 5
+  index: -1
+flower_blur_front_3_2h
+  rotate: true
+  xy: 1089, 1746
+  size: 352, 204
+  orig: 396, 222
+  offset: 10, 8
+  index: -1
+flower_blur_front_3_2i
+  rotate: false
+  xy: 3017, 30
+  size: 274, 241
+  orig: 293, 253
+  offset: 10, 5
+  index: -1
+flower_blur_front_4_1_1ba
+  rotate: false
+  xy: 1780, 35
+  size: 333, 354
+  orig: 342, 381
+  offset: 5, 17
+  index: -1
+flower_blur_front_4_1_1ca
+  rotate: true
+  xy: 3363, 892
+  size: 715, 703
+  orig: 739, 722
+  offset: 7, 10
+  index: -1
+flower_blur_front_4_1_1e
+  rotate: false
+  xy: 3573, 2711
+  size: 374, 329
+  orig: 384, 348
+  offset: 7, 8
+  index: -1
+flower_blur_front_4_2_2aa
+  rotate: true
+  xy: 2502, 2637
+  size: 1437, 1051
+  orig: 1451, 1065
+  offset: 7, 11
+  index: -1
+flower_blur_front_4_2_3aa
+  rotate: false
+  xy: 539, 189
+  size: 249, 182
+  orig: 269, 199
+  offset: 12, 10
+  index: -1
+particle1
+  rotate: false
+  xy: 3967, 2712
+  size: 87, 61
+  orig: 90, 66
+  offset: 2, 2
+  index: -1
+particle10
+  rotate: false
+  xy: 3680, 2642
+  size: 73, 49
+  orig: 86, 54
+  offset: 2, 2
+  index: -1
+particle11
+  rotate: false
+  xy: 4043, 2222
+  size: 24, 64
+  orig: 27, 67
+  offset: 1, 1
+  index: -1
+particle12
+  rotate: false
+  xy: 3573, 2641
+  size: 87, 50
+  orig: 90, 54
+  offset: 2, 2
+  index: -1
+particle13
+  rotate: false
+  xy: 3773, 2649
+  size: 77, 42
+  orig: 80, 46
+  offset: 2, 1
+  index: -1
+particle14
+  rotate: false
+  xy: 4006, 3071
+  size: 24, 24
+  orig: 27, 27
+  offset: 1, 1
+  index: -1
+particle15
+  rotate: false
+  xy: 2428, 1672
+  size: 49, 48
+  orig: 52, 52
+  offset: 1, 2
+  index: -1
+particle2
+  rotate: false
+  xy: 4006, 4006
+  size: 68, 68
+  orig: 88, 87
+  offset: 10, 9
+  index: -1
+particle3
+  rotate: false
+  xy: 2138, 1138
+  size: 79, 67
+  orig: 89, 77
+  offset: 2, 2
+  index: -1
+particle4
+  rotate: false
+  xy: 3967, 2920
+  size: 93, 120
+  orig: 95, 123
+  offset: 1, 2
+  index: -1
+particle5
+  rotate: false
+  xy: 3907, 1628
+  size: 49, 48
+  orig: 52, 50
+  offset: 1, 1
+  index: -1
+particle6
+  rotate: false
+  xy: 2438, 2028
+  size: 41, 41
+  orig: 45, 45
+  offset: 2, 2
+  index: -1
+particle7
+  rotate: false
+  xy: 3907, 1696
+  size: 113, 75
+  orig: 115, 78
+  offset: 1, 2
+  index: -1
+particle8
+  rotate: true
+  xy: 2138, 1225
+  size: 66, 82
+  orig: 71, 87
+  offset: 3, 2
+  index: -1
+particle9
+  rotate: false
+  xy: 4006, 3115
+  size: 67, 47
+  orig: 71, 69
+  offset: 2, 1
+  index: -1
+rainbow
+  rotate: false
+  xy: 1325, 2549
+  size: 1157, 1525
+  orig: 1189, 1555
+  offset: 16, 12
+  index: -1
+sunlight
+  rotate: true
+  xy: 2502, 1627
+  size: 990, 1385
+  orig: 1074, 1484
+  offset: 45, 53
+  index: -1
+
+Card_Large_sk1202076_SSR2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flower_blur12
+  rotate: false
+  xy: 1889, 1863
+  size: 185, 175
+  orig: 195, 197
+  offset: 6, 13
+  index: -1
+flower_blur_front_1_1_3ea
+  rotate: false
+  xy: 714, 1624
+  size: 596, 451
+  orig: 610, 479
+  offset: 6, 16
+  index: -1
+flower_blur_front_1_2_4a
+  rotate: false
+  xy: 1330, 1638
+  size: 539, 437
+  orig: 558, 443
+  offset: 7, 1
+  index: -1
+flower_blur_front_3_2g
+  rotate: false
+  xy: 20, 1629
+  size: 674, 446
+  orig: 697, 464
+  offset: 14, 9
+  index: -1
+flower_blur_front_4_1_1a
+  rotate: true
+  xy: 1889, 1638
+  size: 205, 186
+  orig: 222, 201
+  offset: 4, 8
+  index: -1

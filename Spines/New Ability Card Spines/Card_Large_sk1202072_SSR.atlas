@@ -1,0 +1,551 @@
+
+Card_Large_sk1202072_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 1960, 2300
+  size: 1090, 1766
+  orig: 1090, 1766
+  offset: 0, 0
+  index: -1
+BG_Incident light
+  rotate: false
+  xy: 1850, 35
+  size: 1442, 1701
+  orig: 1447, 1703
+  offset: 4, 1
+  index: -1
+BG_eff_rey
+  rotate: true
+  xy: 30, 115
+  size: 1621, 1790
+  orig: 1623, 1792
+  offset: 1, 1
+  index: -1
+arm_R
+  rotate: false
+  xy: 3080, 2637
+  size: 242, 191
+  orig: 244, 193
+  offset: 1, 1
+  index: -1
+back_eff_1
+  rotate: false
+  xy: 3080, 2858
+  size: 716, 1208
+  orig: 1430, 1603
+  offset: 0, 67
+  index: -1
+back_eff_2
+  rotate: 180
+  xy: 2990, 1767
+  size: 1020, 1317
+  orig: 1430, 1603
+  offset: 410, 106
+  index: -1
+body_decoration_1
+  rotate: false
+  xy: 2279, 1785
+  size: 48, 54
+  orig: 50, 56
+  offset: 1, 1
+  index: -1
+ear_R
+  rotate: false
+  xy: 2875, 2011
+  size: 60, 107
+  orig: 60, 107
+  offset: 0, 0
+  index: -1
+eff_kira_01
+  rotate: false
+  xy: 3322, 993
+  size: 733, 1042
+  orig: 1712, 2035
+  offset: 0, 988
+  index: -1
+eff_kira_02
+  rotate: 270
+  xy: 3790, 1882
+  size: 379, 261
+  orig: 1497, 2035
+  offset: 37, 1288
+  index: -1
+eff_rey
+  rotate: false
+  xy: 30, 1766
+  size: 1900, 2300
+  orig: 1902, 2302
+  offset: 1, 1
+  index: -1
+eye3
+  rotate: true
+  xy: 3694, 3074
+  size: 135, 102
+  orig: 137, 104
+  offset: 1, 1
+  index: -1
+hair_front_1
+  rotate: false
+  xy: 3714, 3239
+  size: 82, 199
+  orig: 82, 199
+  offset: 0, 0
+  index: -1
+hair_front_2
+  rotate: false
+  xy: 3080, 3043
+  size: 68, 183
+  orig: 68, 183
+  offset: 0, 0
+  index: -1
+hair_front_3
+  rotate: false
+  xy: 3971, 100
+  size: 75, 299
+  orig: 75, 299
+  offset: 0, 0
+  index: -1
+hair_front_4
+  rotate: true
+  xy: 3238, 1766
+  size: 93, 213
+  orig: 93, 213
+  offset: 0, 0
+  index: -1
+hand_L_2
+  rotate: true
+  xy: 3970, 1747
+  size: 105, 86
+  orig: 107, 88
+  offset: 1, 1
+  index: -1
+hand_R_1
+  rotate: false
+  xy: 1960, 1770
+  size: 136, 69
+  orig: 138, 71
+  offset: 1, 1
+  index: -1
+hand_R_2
+  rotate: false
+  xy: 3898, 3116
+  size: 152, 75
+  orig: 154, 77
+  offset: 1, 1
+  index: -1
+hip_decoration_1
+  rotate: false
+  xy: 3741, 3762
+  size: 45, 131
+  orig: 45, 131
+  offset: 0, 0
+  index: -1
+hip_decoration_2
+  rotate: false
+  xy: 4020, 2955
+  size: 34, 131
+  orig: 34, 131
+  offset: 0, 0
+  index: -1
+hip_decoration_3
+  rotate: false
+  xy: 4027, 2624
+  size: 21, 136
+  orig: 21, 136
+  offset: 0, 0
+  index: -1
+hip_decoration_4
+  rotate: false
+  xy: 3772, 3466
+  size: 24, 132
+  orig: 24, 132
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 1960, 1869
+  size: 401, 778
+  orig: 403, 780
+  offset: 1, 1
+  index: -1
+leg_R
+  rotate: false
+  xy: 3828, 3221
+  size: 191, 845
+  orig: 193, 847
+  offset: 1, 1
+  index: -1
+neck
+  rotate: false
+  xy: 3974, 2454
+  size: 87, 139
+  orig: 89, 141
+  offset: 1, 1
+  index: -1
+particle_01_4
+  rotate: false
+  xy: 3322, 103
+  size: 619, 300
+  orig: 621, 303
+  offset: 1, 2
+  index: -1
+particle_02_3
+  rotate: false
+  xy: 3322, 433
+  size: 657, 529
+  orig: 659, 531
+  offset: 1, 1
+  index: -1
+petal_1
+  rotate: false
+  xy: 3798, 992
+  size: 182, 110
+  orig: 191, 121
+  offset: 5, 6
+  index: -1
+petal_11
+  rotate: false
+  xy: 3080, 2868
+  size: 123, 130
+  orig: 140, 148
+  offset: 8, 9
+  index: -1
+petal_13
+  rotate: false
+  xy: 3617, 3925
+  size: 174, 141
+  orig: 193, 160
+  offset: 10, 10
+  index: -1
+petal_15
+  rotate: true
+  xy: 3322, 999
+  size: 144, 122
+  orig: 162, 140
+  offset: 9, 9
+  index: -1
+petal_16
+  rotate: false
+  xy: 2854, 2148
+  size: 130, 122
+  orig: 148, 141
+  offset: 9, 9
+  index: -1
+petal_18
+  rotate: false
+  xy: 3080, 2508
+  size: 120, 99
+  orig: 140, 118
+  offset: 10, 10
+  index: -1
+petal_2
+  rotate: true
+  xy: 3909, 2272
+  size: 152, 138
+  orig: 162, 148
+  offset: 5, 5
+  index: -1
+petal_3
+  rotate: true
+  xy: 2126, 1768
+  size: 71, 123
+  orig: 82, 135
+  offset: 6, 6
+  index: -1
+petal_5
+  rotate: false
+  xy: 3504, 2783
+  size: 78, 77
+  orig: 90, 89
+  offset: 6, 5
+  index: -1
+petal_6
+  rotate: false
+  xy: 3352, 2709
+  size: 122, 120
+  orig: 140, 140
+  offset: 9, 10
+  index: -1
+petal_9
+  rotate: true
+  xy: 3943, 1132
+  size: 111, 122
+  orig: 130, 141
+  offset: 10, 10
+  index: -1
+skirt_1
+  rotate: false
+  xy: 2768, 1818
+  size: 175, 452
+  orig: 175, 452
+  offset: 0, 0
+  index: -1
+
+Card_Large_sk1202072_SSR2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 30, 2410
+  size: 234, 289
+  orig: 236, 291
+  offset: 1, 1
+  index: -1
+back_eff_3
+  rotate: false
+  xy: 30, 2472
+  size: 1277, 1595
+  orig: 1430, 1603
+  offset: 6, 0
+  index: -1
+body
+  rotate: true
+  xy: 3180, 2836
+  size: 227, 319
+  orig: 229, 321
+  offset: 1, 1
+  index: -1
+cloak_1
+  rotate: false
+  xy: 1239, 2887
+  size: 914, 1180
+  orig: 914, 1180
+  offset: 0, 0
+  index: -1
+cloak_2
+  rotate: 180
+  xy: 2066, 2981
+  size: 580, 1082
+  orig: 580, 1082
+  offset: 0, 0
+  index: -1
+eff_kira_03
+  rotate: false
+  xy: 3168, 3093
+  size: 502, 973
+  orig: 564, 973
+  offset: 44, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 1641, 3115
+  size: 134, 95
+  orig: 136, 97
+  offset: 1, 1
+  index: -1
+eye2
+  rotate: false
+  xy: 1805, 3197
+  size: 135, 96
+  orig: 137, 98
+  offset: 1, 1
+  index: -1
+hair_back_1
+  rotate: true
+  xy: 2159, 2371
+  size: 238, 262
+  orig: 240, 264
+  offset: 1, 1
+  index: -1
+hair_back_2
+  rotate: false
+  xy: 1401, 3735
+  size: 176, 189
+  orig: 176, 189
+  offset: 0, 0
+  index: -1
+hand_L_1
+  rotate: false
+  xy: 1919, 3960
+  size: 90, 88
+  orig: 92, 90
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 3168, 3862
+  size: 175, 204
+  orig: 177, 206
+  offset: 1, 1
+  index: -1
+hip
+  rotate: false
+  xy: 868, 2540
+  size: 351, 350
+  orig: 353, 352
+  offset: 1, 1
+  index: -1
+hip_clothes_1
+  rotate: false
+  xy: 1299, 3565
+  size: 115, 142
+  orig: 115, 142
+  offset: 0, 0
+  index: -1
+hip_clothes_2
+  rotate: false
+  xy: 1654, 3927
+  size: 231, 138
+  orig: 231, 138
+  offset: 0, 0
+  index: -1
+hood
+  rotate: false
+  xy: 1754, 2391
+  size: 374, 376
+  orig: 374, 376
+  offset: 0, 0
+  index: -1
+hood_back
+  rotate: 180
+  xy: 3688, 3359
+  size: 374, 403
+  orig: 374, 403
+  offset: 0, 0
+  index: -1
+particle_01_1
+  rotate: false
+  xy: 1249, 2527
+  size: 475, 240
+  orig: 477, 242
+  offset: 1, 1
+  index: -1
+particle_01_2
+  rotate: false
+  xy: 1474, 2797
+  size: 562, 264
+  orig: 564, 266
+  offset: 1, 1
+  index: -1
+particle_01_3
+  rotate: false
+  xy: 3814, 2470
+  size: 252, 337
+  orig: 257, 341
+  offset: 3, 2
+  index: -1
+particle_01_5
+  rotate: false
+  xy: 2066, 2639
+  size: 475, 312
+  orig: 477, 315
+  offset: 1, 1
+  index: -1
+particle_02_1
+  rotate: false
+  xy: 2676, 2919
+  size: 474, 497
+  orig: 477, 499
+  offset: 1, 1
+  index: -1
+particle_02_2
+  rotate: false
+  xy: 2571, 2590
+  size: 481, 299
+  orig: 483, 301
+  offset: 1, 1
+  index: -1
+particle_02_4
+  rotate: false
+  xy: 2671, 3448
+  size: 467, 618
+  orig: 469, 620
+  offset: 1, 1
+  index: -1
+petal_10
+  rotate: false
+  xy: 2514, 3967
+  size: 127, 99
+  orig: 147, 116
+  offset: 11, 8
+  index: -1
+petal_12
+  rotate: false
+  xy: 1970, 3322
+  size: 140, 98
+  orig: 159, 118
+  offset: 10, 10
+  index: -1
+petal_14
+  rotate: false
+  xy: 2342, 3000
+  size: 119, 104
+  orig: 138, 124
+  offset: 10, 10
+  index: -1
+petal_17
+  rotate: false
+  xy: 1970, 3192
+  size: 76, 100
+  orig: 95, 118
+  offset: 9, 9
+  index: -1
+petal_19
+  rotate: false
+  xy: 30, 3941
+  size: 89, 120
+  orig: 106, 138
+  offset: 8, 9
+  index: -1
+petal_20
+  rotate: false
+  xy: 30, 3652
+  size: 81, 97
+  orig: 100, 117
+  offset: 9, 10
+  index: -1
+petal_4
+  rotate: false
+  xy: 3180, 3229
+  size: 107, 74
+  orig: 120, 86
+  offset: 7, 6
+  index: -1
+petal_7
+  rotate: false
+  xy: 30, 3779
+  size: 115, 91
+  orig: 135, 110
+  offset: 11, 9
+  index: -1
+petal_8
+  rotate: false
+  xy: 1473, 3954
+  size: 117, 112
+  orig: 136, 129
+  offset: 10, 8
+  index: -1
+skirt_2
+  rotate: false
+  xy: 1177, 3427
+  size: 266, 639
+  orig: 266, 639
+  offset: 0, 0
+  index: -1
+skirt_3
+  rotate: false
+  xy: 3541, 2817
+  size: 525, 567
+  orig: 525, 567
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: false
+  xy: 3587, 3792
+  size: 479, 273
+  orig: 481, 275
+  offset: 1, 1
+  index: -1
+weapon_R
+  rotate: false
+  xy: 3082, 2595
+  size: 685, 192
+  orig: 687, 194
+  offset: 1, 1
+  index: -1

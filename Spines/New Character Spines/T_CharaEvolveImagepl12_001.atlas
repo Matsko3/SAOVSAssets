@@ -1,0 +1,229 @@
+
+T_CharaEvolveImagepl12_001.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 1667, 2132
+  size: 1930, 1090
+  orig: 1930, 1090
+  offset: 0, 0
+  index: -1
+BG_kaze_1
+  rotate: false
+  xy: 1873, 808
+  size: 1029, 903
+  orig: 1054, 920
+  offset: 1, 16
+  index: -1
+Leg
+  rotate: false
+  xy: 1247, 903
+  size: 559, 442
+  orig: 561, 444
+  offset: 1, 1
+  index: -1
+body2
+  rotate: false
+  xy: 10, 658
+  size: 1227, 687
+  orig: 1229, 690
+  offset: 1, 2
+  index: -1
+ef5_1
+  rotate: true
+  xy: 2912, 219
+  size: 745, 922
+  orig: 798, 948
+  offset: 49, 23
+  index: -1
+en1
+  rotate: false
+  xy: 2767, 1721
+  size: 1053, 1112
+  orig: 1076, 1134
+  offset: 14, 10
+  index: -1
+eye1
+  rotate: false
+  xy: 2451, 1761
+  size: 143, 116
+  orig: 145, 118
+  offset: 1, 1
+  index: -1
+eye2
+  rotate: false
+  xy: 2296, 1762
+  size: 145, 115
+  orig: 147, 117
+  offset: 1, 1
+  index: -1
+eye3
+  rotate: false
+  xy: 2604, 1761
+  size: 138, 116
+  orig: 140, 118
+  offset: 1, 1
+  index: -1
+hair_front
+  rotate: false
+  xy: 2464, 16
+  size: 406, 526
+  orig: 406, 526
+  offset: 0, 0
+  index: -1
+kiseki_2_1
+  rotate: false
+  xy: 1873, 1756
+  size: 413, 366
+  orig: 446, 416
+  offset: 19, 24
+  index: -1
+kiseki_4_1
+  rotate: false
+  xy: 10, 1355
+  size: 1853, 767
+  orig: 1892, 806
+  offset: 21, 16
+  index: -1
+kiseki_5_1
+  rotate: false
+  xy: 2296, 1887
+  size: 310, 235
+  orig: 362, 272
+  offset: 27, 18
+  index: -1
+particle_M
+  rotate: false
+  xy: 10, 10
+  size: 883, 638
+  orig: 927, 682
+  offset: 22, 22
+  index: -1
+particle_S
+  rotate: false
+  xy: 1247, 264
+  size: 1247, 534
+  orig: 1333, 620
+  offset: 43, 43
+  index: -1
+sword_eff
+  rotate: false
+  xy: 10, 2226
+  size: 1647, 1836
+  orig: 1753, 1976
+  offset: 20, 93
+  index: -1
+sword_eff_2
+  rotate: false
+  xy: 2912, 974
+  size: 1122, 737
+  orig: 1152, 771
+  offset: 12, 20
+  index: -1
+wn2
+  rotate: true
+  xy: 2767, 2843
+  size: 1219, 1200
+  orig: 1225, 1206
+  offset: 3, 3
+  index: -1
+
+T_CharaEvolveImagepl12_0012.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_kaze_2
+  rotate: true
+  xy: 10, 1685
+  size: 692, 769
+  orig: 713, 777
+  offset: 20, 1
+  index: -1
+body
+  rotate: false
+  xy: 10, 2812
+  size: 1601, 960
+  orig: 1601, 960
+  offset: 0, 0
+  index: -1
+ef2_2
+  rotate: true
+  xy: 769, 762
+  size: 615, 659
+  orig: 649, 682
+  offset: 29, 3
+  index: -1
+ef3_2
+  rotate: true
+  xy: 1636, 1942
+  size: 504, 461
+  orig: 529, 546
+  offset: 5, 3
+  index: -1
+ef4_1
+  rotate: true
+  xy: 796, 1942
+  size: 654, 830
+  orig: 678, 867
+  offset: 3, 32
+  index: -1
+hair_back
+  rotate: 180
+  xy: 200, 2388
+  size: 881, 1019
+  orig: 881, 1019
+  offset: 0, 0
+  index: -1
+hair_back2
+  rotate: 180
+  xy: 1522, 11
+  size: 509, 543
+  orig: 509, 543
+  offset: 0, 0
+  index: -1
+kaze1
+  rotate: false
+  xy: 10, 1035
+  size: 749, 640
+  orig: 790, 678
+  offset: 40, 37
+  index: -1
+kaze2
+  rotate: true
+  xy: 1438, 564
+  size: 693, 498
+  orig: 742, 527
+  offset: 40, 9
+  index: -1
+kiseki_3_1
+  rotate: true
+  xy: 1621, 2606
+  size: 813, 402
+  orig: 877, 475
+  offset: 45, 23
+  index: -1
+particle_L
+  rotate: false
+  xy: 10, 295
+  size: 806, 457
+  orig: 820, 471
+  offset: 7, 7
+  index: -1
+skirt_back
+  rotate: 180
+  xy: 10, 21
+  size: 1643, 534
+  orig: 1643, 534
+  offset: 0, 0
+  index: -1
+sword_eff_1
+  rotate: false
+  xy: 789, 1387
+  size: 919, 545
+  orig: 1988, 1148
+  offset: 29, 128
+  index: -1

@@ -1,0 +1,425 @@
+
+T_CharaEvolveImagepl08_060_01.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 20, 2716
+  size: 2224, 1356
+  orig: 2320, 1480
+  offset: 75, 19
+  index: -1
+c_armL
+  rotate: true
+  xy: 2847, 2754
+  size: 522, 409
+  orig: 524, 411
+  offset: 1, 1
+  index: -1
+c_armR
+  rotate: true
+  xy: 1322, 76
+  size: 161, 374
+  orig: 163, 376
+  offset: 1, 1
+  index: -1
+c_eye1
+  rotate: false
+  xy: 488, 116
+  size: 216, 121
+  orig: 218, 123
+  offset: 1, 1
+  index: -1
+c_eye2
+  rotate: false
+  xy: 2126, 469
+  size: 216, 121
+  orig: 218, 123
+  offset: 1, 1
+  index: -1
+c_eye3
+  rotate: false
+  xy: 2464, 472
+  size: 216, 118
+  orig: 218, 120
+  offset: 1, 1
+  index: -1
+c_hairB_ribbon
+  rotate: false
+  xy: 3927, 471
+  size: 120, 137
+  orig: 120, 137
+  offset: 0, 0
+  index: -1
+c_hairR
+  rotate: true
+  xy: 20, 20
+  size: 217, 841
+  orig: 217, 841
+  offset: 0, 0
+  index: -1
+c_heirF_acce2
+  rotate: false
+  xy: 3927, 801
+  size: 137, 208
+  orig: 137, 208
+  offset: 0, 0
+  index: -1
+c_heirF_acce3
+  rotate: true
+  xy: 114, 59
+  size: 55, 88
+  orig: 55, 88
+  offset: 0, 0
+  index: -1
+c_heirF_acce4
+  rotate: false
+  xy: 3927, 613
+  size: 137, 208
+  orig: 137, 208
+  offset: 0, 0
+  index: -1
+c_legL
+  rotate: false
+  xy: 2264, 2764
+  size: 563, 512
+  orig: 565, 514
+  offset: 1, 1
+  index: -1
+c_waist_acce
+  rotate: false
+  xy: 2481, 60
+  size: 362, 138
+  orig: 364, 140
+  offset: 1, 1
+  index: -1
+eff_particle1
+  rotate: false
+  xy: 2059, 80
+  size: 402, 124
+  orig: 405, 128
+  offset: 2, 1
+  index: -1
+eff_particle11
+  rotate: false
+  xy: 3927, 1029
+  size: 86, 185
+  orig: 88, 187
+  offset: 1, 1
+  index: -1
+eff_particle2
+  rotate: true
+  xy: 3896, 2986
+  size: 290, 168
+  orig: 304, 170
+  offset: 7, 1
+  index: -1
+eff_particle3
+  rotate: false
+  xy: 2700, 448
+  size: 126, 142
+  orig: 128, 145
+  offset: 1, 1
+  index: -1
+eff_particle4
+  rotate: false
+  xy: 3896, 2629
+  size: 108, 337
+  orig: 114, 339
+  offset: 1, 1
+  index: -1
+eff_particle6
+  rotate: true
+  xy: 3896, 2233
+  size: 341, 147
+  orig: 364, 162
+  offset: 1, 14
+  index: -1
+eff_particle7
+  rotate: true
+  xy: 3927, 1234
+  size: 156, 125
+  orig: 162, 166
+  offset: 4, 40
+  index: -1
+eff_particle8
+  rotate: false
+  xy: 1716, 60
+  size: 323, 177
+  orig: 380, 182
+  offset: 56, 1
+  index: -1
+eff_particle9
+  rotate: false
+  xy: 881, 78
+  size: 421, 159
+  orig: 424, 205
+  offset: 1, 45
+  index: -1
+eff_particleB
+  rotate: false
+  xy: 2362, 528
+  size: 54, 62
+  orig: 64, 69
+  offset: 5, 5
+  index: -1
+eff_sikaku1
+  rotate: false
+  xy: 20, 58
+  size: 74, 75
+  orig: 79, 80
+  offset: 4, 4
+  index: -1
+eff_sikaku2
+  rotate: false
+  xy: 367, 158
+  size: 86, 79
+  orig: 89, 87
+  offset: 2, 4
+  index: -1
+eff_sun1
+  rotate: false
+  xy: 2264, 3296
+  size: 1759, 776
+  orig: 1761, 847
+  offset: 1, 70
+  index: -1
+eff_sun2
+  rotate: false
+  xy: 3277, 302
+  size: 630, 994
+  orig: 634, 996
+  offset: 1, 1
+  index: -1
+eff_sunlight1
+  rotate: false
+  xy: 3430, 38
+  size: 517, 244
+  orig: 564, 273
+  offset: 1, 28
+  index: -1
+eff_sunlight2
+  rotate: true
+  xy: 3277, 1410
+  size: 803, 735
+  orig: 831, 774
+  offset: 1, 38
+  index: -1
+eff_wave_jo
+  rotate: false
+  xy: 2126, 35
+  size: 1284, 555
+  orig: 1284, 555
+  offset: 0, 0
+  index: -1
+eff_wave_jo2
+  rotate: false
+  xy: 20, 257
+  size: 2086, 1132
+  orig: 2086, 1132
+  offset: 0, 0
+  index: -1
+eff_wave_scr1
+  rotate: false
+  xy: 20, 1409
+  size: 2086, 1287
+  orig: 2086, 1287
+  offset: 0, 0
+  index: -1
+eff_wave_scr2
+  rotate: true
+  xy: 2126, 610
+  size: 2086, 1131
+  orig: 2086, 1131
+  offset: 0, 0
+  index: -1
+eff_wave_scr4
+  rotate: true
+  xy: 3277, 2233
+  size: 1043, 599
+  orig: 1043, 599
+  offset: 0, 0
+  index: -1
+
+T_CharaEvolveImagepl08_060_012.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_body
+  rotate: false
+  xy: 20, 3426
+  size: 597, 650
+  orig: 599, 652
+  offset: 1, 1
+  index: -1
+c_body2
+  rotate: false
+  xy: 2975, 3677
+  size: 307, 399
+  orig: 307, 399
+  offset: 0, 0
+  index: -1
+c_cloth2
+  rotate: false
+  xy: 637, 3313
+  size: 489, 356
+  orig: 489, 356
+  offset: 0, 0
+  index: -1
+c_crothB
+  rotate: true
+  xy: 3640, 3217
+  size: 297, 436
+  orig: 297, 436
+  offset: 0, 0
+  index: -1
+c_face
+  rotate: false
+  xy: 3587, 3780
+  size: 272, 296
+  orig: 274, 298
+  offset: 1, 1
+  index: -1
+c_hairB
+  rotate: true
+  xy: 3601, 3517
+  size: 437, 475
+  orig: 437, 475
+  offset: 0, 0
+  index: -1
+c_hairB2
+  rotate: 180
+  xy: 2748, 3322
+  size: 395, 352
+  orig: 395, 352
+  offset: 0, 0
+  index: -1
+c_hairB3
+  rotate: false
+  xy: 598, 3222
+  size: 169, 282
+  orig: 169, 282
+  offset: 0, 0
+  index: -1
+c_hairF
+  rotate: 270
+  xy: 2421, 3277
+  size: 269, 296
+  orig: 269, 296
+  offset: 0, 0
+  index: -1
+c_hairF2
+  rotate: true
+  xy: 1976, 3247
+  size: 182, 564
+  orig: 182, 564
+  offset: 0, 0
+  index: -1
+c_hairL
+  rotate: true
+  xy: 2953, 3237
+  size: 288, 408
+  orig: 288, 408
+  offset: 0, 0
+  index: -1
+c_heirF_acce
+  rotate: false
+  xy: 20, 3250
+  size: 210, 156
+  orig: 212, 158
+  offset: 1, 1
+  index: -1
+c_heirF_acce1
+  rotate: false
+  xy: 839, 3925
+  size: 167, 151
+  orig: 169, 153
+  offset: 1, 1
+  index: -1
+c_legR
+  rotate: true
+  xy: 1718, 3606
+  size: 470, 449
+  orig: 472, 451
+  offset: 1, 1
+  index: -1
+c_waist
+  rotate: false
+  xy: 3245, 3503
+  size: 313, 241
+  orig: 315, 243
+  offset: 1, 1
+  index: -1
+c_waist_cloth
+  rotate: 270
+  xy: 2543, 3562
+  size: 514, 418
+  orig: 514, 418
+  offset: 0, 0
+  index: -1
+eff_maru1
+  rotate: false
+  xy: 2187, 3712
+  size: 344, 364
+  orig: 347, 373
+  offset: 2, 7
+  index: -1
+eff_maru2
+  rotate: false
+  xy: 1146, 3305
+  size: 233, 232
+  orig: 238, 235
+  offset: 1, 2
+  index: -1
+eff_maru3
+  rotate: false
+  xy: 1718, 3348
+  size: 238, 238
+  orig: 270, 274
+  offset: 31, 1
+  index: -1
+eff_maru4
+  rotate: true
+  xy: 3302, 3764
+  size: 312, 265
+  orig: 314, 268
+  offset: 1, 1
+  index: -1
+eff_particle10
+  rotate: false
+  xy: 637, 3837
+  size: 182, 239
+  orig: 185, 242
+  offset: 2, 2
+  index: -1
+eff_particle12
+  rotate: false
+  xy: 1399, 3314
+  size: 227, 223
+  orig: 229, 225
+  offset: 1, 1
+  index: -1
+eff_particle5
+  rotate: true
+  xy: 2187, 3452
+  size: 240, 303
+  orig: 243, 307
+  offset: 2, 3
+  index: -1
+eff_wave_scr3
+  rotate: false
+  xy: 637, 3557
+  size: 1061, 519
+  orig: 1061, 519
+  offset: 0, 0
+  index: -1
+effkira1
+  rotate: false
+  xy: 3578, 3339
+  size: 239, 228
+  orig: 244, 234
+  offset: 2, 3
+  index: -1

@@ -1,0 +1,138 @@
+
+Card_Large_sk1202022_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm
+  rotate: false
+  xy: 3724, 1452
+  size: 308, 612
+  orig: 308, 612
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 2535, 777
+  size: 228, 79
+  orig: 231, 79
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 2793, 805
+  size: 197, 51
+  orig: 197, 51
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 1993, 714
+  size: 139, 365
+  orig: 139, 365
+  offset: 0, 0
+  index: -1
+hair_front2
+  rotate: true
+  xy: 2352, 656
+  size: 200, 323
+  orig: 200, 323
+  offset: 0, 0
+  index: -1
+hair_sideL
+  rotate: false
+  xy: 3704, 813
+  size: 237, 609
+  orig: 237, 609
+  offset: 0, 0
+  index: -1
+hair_sideR
+  rotate: 180
+  xy: 3935, 890
+  size: 130, 496
+  orig: 130, 496
+  offset: 0, 0
+  index: -1
+kira3
+  rotate: true
+  xy: 1993, 886
+  size: 1178, 1701
+  orig: 1186, 1708
+  offset: 4, 3
+  index: -1
+kira4
+  rotate: true
+  xy: 30, 806
+  size: 1258, 1933
+  orig: 1262, 1940
+  offset: 0, 4
+  index: -1
+light1_k
+  rotate: false
+  xy: 30, 2094
+  size: 1294, 1972
+  orig: 1294, 1972
+  offset: 0, 0
+  index: -1
+light2_k
+  rotate: false
+  xy: 1354, 2094
+  size: 1294, 1972
+  orig: 1294, 1972
+  offset: 0, 0
+  index: -1
+light3_k
+  rotate: false
+  xy: 2678, 2094
+  size: 1294, 1972
+  orig: 1294, 1972
+  offset: 0, 0
+  index: -1
+
+Card_Large_sk1202022_SSR2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 30, 2214
+  size: 1090, 1766
+  orig: 1090, 1766
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2145, 2257
+  size: 1290, 1723
+  orig: 1290, 1723
+  offset: 0, 0
+  index: -1
+kira1
+  rotate: true
+  xy: 2145, 1259
+  size: 968, 1835
+  orig: 975, 1841
+  offset: 3, 4
+  index: -1
+kira2
+  rotate: false
+  xy: 1150, 2105
+  size: 965, 1875
+  orig: 972, 1883
+  offset: 3, 4
+  index: -1
+monitor
+  rotate: true
+  xy: 1088, 1182
+  size: 893, 1014
+  orig: 896, 1017
+  offset: 2, 1
+  index: -1
+monitor_s
+  rotate: true
+  xy: 30, 1278
+  size: 906, 1028
+  orig: 920, 1043
+  offset: 3, 13
+  index: -1

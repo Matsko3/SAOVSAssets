@@ -1,0 +1,180 @@
+
+Card_Large_sk1202054_SSR.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+alice_accessory
+  rotate: true
+  xy: 3565, 1461
+  size: 544, 404
+  orig: 546, 406
+  offset: 1, 1
+  index: -1
+alice_bang
+  rotate: false
+  xy: 3695, 1137
+  size: 333, 300
+  orig: 333, 300
+  offset: 0, 0
+  index: -1
+alice_body
+  rotate: true
+  xy: 1977, 1227
+  size: 778, 1558
+  orig: 780, 1560
+  offset: 1, 1
+  index: -1
+alice_eye1
+  rotate: false
+  xy: 3731, 1004
+  size: 264, 103
+  orig: 266, 105
+  offset: 1, 1
+  index: -1
+alice_eye2
+  rotate: true
+  xy: 3185, 48
+  size: 255, 83
+  orig: 257, 85
+  offset: 1, 1
+  index: -1
+alice_eye3
+  rotate: false
+  xy: 1977, 2048
+  size: 244, 55
+  orig: 246, 57
+  offset: 1, 1
+  index: -1
+alice_face
+  rotate: false
+  xy: 30, 2133
+  size: 2387, 1917
+  orig: 2389, 1919
+  offset: 1, 1
+  index: -1
+alice_hand
+  rotate: true
+  xy: 3029, 31
+  size: 854, 1013
+  orig: 854, 1013
+  offset: 0, 0
+  index: -1
+alice_side_hair1
+  rotate: true
+  xy: 817, 39
+  size: 220, 1361
+  orig: 220, 1361
+  offset: 0, 0
+  index: -1
+asuna_hand2_1
+  rotate: true
+  xy: 2922, 191
+  size: 122, 233
+  orig: 124, 235
+  offset: 1, 1
+  index: -1
+bg1
+  rotate: true
+  xy: 30, 796
+  size: 1307, 1917
+  orig: 1307, 1917
+  offset: 0, 0
+  index: -1
+bg_0
+  rotate: false
+  xy: 30, 34
+  size: 757, 228
+  orig: 759, 1725
+  offset: 1, 1496
+  index: -1
+bg_1
+  rotate: true
+  xy: 1977, 817
+  size: 380, 1724
+  orig: 759, 1725
+  offset: 127, 1
+  index: -1
+bg_3
+  rotate: false
+  xy: 30, 292
+  size: 2387, 474
+  orig: 2389, 476
+  offset: 1, 1
+  index: -1
+ef1
+  rotate: true
+  xy: 2447, 2035
+  size: 2015, 1590
+  orig: 2146, 1748
+  offset: 130, 157
+  index: -1
+ef4
+  rotate: false
+  xy: 2922, 521
+  size: 267, 266
+  orig: 299, 301
+  offset: 20, 24
+  index: -1
+ef5
+  rotate: true
+  xy: 2447, 90
+  size: 697, 445
+  orig: 705, 705
+  offset: 4, 256
+  index: -1
+
+Card_Large_sk1202054_SSR2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+alice_side_hair2
+  rotate: false
+  xy: 519, 611
+  size: 475, 1316
+  orig: 475, 1316
+  offset: 0, 0
+  index: -1
+asuna_hand2_2
+  rotate: 270
+  xy: 1554, 420
+  size: 523, 1107
+  orig: 523, 1107
+  offset: 0, 0
+  index: -1
+bg_1_p
+  rotate: 270
+  xy: 953, 1855
+  size: 759, 1725
+  orig: 759, 1725
+  offset: 0, 0
+  index: -1
+bg_1_r
+  rotate: 270
+  xy: 715, 1289
+  size: 759, 1725
+  orig: 759, 1725
+  offset: 0, 0
+  index: -1
+bg_1_w
+  rotate: 270
+  xy: 977, 814
+  size: 759, 1725
+  orig: 759, 1725
+  offset: 0, 0
+  index: -1
+bg_1_y
+  rotate: false
+  xy: 30, 591
+  size: 759, 1725
+  orig: 759, 1725
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 30, 2346
+  size: 2387, 357
+  orig: 2389, 359
+  offset: 1, 1
+  index: -1
